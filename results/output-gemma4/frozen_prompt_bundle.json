@@ -1,0 +1,100 @@
+{
+  "bundle_version": 1,
+  "created_at_utc": "2026-08-12T22:27:13Z",
+  "model_id": "google/gemma-4-12B-it",
+  "requested_model_revision": "main",
+  "resolved_model_revision": "707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7",
+  "precision": "auto_bf16_fp16",
+  "quantization": "none",
+  "manifest_path": "/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/metadata.csv",
+  "manifest_hash": "143d7b555e4b91b62f64e26431943e9ec36681187a7eb52ab9be4ccb32e1e791",
+  "manifest_n": 30,
+  "promptset_hash": "a415dc0228f86e06332ae64d3a625f0003ed9ae51e6297c172fdd863520a970a",
+  "selection_rule": {
+    "L0": "Fixed minimal control.",
+    "L1": "Lowest failure rate, corpus WER, corpus CER, then hallucination-proxy rate.",
+    "L2": "Lowest failure rate, corpus WER, corpus CER, then hallucination-proxy rate.",
+    "L3": "Selected L2 prompt with one fixed clean development exemplar.",
+    "L4": "Selected L2 prompt with fixed clean, code-switched, and noisy development exemplars.",
+    "bootstrap_role": "Diagnostic stability analysis only."
+  },
+  "normalization_rules": {
+    "unicode": "NFC",
+    "latin_case": "lowercase",
+    "remove_punctuation": true,
+    "remove_decimal_digits": true,
+    "preserve_devanagari": true,
+    "preserve_latin": true,
+    "collapse_whitespace": true
+  },
+  "selected_levels": {
+    "L0": {
+      "prompt_id": "L0_a",
+      "prompt_family": "minimal_control",
+      "prompt_text": "Transcribe the following speech segment in its original language. Only output the transcription.",
+      "prompt_hash": "9638eac5dcb19d2df01248e7c843367eedd141115fa844ceb0e66e66fd5ca906",
+      "shot_count": 0,
+      "shot_ids": []
+    },
+    "L1": {
+      "prompt_id": "L1_b",
+      "prompt_family": "structured_instruction",
+      "prompt_text": "Task: verbatim Nepali speech transcription.\nLanguage: Nepali (Devanagari script).\nTranscribe exactly what is spoken. Do not translate. Output only the transcription.",
+      "prompt_hash": "90140043971620d1f647d8479139bcce48c2e3079c86e8a5530c894c4b5c8315",
+      "shot_count": 0,
+      "shot_ids": []
+    },
+    "L2": {
+      "prompt_id": "L2_b",
+      "prompt_family": "linguistic_rules",
+      "prompt_text": "You are a verbatim transcription system for Nepali speech.\nRules:\n1. Write Nepali in Devanagari.\n2. Write English words in Latin script.\n3. Preserve Nepali-English code-switching in the spoken order.\n4. Do not translate.\n5. Keep fillers, repetitions, corrections, false starts, and incomplete words.\n6. Do not correct grammar or normalize wording.\n7. Do not guess inaudible words.\n8. Add no timestamps, speaker labels, explanations, or confidence scores.\n9. Output only the transcription.\n10. Write spoken numbers as Nepali words, not digits.",
+      "prompt_hash": "6fe608b8973d86f985c53419657b50e905207f4a0e0756e432c38f76d4f8630a",
+      "shot_count": 0,
+      "shot_ids": []
+    },
+    "L3": {
+      "prompt_id": "L3_a",
+      "prompt_family": "1shot_from_L2_b",
+      "prompt_text": "You are a verbatim transcription system for Nepali speech.\nRules:\n1. Write Nepali in Devanagari.\n2. Write English words in Latin script.\n3. Preserve Nepali-English code-switching in the spoken order.\n4. Do not translate.\n5. Keep fillers, repetitions, corrections, false starts, and incomplete words.\n6. Do not correct grammar or normalize wording.\n7. Do not guess inaudible words.\n8. Add no timestamps, speaker labels, explanations, or confidence scores.\n9. Output only the transcription.\n10. Write spoken numbers as Nepali words, not digits.",
+      "prompt_hash": "79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23",
+      "shot_count": 1,
+      "shot_ids": [
+        "clean:audio/clean_slr143_002_577615770e.wav"
+      ]
+    },
+    "L4": {
+      "prompt_id": "L4_a",
+      "prompt_family": "3shot_from_L2_b",
+      "prompt_text": "You are a verbatim transcription system for Nepali speech.\nRules:\n1. Write Nepali in Devanagari.\n2. Write English words in Latin script.\n3. Preserve Nepali-English code-switching in the spoken order.\n4. Do not translate.\n5. Keep fillers, repetitions, corrections, false starts, and incomplete words.\n6. Do not correct grammar or normalize wording.\n7. Do not guess inaudible words.\n8. Add no timestamps, speaker labels, explanations, or confidence scores.\n9. Output only the transcription.\n10. Write spoken numbers as Nepali words, not digits.",
+      "prompt_hash": "6027e161f133e998121068df1b7d47b93cc922ac370847c14a27d26963f2b516",
+      "shot_count": 3,
+      "shot_ids": [
+        "clean:audio/clean_slr143_002_577615770e.wav",
+        "codeswitched:audio/codeswitched_fleurs_061_a99e8c435b61.wav",
+        "noisy:audio/noisy_noisy_031_common_voice_009_8de382dd93_noise_10db.wav"
+      ]
+    }
+  },
+  "fewshot_exemplars": {
+    "clean": {
+      "sample_id": "clean:audio/clean_slr143_002_577615770e.wav",
+      "speech_condition": "clean",
+      "duration_sec": 7.5,
+      "transcript": "त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।"
+    },
+    "codeswitched": {
+      "sample_id": "codeswitched:audio/codeswitched_fleurs_061_a99e8c435b61.wav",
+      "speech_condition": "codeswitched",
+      "duration_sec": 10.56,
+      "transcript": "nasa को शटल कार्यक्रम प्रमुख n. wayne hale jr.ले  हाम्रो चिन्ताको समयपछि फोम खस्कियो”भने।"
+    },
+    "noisy": {
+      "sample_id": "noisy:audio/noisy_noisy_031_common_voice_009_8de382dd93_noise_10db.wav",
+      "speech_condition": "noisy",
+      "duration_sec": 6.84,
+      "transcript": "कति मेसेज मात्रै हेरोस बिचराले,यसो भिडियो हेरेर मुड फ्रेश बनावोस भनेर ।"
+    }
+  },
+  "evaluation_note": "Prompt development only. Few-shot exemplars are excluded from all cross-level comparisons. Final benchmark data must remain unseen.",
+  "hallucination_note": "Hallucination proxy is a heuristic diagnostic based on excessive length, insertions, meta-response behavior, or repetition."
+}

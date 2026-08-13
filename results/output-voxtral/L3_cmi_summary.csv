@@ -1,0 +1,4 @@
+prompt_id,cmi_band,n_expected,n_scored,coverage,failure_rate,empty_output_rate,corpus_wer,corpus_cer,macro_utterance_wer,median_utterance_wer,macro_utterance_cer,hallucination_proxy_rate,rejection_rate,meta_response_rate,script_presence_match_rate,mean_output_reference_word_ratio,mean_inference_seconds,total_ref_words,total_word_edits
+L3_a,heavy,2,2,1.0,0.0,0.0,0.4666666666666667,0.2610294117647059,0.4666666666666667,0.4666666666666667,0.2551510782723614,0.0,0.0,0.0,0.5,0.8666499999999999,8.471,45,21
+L3_a,light,4,4,1.0,0.0,0.0,0.47368421052631576,0.2222222222222222,0.5375,0.45,0.2756935138032699,0.0,0.0,0.0,0.25,0.9074,8.761750000000001,76,36
+L3_a,moderate,3,3,1.0,0.0,0.0,0.5357142857142857,0.20105820105820105,0.6011904761904762,0.42857142857142855,0.2580808080808081,0.0,0.0,0.0,0.0,1.0079333333333333,7.455333333333333,28,15

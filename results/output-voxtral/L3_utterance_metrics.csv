@@ -1,0 +1,325 @@
+model_id,requested_model_revision,resolved_model_revision,sample_id,utterance_id,prompt_id,prompt_level,prompt_family,prompt_hash,prompt_text,shot_count,shot_sample_ids,audio_path,speech_condition,reference_original,reference_dataset_normalized,reference_normalized,status,raw_output,cleaned_prediction,prediction_normalized,generated_tokens,inference_seconds,error_type,error_message,timestamp,dataset_type,original_file,source,duration,duration_sec,duration_bin,metric_status,wer,cer,word_hits,word_substitutions,word_deletions,word_insertions,ref_words,word_edits,char_hits,char_substitutions,char_deletions,char_insertions,ref_chars,char_edits,hyp_words,output_reference_word_ratio,insertion_rate,rejection_flag,meta_response_flag,repetition_flag,hallucination_proxy_flag,hallucination_proxy_reason,reference_has_devanagari,reference_has_latin,hypothesis_has_devanagari,hypothesis_has_latin,script_presence_match,noise_type,snr_db,cmi,cmi_band
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,clean:audio/clean_fleurs_017_4db1aa09ef.wav,audio/clean_fleurs_017_4db1aa09ef.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_fleurs_017_4db1aa09ef.wav,clean,यस क्षेत्रका बारे कूटनीतिक बहसले आर्मेनिया र अजरबैजान बीचको सम्बन्धलाई निरन्तर रूपमा क्षति पुर्याएको छ,यस क्षेत्रका बारे कूटनीतिक बहसले आर्मेनिया र अजरबैजान बीचको सम्बन्धलाई निरन्तर रूपमा क्षति पुर्याएको छ,यस क्षेत्रका बारे कूटनीतिक बहसले आर्मेनिया र अजरबैजान बीचको सम्बन्धलाई निरन्तर रूपमा क्षति पुर्याएको छ,success,इस क्षेत्रको बारे कूटनीतिक बहसले आर्मेनिया र अजरबैजान बीचको समन्वयलाई निरंतर रूपमा छाती पुरायो छ।,इस क्षेत्रको बारे कूटनीतिक बहसले आर्मेनिया र अजरबैजान बीचको समन्वयलाई निरंतर रूपमा छाती पुरायो छ।,इस क्षेत्रको बारे कूटनीतिक बहसले आर्मेनिया र अजरबैजान बीचको समन्वयलाई निरंतर रूपमा छाती पुरायो छ,42,8.067,,,2026-08-12T21:55:24.019381,clean,fleurs_017_4db1aa09ef.wav,fleurs,10.2,10.2,8-12,ok,0.4,0.1568627450980392,9,6,0,0,15,6,87,8,7,1,102,16,15,1.0,0.0,False,False,False,False,,True,False,True,False,True,,,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,clean:audio/clean_slr54_023_6d0fbfb62f.wav,audio/clean_slr54_023_6d0fbfb62f.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_slr54_023_6d0fbfb62f.wav,clean,संविधानसभामा प्रमुखता साथ,संविधानसभामा प्रमुखता साथ,संविधानसभामा प्रमुखता साथ,success,सम्बिदान सभामा प्रमोक्ता हात,सम्बिदान सभामा प्रमोक्ता हात,सम्बिदान सभामा प्रमोक्ता हात,14,6.491,,,2026-08-12T21:55:32.087431,clean,slr54_023_6d0fbfb62f.wav,slr54,3.7,3.7,3-5,ok,1.3333333333333333,0.4,0,3,0,1,3,4,18,7,0,3,25,10,4,1.3333,0.3333,False,False,False,False,,True,False,True,False,True,,,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,clean:audio/clean_slr43_007_abf4cda1d0.wav,audio/clean_slr43_007_abf4cda1d0.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_slr43_007_abf4cda1d0.wav,clean,सिन्धुलीमा कमलामाई तथा गाईघाटमा त्रियुगा जस्ता नगरपालिका भएको यस उपत्यकामा कटारी घुर्मी भिमान लगायतका बजारसमेत छन्,सिन्धुलीमा कमलामाई तथा गाईघाटमा त्रियुगा जस्ता नगरपालिका भएको यस उपत्यकामा कटारी घुर्मी भिमान लगायतका बजारसमेत छन्,सिन्धुलीमा कमलामाई तथा गाईघाटमा त्रियुगा जस्ता नगरपालिका भएको यस उपत्यकामा कटारी घुर्मी भिमान लगायतका बजारसमेत छन्,success,"सिन्धुलीमा कमला माई तथा गाईघाटमा त्रियुगा जैस्ता नगरपालिका भएको यस उपत्यका मा कटारी, घुर्मी, भिमान लगायत बाजार समेछन।","सिन्धुलीमा कमला माई तथा गाईघाटमा त्रियुगा जैस्ता नगरपालिका भएको यस उपत्यका मा कटारी, घुर्मी, भिमान लगायत बाजार समेछन।",सिन्धुलीमा कमला माई तथा गाईघाटमा त्रियुगा जैस्ता नगरपालिका भएको यस उपत्यका मा कटारी घुर्मी भिमान लगायत बाजार समेछन,61,9.06,,,2026-08-12T21:55:38.580210,clean,slr43_007_abf4cda1d0.wav,slr43,12.162688,12.162688,12-15,ok,0.5,0.08771929824561403,10,6,0,2,16,8,109,0,5,5,114,10,18,1.125,0.125,False,False,False,False,,True,False,True,False,True,,,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,clean:audio/clean_common_voice_014_28ed6f5044.wav,audio/clean_common_voice_014_28ed6f5044.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_common_voice_014_28ed6f5044.wav,clean,बिश्वकप ट्रफी त पनौती हो की के हो?,बिश्वकप ट्रफी त पनौती हो की के हो,बिश्वकप ट्रफी त पनौती हो की के हो,success,विश्व कप ट्राफी तपनोति हो कि के हो,विश्व कप ट्राफी तपनोति हो कि के हो,विश्व कप ट्राफी तपनोति हो कि के हो,16,6.642,,,2026-08-12T21:55:47.641250,clean,common_voice_014_28ed6f5044.wav,common_voice,4.176,4.176,3-5,ok,0.625,0.21212121212121213,3,5,0,0,8,5,28,4,1,2,33,7,8,1.0,0.0,False,False,False,False,,True,False,True,False,True,,,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,clean:audio/clean_fleurs_052_6507befbb7.wav,audio/clean_fleurs_052_6507befbb7.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_fleurs_052_6507befbb7.wav,clean,एक हजार बर्षभन्दा भन्दा बढी देखि नै चर्चको केन्द्रीय अधिकार रोममा रहेको थियो र शक्ति र पैसाको एकिकरणले गर्दा धेरैलाई यो प्रश्न गर्न उक्सायो कि के यदि यो सिद्धान्त पूरा भइरहेको छ,एक हजार बर्षभन्दा भन्दा बढी देखि नै चर्चको केन्द्रीय अधिकार रोममा रहेको थियो र शक्ति र पैसाको एकिकरणले गर्दा धेरैलाई यो प्रश्न गर्न उक्सायो कि के यदि यो सिद्धान्त पूरा भइरहेको छ,एक हजार बर्षभन्दा भन्दा बढी देखि नै चर्चको केन्द्रीय अधिकार रोममा रहेको थियो र शक्ति र पैसाको एकिकरणले गर्दा धेरैलाई यो प्रश्न गर्न उक्सायो कि के यदि यो सिद्धान्त पूरा भइरहेको छ,success,एक हजार वर्ष बढी देखि नै चर्चको केंद्री अधिकार रोममा रहेको थियो र शक्ति र पैसेको एकिकरणले धेरैलाई यो प्रश्न गर्न उकसायो कि के यदि यो सितान्त पूरा भइरहेको छ?,एक हजार वर्ष बढी देखि नै चर्चको केंद्री अधिकार रोममा रहेको थियो र शक्ति र पैसेको एकिकरणले धेरैलाई यो प्रश्न गर्न उकसायो कि के यदि यो सितान्त पूरा भइरहेको छ?,एक हजार वर्ष बढी देखि नै चर्चको केंद्री अधिकार रोममा रहेको थियो र शक्ति र पैसेको एकिकरणले धेरैलाई यो प्रश्न गर्न उकसायो कि के यदि यो सितान्त पूरा भइरहेको छ,68,9.559,,,2026-08-12T21:55:54.284384,clean,fleurs_052_6507befbb7.wav,fleurs,14.1,14.1,12-15,ok,0.21875,0.14689265536723164,25,5,2,0,32,7,151,4,22,0,177,26,30,0.9375,0.0,False,False,False,False,,True,False,True,False,True,,,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,clean:audio/clean_slr54_029_def41e18d7.wav,audio/clean_slr54_029_def41e18d7.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_slr54_029_def41e18d7.wav,clean,गराएका अन्तर्राष्ट्रिय श्रमसङ्गठनका,गराएका अन्तर्राष्ट्रिय श्रमसङ्गठनका,गराएका अन्तर्राष्ट्रिय श्रमसङ्गठनका,success,गराएका अन्तर्राष्ट्रिय श्रम संगठनका,गराएका अन्तर्राष्ट्रिय श्रम संगठनका,गराएका अन्तर्राष्ट्रिय श्रम संगठनका,16,6.649,,,2026-08-12T21:56:03.844965,clean,slr54_029_def41e18d7.wav,slr54,5.8,5.8,5-8,ok,0.6666666666666666,0.08571428571428572,2,1,0,1,3,2,33,1,1,1,35,3,4,1.3333,0.3333,False,False,False,False,,True,False,True,False,True,,,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,clean:audio/clean_slr43_002_88524b17d9.wav,audio/clean_slr43_002_88524b17d9.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_slr43_002_88524b17d9.wav,clean,रोजमेरी किचन र कफी पसलको वार्षिक आम्दानी सोचेभन्दा निकै बढी भएकाले साझेदारहरूलाई थप सेयर प्रदान गरेको छ,रोजमेरी किचन र कफी पसलको वार्षिक आम्दानी सोचेभन्दा निकै बढी भएकाले साझेदारहरूलाई थप सेयर प्रदान गरेको छ,रोजमेरी किचन र कफी पसलको वार्षिक आम्दानी सोचेभन्दा निकै बढी भएकाले साझेदारहरूलाई थप सेयर प्रदान गरेको छ,success,रोजमेरी किचन र कफी पसलको बाढी कामदानी सोचे बन्दा निकै बढेका कारण सहेदारहरूलाई थप शेयर प्रदान गरीको छ।,रोजमेरी किचन र कफी पसलको बाढी कामदानी सोचे बन्दा निकै बढेका कारण सहेदारहरूलाई थप शेयर प्रदान गरीको छ।,रोजमेरी किचन र कफी पसलको बाढी कामदानी सोचे बन्दा निकै बढेका कारण सहेदारहरूलाई थप शेयर प्रदान गरीको छ,52,8.646,,,2026-08-12T21:56:10.494968,clean,slr43_002_88524b17d9.wav,slr43,8.945313,8.945313,8-12,ok,0.5294117647058824,0.1941747572815534,9,8,0,1,17,9,84,15,4,1,103,20,18,1.0588,0.0588,False,False,False,False,,True,False,True,False,True,,,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,clean:audio/clean_slr143_012_bbd8cc71ed.wav,audio/clean_slr143_012_bbd8cc71ed.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_slr143_012_bbd8cc71ed.wav,clean,"उसले बैनीलाई राखेर भन्यो- बैनी, तिमीले पढ्नु पनि पर्छ ।",उसले बैनीलाई राखेर भन्यो बैनी तिमीले पढ्नु पनि पर्छ,उसले बैनीलाई राखेर भन्यो बैनी तिमीले पढ्नु पनि पर्छ,success,"उसले बानीलाई राखेर भन्छ, बानी, तिमीले पर्नु पर्ने छ।","उसले बानीलाई राखेर भन्छ, बानी, तिमीले पर्नु पर्ने छ।",उसले बानीलाई राखेर भन्छ बानी तिमीले पर्नु पर्ने छ,28,7.365,,,2026-08-12T21:56:19.142173,clean,slr143_012_bbd8cc71ed.wav,slr143,5.184063,5.184063,5-8,ok,0.6666666666666666,0.21568627450980393,3,6,0,0,9,6,42,5,4,2,51,11,9,1.0,0.0,False,False,False,False,,True,False,True,False,True,,,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,clean:audio/clean_common_voice_003_34ea2908fc.wav,audio/clean_common_voice_003_34ea2908fc.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_common_voice_003_34ea2908fc.wav,clean,कुन फिलिम हेर्दै हुनुहुन्छ रोशन दाइ?,कुन फिलिम हेर्दै हुनुहुन्छ रोशन दाइ,कुन फिलिम हेर्दै हुनुहुन्छ रोशन दाइ,success,कुन फ्री मेरो दे उननसारो सन्दै?,कुन फ्री मेरो दे उननसारो सन्दै?,कुन फ्री मेरो दे उननसारो सन्दै,18,6.826,,,2026-08-12T21:56:26.508407,clean,common_voice_003_34ea2908fc.wav,common_voice,3.78,3.78,3-5,ok,0.8333333333333334,0.6,1,5,0,0,6,5,16,12,7,2,35,21,6,1.0,0.0,False,False,False,False,,True,False,True,False,True,,,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,noisy:audio/noisy_noisy_096_fleurs_023_92e4868cb8_noise_15db.wav,audio/noisy_noisy_096_fleurs_023_92e4868cb8_noise_15db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_096_fleurs_023_92e4868cb8_noise_15db.wav,noisy,दुर्घटना स्थल आज पहिचान गरिएको थियो तर त्यहाँ पुग्न यति कठिन छ कि घटनास्थलसम्म हिँडेर जान र बचेकाहरूको खोजी गर्न भनेर दुई जना पुलिसलाई जङ्गलमा झारियो,दुर्घटना स्थल आज पहिचान गरिएको थियो तर त्यहाँ पुग्न यति कठिन छ कि घटनास्थलसम्म हिँडेर जान र बचेकाहरूको खोजी गर्न भनेर दुई जना पुलिसलाई जङ्गलमा झारियो,दुर्घटना स्थल आज पहिचान गरिएको थियो तर त्यहाँ पुग्न यति कठिन छ कि घटनास्थलसम्म हिँडेर जान र बचेकाहरूको खोजी गर्न भनेर दुई जना पुलिसलाई जङ्गलमा झारियो,success,जुरगत्ना स्थल आज पहिचान गरिएको थियो तर तहाँ पुग्ने इतनी कठिन छ कि गत्ना स्थलसम्म हिडेर जान र बचेका व्यक्तिहरूलाई खोज्ने लिए दो व्यक्तिहरू पुलिसलाई जंगलमा झारिएको थियो।,जुरगत्ना स्थल आज पहिचान गरिएको थियो तर तहाँ पुग्ने इतनी कठिन छ कि गत्ना स्थलसम्म हिडेर जान र बचेका व्यक्तिहरूलाई खोज्ने लिए दो व्यक्तिहरू पुलिसलाई जंगलमा झारिएको थियो।,जुरगत्ना स्थल आज पहिचान गरिएको थियो तर तहाँ पुग्ने इतनी कठिन छ कि गत्ना स्थलसम्म हिडेर जान र बचेका व्यक्तिहरूलाई खोज्ने लिए दो व्यक्तिहरू पुलिसलाई जंगलमा झारिएको थियो,73,9.811,,,2026-08-12T21:56:33.335634,noisy,audio/noisy_096_fleurs_023_92e4868cb8_noise_15db.wav,fleurs,12.42,12.42,12-15,ok,0.6153846153846154,0.3624161073825503,12,14,0,2,26,16,116,29,4,21,149,54,28,1.0769,0.0769,False,False,False,False,,True,False,True,False,True,noise,15.0,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,noisy:audio/noisy_noisy_044_common_voice_046_b12475e582_music_10db.wav,audio/noisy_noisy_044_common_voice_046_b12475e582_music_10db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_044_common_voice_046_b12475e582_music_10db.wav,noisy,नगरपालिकासँग मिलेर कुनै दलालले पहिला उनीहरूको योजनामा सपना जोड्यो ।,नगरपालिकासँग मिलेर कुनै दलालले पहिला उनीहरूको योजनामा सपना जोड्यो,नगरपालिकासँग मिलेर कुनै दलालले पहिला उनीहरूको योजनामा सपना जोड्यो,success,नगरपालिका संग मिलेर कुनै तालाले बाहि लाग्ने अरूको योजनामा सपना जोड्यो।,नगरपालिका संग मिलेर कुनै तालाले बाहि लाग्ने अरूको योजनामा सपना जोड्यो।,नगरपालिका संग मिलेर कुनै तालाले बाहि लाग्ने अरूको योजनामा सपना जोड्यो,32,7.489,,,2026-08-12T21:56:43.147984,noisy,audio/noisy_044_common_voice_046_b12475e582_music_10db.wav,common_voice,5.292,5.292,5-8,ok,0.6666666666666666,0.2,5,4,0,2,9,6,57,7,1,5,65,13,11,1.2222,0.2222,False,False,False,False,,True,False,True,False,True,music,10.0,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,noisy:audio/noisy_noisy_189_slr54_034_f4934e6107_noise_5db.wav,audio/noisy_noisy_189_slr54_034_f4934e6107_noise_5db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_189_slr54_034_f4934e6107_noise_5db.wav,noisy,पिनेर पिठो बनाइन्छ,पिनेर पिठो बनाइन्छ,पिनेर पिठो बनाइन्छ,success,पिनेर पितु बनाइन्छ।,पिनेर पितु बनाइन्छ।,पिनेर पितु बनाइन्छ,12,6.404,,,2026-08-12T21:56:50.638732,noisy,audio/noisy_189_slr54_034_f4934e6107_noise_5db.wav,slr54,3.0,3.0,3-5,ok,0.3333333333333333,0.1111111111111111,2,1,0,0,3,1,16,2,0,0,18,2,3,1.0,0.0,False,False,False,False,,True,False,True,False,True,noise,5.0,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,noisy:audio/noisy_noisy_123_slr143_004_6b61f4b681_babble_10db.wav,audio/noisy_noisy_123_slr143_004_6b61f4b681_babble_10db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_123_slr143_004_6b61f4b681_babble_10db.wav,noisy,"अनि भैलो खेलेबापत घरमूलीले श्रद्धाले दिएका सेल, रुपैयाँ आदि लिई उनीहरू रमाउँछन्।",अनि भैलो खेलेबापत घरमूलीले श्रद्धाले दिएका सेल रुपैयाँ आदि लिई उनीहरू रमाउँछन्,अनि भैलो खेलेबापत घरमूलीले श्रद्धाले दिएका सेल रुपैयाँ आदि लिई उनीहरू रमाउँछन्,success,"अन्यो भयलो खेलले बापत घरमोलीले श्राद्दाले दिएको सिल, रुपया आदिले उनीहरो रमाउँछन्।","अन्यो भयलो खेलले बापत घरमोलीले श्राद्दाले दिएको सिल, रुपया आदिले उनीहरो रमाउँछन्।",अन्यो भयलो खेलले बापत घरमोलीले श्राद्दाले दिएको सिल रुपया आदिले उनीहरो रमाउँछन्,42,8.054,,,2026-08-12T21:56:57.044447,noisy,audio/noisy_123_slr143_004_6b61f4b681_babble_10db.wav,slr143,8.064063,8.064063,8-12,ok,0.9166666666666666,0.21794871794871795,1,11,0,0,12,11,66,8,4,5,78,17,12,1.0,0.0,False,False,False,False,,True,False,True,False,True,babble,10.0,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,noisy:audio/noisy_noisy_142_slr43_025_d00cb654e4_music_5db.wav,audio/noisy_noisy_142_slr43_025_d00cb654e4_music_5db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_142_slr43_025_d00cb654e4_music_5db.wav,noisy,उन्नाइस सय सतासीमा कोलम्बियाली फुटबल व्यावसायिकको पहिलो श्रेणी,उन्नाइस सय सतासीमा कोलम्बियाली फुटबल व्यावसायिकको पहिलो श्रेणी,उन्नाइस सय सतासीमा कोलम्बियाली फुटबल व्यावसायिकको पहिलो श्रेणी,success,उनैसस सातासिमा कोलम्बियाली पूर्ववर्ती व्यवसायीको पहिलो स्टडी,उनैसस सातासिमा कोलम्बियाली पूर्ववर्ती व्यवसायीको पहिलो स्टडी,उनैसस सातासिमा कोलम्बियाली पूर्ववर्ती व्यवसायीको पहिलो स्टडी,29,7.391,,,2026-08-12T21:57:05.100162,noisy,audio/noisy_142_slr43_025_d00cb654e4_music_5db.wav,slr43,4.741688,4.741688,3-5,ok,0.75,0.4032258064516129,2,5,1,0,8,6,42,13,7,5,62,25,7,0.875,0.0,False,False,False,False,,True,False,True,False,True,music,5.0,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,noisy:audio/noisy_noisy_135_slr143_024_4b4d8903ce_babble_15db.wav,audio/noisy_noisy_135_slr143_024_4b4d8903ce_babble_15db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_135_slr143_024_4b4d8903ce_babble_15db.wav,noisy,"आदि प्रमुख पत्रिकाहरू छन्, यीमध्ये गोरखापत्र नेपालको सबभन्दा पुरानो पत्रिका हो, पत्रपत्रिका पढ्दा धेरै फाइदा हुने भए तापनि हामीले समयको वास्तै नगरी यसमा एकोहोरिएर लाग्दैन, ।",आदि प्रमुख पत्रिकाहरू छन् यीमध्ये गोरखापत्र नेपालको सबभन्दा पुरानो पत्रिका हो पत्रपत्रिका पढ्दा धेरै फाइदा हुने भए तापनि हामीले समयको वास्तै नगरी यसमा एकोहोरिएर लाग्दैन,आदि प्रमुख पत्रिकाहरू छन् यीमध्ये गोरखापत्र नेपालको सबभन्दा पुरानो पत्रिका हो पत्रपत्रिका पढ्दा धेरै फाइदा हुने भए तापनि हामीले समयको वास्तै नगरी यसमा एकोहोरिएर लाग्दैन,success,आदि प्रमुख पत्रिकाहरू छन्। इमध्ये गोरखा पत्र नैपालको सबैभन्दा पुरानो पत्रिका हो। पत्र पढ्दा धेरै फाइदा हुने भएता पनि हामीले समयको वास्ते नगरी इसमा एकोरी एरा लाग्दैन।,आदि प्रमुख पत्रिकाहरू छन्। इमध्ये गोरखा पत्र नैपालको सबैभन्दा पुरानो पत्रिका हो। पत्र पढ्दा धेरै फाइदा हुने भएता पनि हामीले समयको वास्ते नगरी इसमा एकोरी एरा लाग्दैन।,आदि प्रमुख पत्रिकाहरू छन् इमध्ये गोरखा पत्र नैपालको सबैभन्दा पुरानो पत्रिका हो पत्र पढ्दा धेरै फाइदा हुने भएता पनि हामीले समयको वास्ते नगरी इसमा एकोरी एरा लाग्दैन,77,10.047,,,2026-08-12T21:57:12.492283,noisy,audio/noisy_135_slr143_024_4b4d8903ce_babble_15db.wav,slr143,12.91025,12.91025,12-15,ok,0.48,0.125,15,10,0,2,25,12,151,7,10,4,168,21,27,1.08,0.08,False,False,False,False,,True,False,True,False,True,babble,15.0,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,noisy:audio/noisy_noisy_085_fleurs_060_b10bfb7620_music_15db.wav,audio/noisy_noisy_085_fleurs_060_b10bfb7620_music_15db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_085_fleurs_060_b10bfb7620_music_15db.wav,noisy,वास्तवमा त्यहाँ सिक्नका लागि एउटा पनि राम्रो कुरा छैन सिकाइ सिक्ने र प्रस्तुत गरिएको ज्ञानको बीचको अनुभवमा हुने गर्दछ,वास्तवमा त्यहाँ सिक्नका लागि एउटा पनि राम्रो कुरा छैन सिकाइ सिक्ने र प्रस्तुत गरिएको ज्ञानको बीचको अनुभवमा हुने गर्दछ,वास्तवमा त्यहाँ सिक्नका लागि एउटा पनि राम्रो कुरा छैन सिकाइ सिक्ने र प्रस्तुत गरिएको ज्ञानको बीचको अनुभवमा हुने गर्दछ,success,बास्तबमा तहाँ सिक्ना कला लागि एक पनि राम्रो कुरा छैन। सिकाई सिक्ने र प्रस्तुत गरिएको ज्ञानको बीचमा हुने गरद्दा छ।,बास्तबमा तहाँ सिक्ना कला लागि एक पनि राम्रो कुरा छैन। सिकाई सिक्ने र प्रस्तुत गरिएको ज्ञानको बीचमा हुने गरद्दा छ।,बास्तबमा तहाँ सिक्ना कला लागि एक पनि राम्रो कुरा छैन सिकाई सिक्ने र प्रस्तुत गरिएको ज्ञानको बीचमा हुने गरद्दा छ,53,8.748,,,2026-08-12T21:57:22.541042,noisy,audio/noisy_085_fleurs_060_b10bfb7620_music_15db.wav,fleurs,11.52,11.52,8-12,ok,0.5263157894736842,0.18803418803418803,10,9,0,1,19,10,101,4,12,6,117,22,20,1.0526,0.0526,False,False,False,False,,True,False,True,False,True,music,15.0,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,noisy:audio/noisy_noisy_144_slr43_003_9baf7e0966_noise_5db.wav,audio/noisy_noisy_144_slr43_003_9baf7e0966_noise_5db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_144_slr43_003_9baf7e0966_noise_5db.wav,noisy,उसले पहिले सिभिएस केयरमार्कमा काम गरेका थिए भने पछि अर्को कम्पनीमा काम गर्न सुरु गरे,उसले पहिले सिभिएस केयरमार्कमा काम गरेका थिए भने पछि अर्को कम्पनीमा काम गर्न सुरु गरे,उसले पहिले सिभिएस केयरमार्कमा काम गरेका थिए भने पछि अर्को कम्पनीमा काम गर्न सुरु गरे,success,उहाँले पहिले सीवेस गेर मार्कमा काम गर्नुभएको थियो र पछि कम्पनीमा काम गर्न शुरू गर्नुभयो।,उहाँले पहिले सीवेस गेर मार्कमा काम गर्नुभएको थियो र पछि कम्पनीमा काम गर्न शुरू गर्नुभयो।,उहाँले पहिले सीवेस गेर मार्कमा काम गर्नुभएको थियो र पछि कम्पनीमा काम गर्न शुरू गर्नुभयो,40,7.978,,,2026-08-12T21:57:31.289977,noisy,audio/noisy_144_slr43_003_9baf7e0966_noise_5db.wav,slr43,5.241688,5.241688,5-8,ok,0.6666666666666666,0.4166666666666667,6,8,1,1,15,10,61,14,9,12,84,35,15,1.0,0.0667,False,False,False,False,,True,False,True,False,True,noise,5.0,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,noisy:audio/noisy_noisy_182_slr54_025_1dbf9c8fcc_babble_15db.wav,audio/noisy_noisy_182_slr54_025_1dbf9c8fcc_babble_15db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_182_slr54_025_1dbf9c8fcc_babble_15db.wav,noisy,निबन्ध साहित्यको इतिहास,निबन्ध साहित्यको इतिहास,निबन्ध साहित्यको इतिहास,success,निबन्देको साहित्यको इतिहास,निबन्देको साहित्यको इतिहास,निबन्देको साहित्यको इतिहास,9,6.337,,,2026-08-12T21:57:39.269569,noisy,audio/noisy_182_slr54_025_1dbf9c8fcc_babble_15db.wav,slr54,5.0,5.0,3-5,ok,0.3333333333333333,0.17391304347826086,2,1,0,0,3,1,22,1,0,3,23,4,3,1.0,0.0,False,False,False,False,,True,False,True,False,True,babble,15.0,,
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,codeswitched:audio/codeswitched_fleurs_029_0e7e943417b2.wav,audio/codeswitched_fleurs_029_0e7e943417b2.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_029_0e7e943417b2.wav,codeswitched,देशले acta मा हस्ताक्षर गर्नाले गत महिना पोल्यान्डमा ठूलो विरोध प्रदर्शन भएको थियो जसले गर्दा पोलिस सरकारले अहिलेका लागि सम्झौतालाई अनुमोदन नगर्ने निर्णय गरेको थियो,देशले acta मा हस्ताक्षर गर्नाले गत महिना पोल्यान्डमा ठूलो विरोध प्रदर्शन भएको थियो जसले गर्दा पोलिस सरकारले अहिलेका लागि सम्झौतालाई अनुमोदन नगर्ने निर्णय गरेको थियो,देशले acta मा हस्ताक्षर गर्नाले गत महिना पोल्यान्डमा ठूलो विरोध प्रदर्शन भएको थियो जसले गर्दा पोलिस सरकारले अहिलेका लागि सम्झौतालाई अनुमोदन नगर्ने निर्णय गरेको थियो,success,देशले ACTA मा हस्तक्षेप गर्नाले गता महीना पोलान्डमा ठूला विरोध प्रदर्शन भएको थियो जसले गर्दा पुलिस सरकारले अहिलेगा लागि संजोतालाई अनुमति नगर्ने निर्णय गरेको छ।,देशले ACTA मा हस्तक्षेप गर्नाले गता महीना पोलान्डमा ठूला विरोध प्रदर्शन भएको थियो जसले गर्दा पुलिस सरकारले अहिलेगा लागि संजोतालाई अनुमति नगर्ने निर्णय गरेको छ।,देशले acta मा हस्तक्षेप गर्नाले गता महीना पोलान्डमा ठूला विरोध प्रदर्शन भएको थियो जसले गर्दा पुलिस सरकारले अहिलेगा लागि संजोतालाई अनुमति नगर्ने निर्णय गरेको छ,70,9.62,,,2026-08-12T21:57:45.607453,codeswitched,fleurs_029_0e7e943417b2.wav,fleurs,10.98,10.98,8-12,ok,0.4,0.12804878048780488,15,10,0,0,25,10,145,11,8,2,164,21,25,1.0,0.0,False,False,False,False,,True,True,True,True,True,,,4.0,light
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,codeswitched:audio/codeswitched_slr54_001_fa707cb25a4a.wav,audio/codeswitched_slr54_001_fa707cb25a4a.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_slr54_001_fa707cb25a4a.wav,codeswitched,आम क्यान्सरहरूको लागि अङ्ग्रेजी नामको प्रयोग गरिन्छ।facebook,आम क्यान्सरहरूको लागि अङ्ग्रेजी नामको प्रयोग गरिन्छ facebook,आम क्यान्सरहरूको लागि अङ्ग्रेजी नामको प्रयोग गरिन्छ facebook,success,आम कैंसरहरुको लागि अंग्रेजी नामको प्रयोग गरिन्छ फेसबुक,आम कैंसरहरुको लागि अंग्रेजी नामको प्रयोग गरिन्छ फेसबुक,आम कैंसरहरुको लागि अंग्रेजी नामको प्रयोग गरिन्छ फेसबुक,24,7.126,,,2026-08-12T21:57:55.228975,codeswitched,slr54_001_fa707cb25a4a.wav,slr54,8.0,8.0,5-8,ok,0.375,0.26666666666666666,5,3,0,0,8,3,44,10,6,0,60,16,8,1.0,0.0,False,False,False,False,,True,True,True,False,False,,,12.5,moderate
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,codeswitched:audio/codeswitched_fleurs_098_9c6397153f42.wav,audio/codeswitched_fleurs_098_9c6397153f42.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_098_9c6397153f42.wav,codeswitched,साओ पाउलो são paulo का पूर्व मेयर मार्ता सुप्लिसी marta suplicyले मूल कानूनको मस्यौदा तयार पारेका थिए। प्रस्तावित कानून परिमार्जन पछि अब रोबर्टो जेफरसन roberto jefferson को हातमा छ।,साओ पाउलो s o paulo का पूर्व मेयर मार्ता सुप्लिसी marta suplicyले मूल कानूनको मस्यौदा तयार पारेका थिए प्रस्तावित कानून परिमार्जन पछि अब रोबर्टो जेफरसन roberto jefferson को हातमा छ,साओ पाउलो s o paulo का पूर्व मेयर मार्ता सुप्लिसी marta suplicyले मूल कानूनको मस्यौदा तयार पारेका थिए प्रस्तावित कानून परिमार्जन पछि अब रोबर्टो जेफरसन roberto jefferson को हातमा छ,success,साओ पाउला का पूर्व मेयर मार्ता सुप्रेसीले मूल कानुनको मस्यवदा तयार पारेका थिए। प्रस्तावित कानुन परिमार्जन पछि अब रोबर्टो जेफरसनको हातमा छ।,साओ पाउला का पूर्व मेयर मार्ता सुप्रेसीले मूल कानुनको मस्यवदा तयार पारेका थिए। प्रस्तावित कानुन परिमार्जन पछि अब रोबर्टो जेफरसनको हातमा छ।,साओ पाउला का पूर्व मेयर मार्ता सुप्रेसीले मूल कानुनको मस्यवदा तयार पारेका थिए प्रस्तावित कानुन परिमार्जन पछि अब रोबर्टो जेफरसनको हातमा छ,63,9.247,,,2026-08-12T21:58:02.355824,codeswitched,fleurs_098_9c6397153f42.wav,fleurs,12.12,12.12,12-15,ok,0.4666666666666667,0.2737430167597765,16,6,8,0,30,14,130,6,43,0,179,49,22,0.7333,0.0,False,False,False,False,,True,True,True,False,False,,,23.33,heavy
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,codeswitched:audio/codeswitched_fleurs_002_4f69b2e029d0.wav,audio/codeswitched_fleurs_002_4f69b2e029d0.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_002_4f69b2e029d0.wav,codeswitched,उनले wifi ढोकाको घण्टी बनाएको भने,उनले wifi ढोकाको घण्टी बनाएको भने,उनले wifi ढोकाको घण्टी बनाएको भने,success,उनले वाई फाई ढोका गंटी बनाएका बने।,उनले वाई फाई ढोका गंटी बनाएका बने।,उनले वाई फाई ढोका गंटी बनाएका बने,20,6.883,,,2026-08-12T21:58:11.603968,codeswitched,fleurs_002_4f69b2e029d0.wav,fleurs,4.8,4.8,3-5,ok,1.0,0.42424242424242425,1,5,0,1,6,6,22,8,3,3,33,14,7,1.1667,0.1667,False,False,False,False,,True,True,True,False,False,,,16.67,moderate
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,codeswitched:audio/codeswitched_fleurs_008_42c79fd6668e.wav,audio/codeswitched_fleurs_008_42c79fd6668e.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_008_42c79fd6668e.wav,codeswitched,यसभन्दा पहिले चिनियाँ समाचार एजेन्सी xinhuaले एउटा विमान हाइज्याक भएको खबर गरे।,यसभन्दा पहिले चिनियाँ समाचार एजेन्सी xinhuaले एउटा विमान हाइज्याक भएको खबर गरे,यसभन्दा पहिले चिनियाँ समाचार एजेन्सी xinhuaले एउटा विमान हाइज्याक भएको खबर गरे,success,यस बन्दा पहिले चीनिया समाचार एजेन्सी सिनुआटले एकटा विमान हाइजैक भएको खबर गरे।,यस बन्दा पहिले चीनिया समाचार एजेन्सी सिनुआटले एकटा विमान हाइजैक भएको खबर गरे।,यस बन्दा पहिले चीनिया समाचार एजेन्सी सिनुआटले एकटा विमान हाइजैक भएको खबर गरे,39,7.895,,,2026-08-12T21:58:18.488045,codeswitched,fleurs_008_42c79fd6668e.wav,fleurs,6.72,6.72,5-8,ok,0.5,0.1794871794871795,7,5,0,1,12,6,65,10,3,1,78,14,13,1.0833,0.0833,False,False,False,False,,True,True,True,False,False,,,8.33,light
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,codeswitched:audio/codeswitched_fleurs_094_8dac24da86b4.wav,audio/codeswitched_fleurs_094_8dac24da86b4.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_094_8dac24da86b4.wav,codeswitched,प्रायः तपाईंले ग्लोबल नम्बर छुट्टै किन्नु पर्छ जसले pstn फोनहरूलाई तपाईंलाई फोन गर्न अनुमति दिन्छ नम्बर कहाँबाट हो भन्ने कुराले तपाईंलाई फोन गर्ने मान्छेहरूका लागि फरक पार्दछ,प्रायः तपाईंले ग्लोबल नम्बर छुट्टै किन्नु पर्छ जसले pstn फोनहरूलाई तपाईंलाई फोन गर्न अनुमति दिन्छ नम्बर कहाँबाट हो भन्ने कुराले तपाईंलाई फोन गर्ने मान्छेहरूका लागि फरक पार्दछ,प्रायः तपाईंले ग्लोबल नम्बर छुट्टै किन्नु पर्छ जसले pstn फोनहरूलाई तपाईंलाई फोन गर्न अनुमति दिन्छ नम्बर कहाँबाट हो भन्ने कुराले तपाईंलाई फोन गर्ने मान्छेहरूका लागि फरक पार्दछ,success,प्रायः तपाईले ग्लोबल नम्बर छुट्टै खरीद्नु पर्छ जसले पीएसटीएन फोनरलाई तपाईलाई फोन गर्न अनुमति दिन्छ। नम्बर कहाँबाट हो भन्ने कुरालाई तपाईलाई फोन गर्ने मानिसहरले फरक पार्दछ।,प्रायः तपाईले ग्लोबल नम्बर छुट्टै खरीद्नु पर्छ जसले पीएसटीएन फोनरलाई तपाईलाई फोन गर्न अनुमति दिन्छ। नम्बर कहाँबाट हो भन्ने कुरालाई तपाईलाई फोन गर्ने मानिसहरले फरक पार्दछ।,प्रायः तपाईले ग्लोबल नम्बर छुट्टै खरीद्नु पर्छ जसले पीएसटीएन फोनरलाई तपाईलाई फोन गर्न अनुमति दिन्छ नम्बर कहाँबाट हो भन्ने कुरालाई तपाईलाई फोन गर्ने मानिसहरले फरक पार्दछ,87,10.55,,,2026-08-12T21:58:26.384512,codeswitched,fleurs_094_8dac24da86b4.wav,fleurs,12.6,12.6,12-15,ok,0.3333333333333333,0.16666666666666666,18,8,1,0,27,9,151,11,12,6,174,29,26,0.963,0.0,False,False,False,False,,True,True,True,False,False,,,3.7,light
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,codeswitched:audio/codeswitched_fleurs_037_3d26600b00e6.wav,audio/codeswitched_fleurs_037_3d26600b00e6.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_037_3d26600b00e6.wav,codeswitched,फिलिपिन्सको विजयमा u.s को साम्राज्यवादको युद्धको खर्च फिलिपिन्सका मानिसहरूले स्वयं नै तिरेका थिए।,फिलिपिन्सको विजयमा u s को साम्राज्यवादको युद्धको खर्च फिलिपिन्सका मानिसहरूले स्वयं नै तिरेका थिए,फिलिपिन्सको विजयमा u s को साम्राज्यवादको युद्धको खर्च फिलिपिन्सका मानिसहरूले स्वयं नै तिरेका थिए,success,फिलिपिन्सको विजयमा यूएसको सम्राज्यवादको युद्धको खर्च फिलिपिन्सका मानिसहरूलाई स्वयम नै तिरेका थिए।,फिलिपिन्सको विजयमा यूएसको सम्राज्यवादको युद्धको खर्च फिलिपिन्सका मानिसहरूलाई स्वयम नै तिरेका थिए।,फिलिपिन्सको विजयमा यूएसको सम्राज्यवादको युद्धको खर्च फिलिपिन्सका मानिसहरूलाई स्वयम नै तिरेका थिए,47,8.357,,,2026-08-12T21:58:36.935832,codeswitched,fleurs_037_3d26600b00e6.wav,fleurs,8.64,8.64,8-12,ok,0.42857142857142855,0.08333333333333333,8,4,2,0,14,6,89,6,1,1,96,8,12,0.8571,0.0,False,False,False,False,,True,True,True,False,False,,,14.29,moderate
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,codeswitched:audio/codeswitched_fleurs_081_0a944aa343e7.wav,audio/codeswitched_fleurs_081_0a944aa343e7.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_081_0a944aa343e7.wav,codeswitched,यो henry louis gates को अफ्रिकी विश्वको pbs विशेष आश्चर्यको समयमा प्रमुख स्टपहरूमध्ये एक थियो,यो henry louis gates को अफ्रिकी विश्वको pbs विशेष आश्चर्यको समयमा प्रमुख स्टपहरूमध्ये एक थियो,यो henry louis gates को अफ्रिकी विश्वको pbs विशेष आश्चर्यको समयमा प्रमुख स्टपहरूमध्ये एक थियो,success,यो हेनरी लुईस गेटको अफ्रिकी विश्वको PBS विशेष आजसरीको समयमा प्रमुख स्टपहर मध्ये एक थियो।,यो हेनरी लुईस गेटको अफ्रिकी विश्वको PBS विशेष आजसरीको समयमा प्रमुख स्टपहर मध्ये एक थियो।,यो हेनरी लुईस गेटको अफ्रिकी विश्वको pbs विशेष आजसरीको समयमा प्रमुख स्टपहर मध्ये एक थियो,35,7.695,,,2026-08-12T21:58:45.293951,codeswitched,fleurs_081_0a944aa343e7.wav,fleurs,15.0,15.0,12-15,ok,0.4666666666666667,0.23655913978494625,9,5,1,1,15,7,71,16,6,0,93,22,15,1.0,0.0667,False,False,False,False,,True,True,True,True,True,,,26.67,heavy
+mistralai/Voxtral-Mini-3B-2507,main,3060fe34b35ba5d44202ce9ff3c097642914f8f3,codeswitched:audio/codeswitched_fleurs_001_42df59cb78c7.wav,audio/codeswitched_fleurs_001_42df59cb78c7.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_001_42df59cb78c7.wav,codeswitched,मार्टेलीले नौ सदस्यीय नयाँ अस्थायी निर्वाचन परिषद् cep मा हिजो शपथ लिए।,मार्टेलीले नौ सदस्यीय नयाँ अस्थायी निर्वाचन परिषद् cep मा हिजो शपथ लिए,मार्टेलीले नौ सदस्यीय नयाँ अस्थायी निर्वाचन परिषद् cep मा हिजो शपथ लिए,success,माटिन नाउ इसताई निर्वाचन सीपीमा इजु सबतले,माटिन नाउ इसताई निर्वाचन सीपीमा इजु सबतले,माटिन नाउ इसताई निर्वाचन सीपीमा इजु सबतले,22,6.982,,,2026-08-12T21:58:52.990848,codeswitched,fleurs_001_42df59cb78c7.wav,fleurs,4.56,4.56,3-5,ok,0.9166666666666666,0.6285714285714286,1,6,5,0,12,11,26,15,29,0,70,44,7,0.5833,0.0,False,False,False,False,,True,True,True,False,False,,,8.33,light

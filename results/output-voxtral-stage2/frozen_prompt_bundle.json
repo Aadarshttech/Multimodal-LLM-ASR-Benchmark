@@ -1,0 +1,100 @@
+{
+  "bundle_version": 1,
+  "created_at_utc": "2026-08-13T17:51:17Z",
+  "model_id": "mistralai/Voxtral-Mini-3B-2507",
+  "requested_model_revision": "main",
+  "resolved_model_revision": "3060fe34b35ba5d44202ce9ff3c097642914f8f3",
+  "precision": "auto_bf16_fp16",
+  "quantization": "none",
+  "manifest_path": "/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage2/metadata.csv",
+  "manifest_hash": "fbb4aad809815b8356007b2018c1db165c58b1d9936e2111fff443a794a20fc0",
+  "manifest_n": 60,
+  "promptset_hash": "a415dc0228f86e06332ae64d3a625f0003ed9ae51e6297c172fdd863520a970a",
+  "selection_rule": {
+    "L0": "Fixed minimal control.",
+    "L1": "Lowest failure rate, corpus WER, corpus CER, then hallucination-proxy rate.",
+    "L2": "Lowest failure rate, corpus WER, corpus CER, then hallucination-proxy rate.",
+    "L3": "Selected L2 prompt with one fixed clean development exemplar.",
+    "L4": "Selected L2 prompt with fixed clean, code-switched, and noisy development exemplars.",
+    "bootstrap_role": "Diagnostic stability analysis only."
+  },
+  "normalization_rules": {
+    "unicode": "NFC",
+    "latin_case": "lowercase",
+    "remove_punctuation": true,
+    "remove_decimal_digits": true,
+    "preserve_devanagari": true,
+    "preserve_latin": true,
+    "collapse_whitespace": true
+  },
+  "selected_levels": {
+    "L0": {
+      "prompt_id": "L0_a",
+      "prompt_family": "minimal_control",
+      "prompt_text": "Transcribe the following speech segment in its original language. Only output the transcription.",
+      "prompt_hash": "9638eac5dcb19d2df01248e7c843367eedd141115fa844ceb0e66e66fd5ca906",
+      "shot_count": 0,
+      "shot_ids": []
+    },
+    "L1": {
+      "prompt_id": "L1_a",
+      "prompt_family": "plain_instruction",
+      "prompt_text": "You are a speech transcription system. Transcribe the following Nepali audio into Nepali text using Devanagari script. Produce a verbatim transcription. Do not translate. Return only the transcription, nothing else.",
+      "prompt_hash": "2b888ddda7917baf9e2bc9c825461b0bd3d26c001bd6d476af6f3897deefed16",
+      "shot_count": 0,
+      "shot_ids": []
+    },
+    "L2": {
+      "prompt_id": "L2_b",
+      "prompt_family": "linguistic_rules",
+      "prompt_text": "You are a verbatim transcription system for Nepali speech.\nRules:\n1. Write Nepali in Devanagari.\n2. Write English words in Latin script.\n3. Preserve Nepali-English code-switching in the spoken order.\n4. Do not translate.\n5. Keep fillers, repetitions, corrections, false starts, and incomplete words.\n6. Do not correct grammar or normalize wording.\n7. Do not guess inaudible words.\n8. Add no timestamps, speaker labels, explanations, or confidence scores.\n9. Output only the transcription.\n10. Write spoken numbers as Nepali words, not digits.",
+      "prompt_hash": "6fe608b8973d86f985c53419657b50e905207f4a0e0756e432c38f76d4f8630a",
+      "shot_count": 0,
+      "shot_ids": []
+    },
+    "L3": {
+      "prompt_id": "L3_a",
+      "prompt_family": "1shot_from_L2_b",
+      "prompt_text": "You are a verbatim transcription system for Nepali speech.\nRules:\n1. Write Nepali in Devanagari.\n2. Write English words in Latin script.\n3. Preserve Nepali-English code-switching in the spoken order.\n4. Do not translate.\n5. Keep fillers, repetitions, corrections, false starts, and incomplete words.\n6. Do not correct grammar or normalize wording.\n7. Do not guess inaudible words.\n8. Add no timestamps, speaker labels, explanations, or confidence scores.\n9. Output only the transcription.\n10. Write spoken numbers as Nepali words, not digits.",
+      "prompt_hash": "39efba52f11be7a3d95daa7d3c71d1b520ad37db3c5b57328d1644b25023e0e1",
+      "shot_count": 1,
+      "shot_ids": [
+        "clean:audio/clean_slr43_005_5b5463b34a.wav"
+      ]
+    },
+    "L4": {
+      "prompt_id": "L4_a",
+      "prompt_family": "3shot_from_L2_b",
+      "prompt_text": "You are a verbatim transcription system for Nepali speech.\nRules:\n1. Write Nepali in Devanagari.\n2. Write English words in Latin script.\n3. Preserve Nepali-English code-switching in the spoken order.\n4. Do not translate.\n5. Keep fillers, repetitions, corrections, false starts, and incomplete words.\n6. Do not correct grammar or normalize wording.\n7. Do not guess inaudible words.\n8. Add no timestamps, speaker labels, explanations, or confidence scores.\n9. Output only the transcription.\n10. Write spoken numbers as Nepali words, not digits.",
+      "prompt_hash": "09e138e281bd08c7bfde88cc00267c21bbd15ce5a68569c664c301a41dec1532",
+      "shot_count": 3,
+      "shot_ids": [
+        "clean:audio/clean_slr43_005_5b5463b34a.wav",
+        "codeswitched:audio/codeswitched_fleurs_060_a925234db67b.wav",
+        "noisy:audio/noisy_noisy_054_fleurs_019_e09a181ef7_noise_5db.wav"
+      ]
+    }
+  },
+  "fewshot_exemplars": {
+    "clean": {
+      "sample_id": "clean:audio/clean_slr43_005_5b5463b34a.wav",
+      "speech_condition": "clean",
+      "duration_sec": 8.549313,
+      "transcript": "लक्ष्मीले कलकत्ताकै सेन्ट जेभियर्स कलेजबाट सन् उन्नाइस सय उनान्सत्तरीमा कमर्समा स्नातक गरे"
+    },
+    "codeswitched": {
+      "sample_id": "codeswitched:audio/codeswitched_fleurs_060_a925234db67b.wav",
+      "speech_condition": "codeswitched",
+      "duration_sec": 9.72,
+      "transcript": "कुनै पनि एयरलाइन सङ्गठनले दक्षिणी गोलार्द्धमा सबै तीन महासागरहरू पार गर्ने समेट्दैन र skyteam ले कुनै एउटा पनि पार गर्ने समेट्दैन।"
+    },
+    "noisy": {
+      "sample_id": "noisy:audio/noisy_noisy_054_fleurs_019_e09a181ef7_noise_5db.wav",
+      "speech_condition": "noisy",
+      "duration_sec": 6.12,
+      "transcript": "सिंहहरू सबैभन्दा सामाजिक बिरालाहरू हुन् यिनीहरू प्राइड भनिने ठूला समूहमा बस्छन्"
+    }
+  },
+  "evaluation_note": "Prompt development only. Few-shot exemplars are excluded from all cross-level comparisons. Final benchmark data must remain unseen.",
+  "hallucination_note": "Hallucination proxy is a heuristic diagnostic based on excessive length, insertions, meta-response behavior, or repetition."
+}

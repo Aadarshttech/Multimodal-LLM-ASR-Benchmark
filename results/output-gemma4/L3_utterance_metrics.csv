@@ -1,0 +1,325 @@
+model_id,requested_model_revision,resolved_model_revision,sample_id,utterance_id,prompt_id,prompt_level,prompt_family,prompt_hash,prompt_text,shot_count,shot_sample_ids,audio_path,speech_condition,reference_original,reference_dataset_normalized,reference_normalized,status,raw_output,cleaned_prediction,prediction_normalized,generated_tokens,inference_seconds,error_type,error_message,timestamp,dataset_type,original_file,source,duration,duration_sec,duration_bin,metric_status,wer,cer,word_hits,word_substitutions,word_deletions,word_insertions,ref_words,word_edits,char_hits,char_substitutions,char_deletions,char_insertions,ref_chars,char_edits,hyp_words,output_reference_word_ratio,insertion_rate,rejection_flag,meta_response_flag,repetition_flag,hallucination_proxy_flag,hallucination_proxy_reason,reference_has_devanagari,reference_has_latin,hypothesis_has_devanagari,hypothesis_has_latin,script_presence_match,noise_type,snr_db,cmi,cmi_band
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,clean:audio/clean_fleurs_017_4db1aa09ef.wav,audio/clean_fleurs_017_4db1aa09ef.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_fleurs_017_4db1aa09ef.wav,clean,यस क्षेत्रका बारे कूटनीतिक बहसले आर्मेनिया र अजरबैजान बीचको सम्बन्धलाई निरन्तर रूपमा क्षति पुर्याएको छ,यस क्षेत्रका बारे कूटनीतिक बहसले आर्मेनिया र अजरबैजान बीचको सम्बन्धलाई निरन्तर रूपमा क्षति पुर्याएको छ,यस क्षेत्रका बारे कूटनीतिक बहसले आर्मेनिया र अजरबैजान बीचको सम्बन्धलाई निरन्तर रूपमा क्षति पुर्याएको छ,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,12.48,,,2026-08-12T22:13:47.880630,clean,fleurs_017_4db1aa09ef.wav,fleurs,10.2,10.2,8-12,ok,1.0666666666666667,0.8137254901960784,1,14,0,2,15,16,23,63,16,4,102,83,17,1.1333,0.1333,False,False,False,False,,True,False,True,False,True,,,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,clean:audio/clean_slr54_023_6d0fbfb62f.wav,audio/clean_slr54_023_6d0fbfb62f.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_slr54_023_6d0fbfb62f.wav,clean,संविधानसभामा प्रमुखता साथ,संविधानसभामा प्रमुखता साथ,संविधानसभामा प्रमुखता साथ,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,10.15,,,2026-08-12T22:14:00.362357,clean,slr54_023_6d0fbfb62f.wav,slr54,3.7,3.7,3-5,ok,5.666666666666667,3.08,0,3,0,14,3,17,13,12,0,65,25,77,17,5.6667,4.6667,False,False,False,True,length_ratio>2.5|insertion_rate>1.0,True,False,True,False,True,,,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,clean:audio/clean_slr43_007_abf4cda1d0.wav,audio/clean_slr43_007_abf4cda1d0.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_slr43_007_abf4cda1d0.wav,clean,सिन्धुलीमा कमलामाई तथा गाईघाटमा त्रियुगा जस्ता नगरपालिका भएको यस उपत्यकामा कटारी घुर्मी भिमान लगायतका बजारसमेत छन्,सिन्धुलीमा कमलामाई तथा गाईघाटमा त्रियुगा जस्ता नगरपालिका भएको यस उपत्यकामा कटारी घुर्मी भिमान लगायतका बजारसमेत छन्,सिन्धुलीमा कमलामाई तथा गाईघाटमा त्रियुगा जस्ता नगरपालिका भएको यस उपत्यकामा कटारी घुर्मी भिमान लगायतका बजारसमेत छन्,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,12.772,,,2026-08-12T22:14:10.514045,clean,slr43_007_abf4cda1d0.wav,slr43,12.162688,12.162688,12-15,ok,1.0625,0.7456140350877193,0,16,0,1,16,17,29,61,24,0,114,85,17,1.0625,0.0625,False,False,False,False,,True,False,True,False,True,,,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,clean:audio/clean_common_voice_014_28ed6f5044.wav,audio/clean_common_voice_014_28ed6f5044.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_common_voice_014_28ed6f5044.wav,clean,बिश्वकप ट्रफी त पनौती हो की के हो?,बिश्वकप ट्रफी त पनौती हो की के हो,बिश्वकप ट्रफी त पनौती हो की के हो,success,बिषको कप ट्रफी तपनोति ओकी गियो।,बिषको कप ट्रफी तपनोति ओकी गियो।,बिषको कप ट्रफी तपनोति ओकी गियो,16,7.776,,,2026-08-12T22:14:23.287376,clean,common_voice_014_28ed6f5044.wav,common_voice,4.176,4.176,3-5,ok,1.0,0.42424242424242425,1,4,3,1,8,8,20,9,4,1,33,14,6,0.75,0.125,False,False,False,False,,True,False,True,False,True,,,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,clean:audio/clean_fleurs_052_6507befbb7.wav,audio/clean_fleurs_052_6507befbb7.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_fleurs_052_6507befbb7.wav,clean,एक हजार बर्षभन्दा भन्दा बढी देखि नै चर्चको केन्द्रीय अधिकार रोममा रहेको थियो र शक्ति र पैसाको एकिकरणले गर्दा धेरैलाई यो प्रश्न गर्न उक्सायो कि के यदि यो सिद्धान्त पूरा भइरहेको छ,एक हजार बर्षभन्दा भन्दा बढी देखि नै चर्चको केन्द्रीय अधिकार रोममा रहेको थियो र शक्ति र पैसाको एकिकरणले गर्दा धेरैलाई यो प्रश्न गर्न उक्सायो कि के यदि यो सिद्धान्त पूरा भइरहेको छ,एक हजार बर्षभन्दा भन्दा बढी देखि नै चर्चको केन्द्रीय अधिकार रोममा रहेको थियो र शक्ति र पैसाको एकिकरणले गर्दा धेरैलाई यो प्रश्न गर्न उक्सायो कि के यदि यो सिद्धान्त पूरा भइरहेको छ,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,13.312,,,2026-08-12T22:14:31.064195,clean,fleurs_052_6507befbb7.wav,fleurs,14.1,14.1,12-15,ok,1.0,0.7740112994350282,0,17,15,0,32,32,40,50,87,0,177,137,17,0.5312,0.0,False,False,False,False,,True,False,True,False,True,,,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,clean:audio/clean_slr54_029_def41e18d7.wav,audio/clean_slr54_029_def41e18d7.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_slr54_029_def41e18d7.wav,clean,गराएका अन्तर्राष्ट्रिय श्रमसङ्गठनका,गराएका अन्तर्राष्ट्रिय श्रमसङ्गठनका,गराएका अन्तर्राष्ट्रिय श्रमसङ्गठनका,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,10.801,,,2026-08-12T22:14:44.377884,clean,slr54_029_def41e18d7.wav,slr54,5.8,5.8,5-8,ok,5.666666666666667,2.2,0,3,0,14,3,17,13,22,0,55,35,77,17,5.6667,4.6667,False,False,False,True,length_ratio>2.5|insertion_rate>1.0,True,False,True,False,True,,,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,clean:audio/clean_slr43_002_88524b17d9.wav,audio/clean_slr43_002_88524b17d9.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_slr43_002_88524b17d9.wav,clean,रोजमेरी किचन र कफी पसलको वार्षिक आम्दानी सोचेभन्दा निकै बढी भएकाले साझेदारहरूलाई थप सेयर प्रदान गरेको छ,रोजमेरी किचन र कफी पसलको वार्षिक आम्दानी सोचेभन्दा निकै बढी भएकाले साझेदारहरूलाई थप सेयर प्रदान गरेको छ,रोजमेरी किचन र कफी पसलको वार्षिक आम्दानी सोचेभन्दा निकै बढी भएकाले साझेदारहरूलाई थप सेयर प्रदान गरेको छ,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,11.669,,,2026-08-12T22:14:55.179861,clean,slr43_002_88524b17d9.wav,slr43,8.945313,8.945313,8-12,ok,1.0,0.7378640776699029,0,17,0,0,17,17,32,53,18,5,103,76,17,1.0,0.0,False,False,False,False,,True,False,True,False,True,,,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,clean:audio/clean_slr143_012_bbd8cc71ed.wav,audio/clean_slr143_012_bbd8cc71ed.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_slr143_012_bbd8cc71ed.wav,clean,"उसले बैनीलाई राखेर भन्यो- बैनी, तिमीले पढ्नु पनि पर्छ ।",उसले बैनीलाई राखेर भन्यो बैनी तिमीले पढ्नु पनि पर्छ,उसले बैनीलाई राखेर भन्यो बैनी तिमीले पढ्नु पनि पर्छ,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,10.792,,,2026-08-12T22:15:06.850168,clean,slr143_012_bbd8cc71ed.wav,slr143,5.184063,5.184063,5-8,ok,1.8888888888888888,1.2745098039215685,0,9,0,8,9,17,25,26,0,39,51,65,17,1.8889,0.8889,False,False,False,False,,True,False,True,False,True,,,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,clean:audio/clean_common_voice_003_34ea2908fc.wav,audio/clean_common_voice_003_34ea2908fc.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_common_voice_003_34ea2908fc.wav,clean,कुन फिलिम हेर्दै हुनुहुन्छ रोशन दाइ?,कुन फिलिम हेर्दै हुनुहुन्छ रोशन दाइ,कुन फिलिम हेर्दै हुनुहुन्छ रोशन दाइ,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,10.186,,,2026-08-12T22:15:17.643826,clean,common_voice_003_34ea2908fc.wav,common_voice,3.78,3.78,3-5,ok,2.8333333333333335,2.1714285714285713,0,6,0,11,6,17,14,21,0,55,35,76,17,2.8333,1.8333,False,False,False,True,length_ratio>2.5|insertion_rate>1.0,True,False,True,False,True,,,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,noisy:audio/noisy_noisy_096_fleurs_023_92e4868cb8_noise_15db.wav,audio/noisy_noisy_096_fleurs_023_92e4868cb8_noise_15db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_096_fleurs_023_92e4868cb8_noise_15db.wav,noisy,दुर्घटना स्थल आज पहिचान गरिएको थियो तर त्यहाँ पुग्न यति कठिन छ कि घटनास्थलसम्म हिँडेर जान र बचेकाहरूको खोजी गर्न भनेर दुई जना पुलिसलाई जङ्गलमा झारियो,दुर्घटना स्थल आज पहिचान गरिएको थियो तर त्यहाँ पुग्न यति कठिन छ कि घटनास्थलसम्म हिँडेर जान र बचेकाहरूको खोजी गर्न भनेर दुई जना पुलिसलाई जङ्गलमा झारियो,दुर्घटना स्थल आज पहिचान गरिएको थियो तर त्यहाँ पुग्न यति कठिन छ कि घटनास्थलसम्म हिँडेर जान र बचेकाहरूको खोजी गर्न भनेर दुई जना पुलिसलाई जङ्गलमा झारियो,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,12.754,,,2026-08-12T22:15:27.831354,noisy,audio/noisy_096_fleurs_023_92e4868cb8_noise_15db.wav,fleurs,12.42,12.42,12-15,ok,1.0,0.7516778523489933,0,17,9,0,26,26,39,49,61,2,149,112,17,0.6538,0.0,False,False,False,False,,True,False,True,False,True,noise,15.0,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,noisy:audio/noisy_noisy_044_common_voice_046_b12475e582_music_10db.wav,audio/noisy_noisy_044_common_voice_046_b12475e582_music_10db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_044_common_voice_046_b12475e582_music_10db.wav,noisy,नगरपालिकासँग मिलेर कुनै दलालले पहिला उनीहरूको योजनामा सपना जोड्यो ।,नगरपालिकासँग मिलेर कुनै दलालले पहिला उनीहरूको योजनामा सपना जोड्यो,नगरपालिकासँग मिलेर कुनै दलालले पहिला उनीहरूको योजनामा सपना जोड्यो,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,10.784,,,2026-08-12T22:15:40.586722,noisy,audio/noisy_044_common_voice_046_b12475e582_music_10db.wav,common_voice,5.292,5.292,5-8,ok,1.8888888888888888,1.0769230769230769,0,9,0,8,9,17,21,43,1,26,65,70,17,1.8889,0.8889,False,False,False,False,,True,False,True,False,True,music,10.0,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,noisy:audio/noisy_noisy_189_slr54_034_f4934e6107_noise_5db.wav,audio/noisy_noisy_189_slr54_034_f4934e6107_noise_5db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_189_slr54_034_f4934e6107_noise_5db.wav,noisy,पिनेर पिठो बनाइन्छ,पिनेर पिठो बनाइन्छ,पिनेर पिठो बनाइन्छ,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,10.053,,,2026-08-12T22:15:51.372573,noisy,audio/noisy_189_slr54_034_f4934e6107_noise_5db.wav,slr54,3.0,3.0,3-5,ok,5.666666666666667,4.388888888888889,0,3,0,14,3,17,11,7,0,72,18,79,17,5.6667,4.6667,False,False,False,True,length_ratio>2.5|insertion_rate>1.0,True,False,True,False,True,noise,5.0,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,noisy:audio/noisy_noisy_123_slr143_004_6b61f4b681_babble_10db.wav,audio/noisy_noisy_123_slr143_004_6b61f4b681_babble_10db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_123_slr143_004_6b61f4b681_babble_10db.wav,noisy,"अनि भैलो खेलेबापत घरमूलीले श्रद्धाले दिएका सेल, रुपैयाँ आदि लिई उनीहरू रमाउँछन्।",अनि भैलो खेलेबापत घरमूलीले श्रद्धाले दिएका सेल रुपैयाँ आदि लिई उनीहरू रमाउँछन्,अनि भैलो खेलेबापत घरमूलीले श्रद्धाले दिएका सेल रुपैयाँ आदि लिई उनीहरू रमाउँछन्,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,11.565,,,2026-08-12T22:16:01.426730,noisy,audio/noisy_123_slr143_004_6b61f4b681_babble_10db.wav,slr143,8.064063,8.064063,8-12,ok,1.4166666666666667,0.9230769230769231,0,12,0,5,12,17,20,56,2,14,78,72,17,1.4167,0.4167,False,False,False,False,,True,False,True,False,True,babble,10.0,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,noisy:audio/noisy_noisy_142_slr43_025_d00cb654e4_music_5db.wav,audio/noisy_noisy_142_slr43_025_d00cb654e4_music_5db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_142_slr43_025_d00cb654e4_music_5db.wav,noisy,उन्नाइस सय सतासीमा कोलम्बियाली फुटबल व्यावसायिकको पहिलो श्रेणी,उन्नाइस सय सतासीमा कोलम्बियाली फुटबल व्यावसायिकको पहिलो श्रेणी,उन्नाइस सय सतासीमा कोलम्बियाली फुटबल व्यावसायिकको पहिलो श्रेणी,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,10.296,,,2026-08-12T22:16:12.993150,noisy,audio/noisy_142_slr43_025_d00cb654e4_music_5db.wav,slr43,4.741688,4.741688,3-5,ok,2.125,1.1774193548387097,0,8,0,9,8,17,17,45,0,28,62,73,17,2.125,1.125,False,False,False,True,insertion_rate>1.0,True,False,True,False,True,music,5.0,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,noisy:audio/noisy_noisy_135_slr143_024_4b4d8903ce_babble_15db.wav,audio/noisy_noisy_135_slr143_024_4b4d8903ce_babble_15db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_135_slr143_024_4b4d8903ce_babble_15db.wav,noisy,"आदि प्रमुख पत्रिकाहरू छन्, यीमध्ये गोरखापत्र नेपालको सबभन्दा पुरानो पत्रिका हो, पत्रपत्रिका पढ्दा धेरै फाइदा हुने भए तापनि हामीले समयको वास्तै नगरी यसमा एकोहोरिएर लाग्दैन, ।",आदि प्रमुख पत्रिकाहरू छन् यीमध्ये गोरखापत्र नेपालको सबभन्दा पुरानो पत्रिका हो पत्रपत्रिका पढ्दा धेरै फाइदा हुने भए तापनि हामीले समयको वास्तै नगरी यसमा एकोहोरिएर लाग्दैन,आदि प्रमुख पत्रिकाहरू छन् यीमध्ये गोरखापत्र नेपालको सबभन्दा पुरानो पत्रिका हो पत्रपत्रिका पढ्दा धेरै फाइदा हुने भए तापनि हामीले समयको वास्तै नगरी यसमा एकोहोरिएर लाग्दैन,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,13.257,,,2026-08-12T22:16:23.291025,noisy,audio/noisy_135_slr143_024_4b4d8903ce_babble_15db.wav,slr143,12.91025,12.91025,12-15,ok,1.0,0.7559523809523809,0,17,8,0,25,25,41,49,78,0,168,127,17,0.68,0.0,False,False,False,False,,True,False,True,False,True,babble,15.0,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,noisy:audio/noisy_noisy_085_fleurs_060_b10bfb7620_music_15db.wav,audio/noisy_noisy_085_fleurs_060_b10bfb7620_music_15db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_085_fleurs_060_b10bfb7620_music_15db.wav,noisy,वास्तवमा त्यहाँ सिक्नका लागि एउटा पनि राम्रो कुरा छैन सिकाइ सिक्ने र प्रस्तुत गरिएको ज्ञानको बीचको अनुभवमा हुने गर्दछ,वास्तवमा त्यहाँ सिक्नका लागि एउटा पनि राम्रो कुरा छैन सिकाइ सिक्ने र प्रस्तुत गरिएको ज्ञानको बीचको अनुभवमा हुने गर्दछ,वास्तवमा त्यहाँ सिक्नका लागि एउटा पनि राम्रो कुरा छैन सिकाइ सिक्ने र प्रस्तुत गरिएको ज्ञानको बीचको अनुभवमा हुने गर्दछ,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,12.643,,,2026-08-12T22:16:36.549228,noisy,audio/noisy_085_fleurs_060_b10bfb7620_music_15db.wav,fleurs,11.52,11.52,8-12,ok,1.0,0.7777777777777778,0,17,2,0,19,19,34,48,35,8,117,91,17,0.8947,0.0,False,False,False,False,,True,False,True,False,True,music,15.0,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,noisy:audio/noisy_noisy_144_slr43_003_9baf7e0966_noise_5db.wav,audio/noisy_noisy_144_slr43_003_9baf7e0966_noise_5db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_144_slr43_003_9baf7e0966_noise_5db.wav,noisy,उसले पहिले सिभिएस केयरमार्कमा काम गरेका थिए भने पछि अर्को कम्पनीमा काम गर्न सुरु गरे,उसले पहिले सिभिएस केयरमार्कमा काम गरेका थिए भने पछि अर्को कम्पनीमा काम गर्न सुरु गरे,उसले पहिले सिभिएस केयरमार्कमा काम गरेका थिए भने पछि अर्को कम्पनीमा काम गर्न सुरु गरे,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,10.826,,,2026-08-12T22:16:49.193894,noisy,audio/noisy_144_slr43_003_9baf7e0966_noise_5db.wav,slr43,5.241688,5.241688,5-8,ok,1.1333333333333333,0.8452380952380952,0,15,0,2,15,17,29,45,10,16,84,71,17,1.1333,0.1333,False,False,False,False,,True,False,True,False,True,noise,5.0,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,noisy:audio/noisy_noisy_182_slr54_025_1dbf9c8fcc_babble_15db.wav,audio/noisy_noisy_182_slr54_025_1dbf9c8fcc_babble_15db.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_182_slr54_025_1dbf9c8fcc_babble_15db.wav,noisy,निबन्ध साहित्यको इतिहास,निबन्ध साहित्यको इतिहास,निबन्ध साहित्यको इतिहास,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरीथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरीथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरीथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,35,10.968,,,2026-08-12T22:17:00.021222,noisy,audio/noisy_182_slr54_025_1dbf9c8fcc_babble_15db.wav,slr54,5.0,5.0,3-5,ok,5.666666666666667,3.608695652173913,0,3,0,14,3,17,8,15,0,68,23,83,17,5.6667,4.6667,False,False,False,True,length_ratio>2.5|insertion_rate>1.0,True,False,True,False,True,babble,15.0,,
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,codeswitched:audio/codeswitched_fleurs_029_0e7e943417b2.wav,audio/codeswitched_fleurs_029_0e7e943417b2.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_029_0e7e943417b2.wav,codeswitched,देशले acta मा हस्ताक्षर गर्नाले गत महिना पोल्यान्डमा ठूलो विरोध प्रदर्शन भएको थियो जसले गर्दा पोलिस सरकारले अहिलेका लागि सम्झौतालाई अनुमोदन नगर्ने निर्णय गरेको थियो,देशले acta मा हस्ताक्षर गर्नाले गत महिना पोल्यान्डमा ठूलो विरोध प्रदर्शन भएको थियो जसले गर्दा पोलिस सरकारले अहिलेका लागि सम्झौतालाई अनुमोदन नगर्ने निर्णय गरेको थियो,देशले acta मा हस्ताक्षर गर्नाले गत महिना पोल्यान्डमा ठूलो विरोध प्रदर्शन भएको थियो जसले गर्दा पोलिस सरकारले अहिलेका लागि सम्झौतालाई अनुमोदन नगर्ने निर्णय गरेको थियो,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,12.438,,,2026-08-12T22:17:10.990339,codeswitched,fleurs_029_0e7e943417b2.wav,fleurs,10.98,10.98,8-12,ok,1.0,0.7804878048780488,0,17,8,0,25,25,39,48,77,3,164,128,17,0.68,0.0,False,False,False,False,,True,True,True,False,False,,,4.0,light
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,codeswitched:audio/codeswitched_slr54_001_fa707cb25a4a.wav,audio/codeswitched_slr54_001_fa707cb25a4a.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_slr54_001_fa707cb25a4a.wav,codeswitched,आम क्यान्सरहरूको लागि अङ्ग्रेजी नामको प्रयोग गरिन्छ।facebook,आम क्यान्सरहरूको लागि अङ्ग्रेजी नामको प्रयोग गरिन्छ facebook,आम क्यान्सरहरूको लागि अङ्ग्रेजी नामको प्रयोग गरिन्छ facebook,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरीथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरीथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरीथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,35,11.639,,,2026-08-12T22:17:23.429312,codeswitched,slr54_001_fa707cb25a4a.wav,slr54,8.0,8.0,5-8,ok,2.125,1.25,1,6,1,10,8,17,17,42,1,32,60,75,17,2.125,1.25,False,False,False,True,insertion_rate>1.0,True,True,True,False,False,,,12.5,moderate
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,codeswitched:audio/codeswitched_fleurs_098_9c6397153f42.wav,audio/codeswitched_fleurs_098_9c6397153f42.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_098_9c6397153f42.wav,codeswitched,साओ पाउलो são paulo का पूर्व मेयर मार्ता सुप्लिसी marta suplicyले मूल कानूनको मस्यौदा तयार पारेका थिए। प्रस्तावित कानून परिमार्जन पछि अब रोबर्टो जेफरसन roberto jefferson को हातमा छ।,साओ पाउलो s o paulo का पूर्व मेयर मार्ता सुप्लिसी marta suplicyले मूल कानूनको मस्यौदा तयार पारेका थिए प्रस्तावित कानून परिमार्जन पछि अब रोबर्टो जेफरसन roberto jefferson को हातमा छ,साओ पाउलो s o paulo का पूर्व मेयर मार्ता सुप्लिसी marta suplicyले मूल कानूनको मस्यौदा तयार पारेका थिए प्रस्तावित कानून परिमार्जन पछि अब रोबर्टो जेफरसन roberto jefferson को हातमा छ,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,12.571,,,2026-08-12T22:17:35.069319,codeswitched,fleurs_098_9c6397153f42.wav,fleurs,12.12,12.12,12-15,ok,1.0,0.8044692737430168,0,17,13,0,30,30,35,55,89,0,179,144,17,0.5667,0.0,False,False,False,False,,True,True,True,False,False,,,23.33,heavy
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,codeswitched:audio/codeswitched_fleurs_002_4f69b2e029d0.wav,audio/codeswitched_fleurs_002_4f69b2e029d0.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_002_4f69b2e029d0.wav,codeswitched,उनले wifi ढोकाको घण्टी बनाएको भने,उनले wifi ढोकाको घण्टी बनाएको भने,उनले wifi ढोकाको घण्टी बनाएको भने,success,उनले वाइफाइ डोकाको कुन्ती बनाएका भने।,उनले वाइफाइ डोकाको कुन्ती बनाएका भने।,उनले वाइफाइ डोकाको कुन्ती बनाएका भने,17,8.522,,,2026-08-12T22:17:47.641946,codeswitched,fleurs_002_4f69b2e029d0.wav,fleurs,4.8,4.8,3-5,ok,0.6666666666666666,0.36363636363636365,2,4,0,0,6,4,24,9,0,3,33,12,6,1.0,0.0,False,False,False,False,,True,True,True,False,False,,,16.67,moderate
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,codeswitched:audio/codeswitched_fleurs_008_42c79fd6668e.wav,audio/codeswitched_fleurs_008_42c79fd6668e.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_008_42c79fd6668e.wav,codeswitched,यसभन्दा पहिले चिनियाँ समाचार एजेन्सी xinhuaले एउटा विमान हाइज्याक भएको खबर गरे।,यसभन्दा पहिले चिनियाँ समाचार एजेन्सी xinhuaले एउटा विमान हाइज्याक भएको खबर गरे,यसभन्दा पहिले चिनियाँ समाचार एजेन्सी xinhuaले एउटा विमान हाइज्याक भएको खबर गरे,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,11.052,,,2026-08-12T22:17:56.164857,codeswitched,fleurs_008_42c79fd6668e.wav,fleurs,6.72,6.72,5-8,ok,1.4166666666666667,0.9102564102564102,0,12,0,5,12,17,23,51,4,16,78,71,17,1.4167,0.4167,False,False,False,False,,True,True,True,False,False,,,8.33,light
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,codeswitched:audio/codeswitched_fleurs_094_8dac24da86b4.wav,audio/codeswitched_fleurs_094_8dac24da86b4.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_094_8dac24da86b4.wav,codeswitched,प्रायः तपाईंले ग्लोबल नम्बर छुट्टै किन्नु पर्छ जसले pstn फोनहरूलाई तपाईंलाई फोन गर्न अनुमति दिन्छ नम्बर कहाँबाट हो भन्ने कुराले तपाईंलाई फोन गर्ने मान्छेहरूका लागि फरक पार्दछ,प्रायः तपाईंले ग्लोबल नम्बर छुट्टै किन्नु पर्छ जसले pstn फोनहरूलाई तपाईंलाई फोन गर्न अनुमति दिन्छ नम्बर कहाँबाट हो भन्ने कुराले तपाईंलाई फोन गर्ने मान्छेहरूका लागि फरक पार्दछ,प्रायः तपाईंले ग्लोबल नम्बर छुट्टै किन्नु पर्छ जसले pstn फोनहरूलाई तपाईंलाई फोन गर्न अनुमति दिन्छ नम्बर कहाँबाट हो भन्ने कुराले तपाईंलाई फोन गर्ने मान्छेहरूका लागि फरक पार्दछ,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,13.205,,,2026-08-12T22:18:07.218668,codeswitched,fleurs_094_8dac24da86b4.wav,fleurs,12.6,12.6,12-15,ok,1.0,0.7413793103448276,0,17,10,0,27,27,45,45,84,0,174,129,17,0.6296,0.0,False,False,False,False,,True,True,True,False,False,,,3.7,light
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,codeswitched:audio/codeswitched_fleurs_037_3d26600b00e6.wav,audio/codeswitched_fleurs_037_3d26600b00e6.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_037_3d26600b00e6.wav,codeswitched,फिलिपिन्सको विजयमा u.s को साम्राज्यवादको युद्धको खर्च फिलिपिन्सका मानिसहरूले स्वयं नै तिरेका थिए।,फिलिपिन्सको विजयमा u s को साम्राज्यवादको युद्धको खर्च फिलिपिन्सका मानिसहरूले स्वयं नै तिरेका थिए,फिलिपिन्सको विजयमा u s को साम्राज्यवादको युद्धको खर्च फिलिपिन्सका मानिसहरूले स्वयं नै तिरेका थिए,success,फिलिपिन्स को बिजय मा युएस को सम्राज्यबाद को युद्ध को खर्च फिलिपिन्स का मानि सोरोले सोयम् नय तीरे का थिए।,फिलिपिन्स को बिजय मा युएस को सम्राज्यबाद को युद्ध को खर्च फिलिपिन्स का मानि सोरोले सोयम् नय तीरे का थिए।,फिलिपिन्स को बिजय मा युएस को सम्राज्यबाद को युद्ध को खर्च फिलिपिन्स का मानि सोरोले सोयम् नय तीरे का थिए,40,12.405,,,2026-08-12T22:18:20.424700,codeswitched,fleurs_037_3d26600b00e6.wav,fleurs,8.64,8.64,8-12,ok,1.2142857142857142,0.22916666666666666,3,11,0,6,14,17,82,13,1,8,96,22,20,1.4286,0.4286,False,False,False,False,,True,True,True,False,False,,,14.29,moderate
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,codeswitched:audio/codeswitched_fleurs_081_0a944aa343e7.wav,audio/codeswitched_fleurs_081_0a944aa343e7.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_081_0a944aa343e7.wav,codeswitched,यो henry louis gates को अफ्रिकी विश्वको pbs विशेष आश्चर्यको समयमा प्रमुख स्टपहरूमध्ये एक थियो,यो henry louis gates को अफ्रिकी विश्वको pbs विशेष आश्चर्यको समयमा प्रमुख स्टपहरूमध्ये एक थियो,यो henry louis gates को अफ्रिकी विश्वको pbs विशेष आश्चर्यको समयमा प्रमुख स्टपहरूमध्ये एक थियो,success,यो एनजी लुइस गेटको अफ्रिकी विश्वको पीबीएस विशेष अ सर्योको समयमा प्रमुख स्टप अ रुमडे एक थियो।,यो एनजी लुइस गेटको अफ्रिकी विश्वको पीबीएस विशेष अ सर्योको समयमा प्रमुख स्टप अ रुमडे एक थियो।,यो एनजी लुइस गेटको अफ्रिकी विश्वको पीबीएस विशेष अ सर्योको समयमा प्रमुख स्टप अ रुमडे एक थियो,33,13.147,,,2026-08-12T22:18:32.831769,codeswitched,fleurs_081_0a944aa343e7.wav,fleurs,15.0,15.0,12-15,ok,0.6666666666666666,0.3655913978494624,8,6,1,3,15,10,65,20,8,6,93,34,17,1.1333,0.2,False,False,False,False,,True,True,True,False,False,,,26.67,heavy
+google/gemma-4-12B-it,main,707f0a3b8a3c7ad586ed01e27eafbad8a27dd0f7,codeswitched:audio/codeswitched_fleurs_001_42df59cb78c7.wav,audio/codeswitched_fleurs_001_42df59cb78c7.wav,L3_a,L3,1shot_from_L2_b,79a4062b268ba6dfbf4f45e3111d3f024195dd80aec85a4b55ae990e1b0b3c23,"You are a verbatim transcription system for Nepali speech.
+Rules:
+1. Write Nepali in Devanagari.
+2. Write English words in Latin script.
+3. Preserve Nepali-English code-switching in the spoken order.
+4. Do not translate.
+5. Keep fillers, repetitions, corrections, false starts, and incomplete words.
+6. Do not correct grammar or normalize wording.
+7. Do not guess inaudible words.
+8. Add no timestamps, speaker labels, explanations, or confidence scores.
+9. Output only the transcription.
+10. Write spoken numbers as Nepali words, not digits.",1,['clean:audio/clean_slr143_002_577615770e.wav'],/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_001_42df59cb78c7.wav,codeswitched,मार्टेलीले नौ सदस्यीय नयाँ अस्थायी निर्वाचन परिषद् cep मा हिजो शपथ लिए।,मार्टेलीले नौ सदस्यीय नयाँ अस्थायी निर्वाचन परिषद् cep मा हिजो शपथ लिए,मार्टेलीले नौ सदस्यीय नयाँ अस्थायी निर्वाचन परिषद् cep मा हिजो शपथ लिए,success,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।,त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ,34,10.151,,,2026-08-12T22:18:45.980474,codeswitched,fleurs_001_42df59cb78c7.wav,fleurs,4.56,4.56,3-5,ok,1.4166666666666667,1.042857142857143,0,12,0,5,12,17,18,51,1,21,70,73,17,1.4167,0.4167,False,False,False,False,,True,True,True,False,False,,,8.33,light

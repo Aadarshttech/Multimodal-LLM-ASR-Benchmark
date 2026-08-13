@@ -1,0 +1,3 @@
+winner,challenger,n_paired,mean_delta_wer,ci95_low,ci95_high,winner_better_probability,stable_direction_95pct
+L2_a,L2_c,30,-0.16264774307164903,-0.28777156934502024,-0.0557821085164836,0.9985,True
+L2_a,L2_b,30,-0.3723645801026926,-1.2162904903720624,0.04289425326187661,0.8085,False

@@ -1,0 +1,26 @@
+{
+  "clean": {
+    "sample_id": "clean:audio/clean_slr43_005_5b5463b34a.wav",
+    "utterance_id": "audio/clean_slr43_005_5b5463b34a.wav",
+    "speech_condition": "clean",
+    "audio_path": "/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage2/audio/clean_slr43_005_5b5463b34a.wav",
+    "demonstration_transcript": "लक्ष्मीले कलकत्ताकै सेन्ट जेभियर्स कलेजबाट सन् उन्नाइस सय उनान्सत्तरीमा कमर्समा स्नातक गरे",
+    "duration_sec": 8.549313
+  },
+  "codeswitched": {
+    "sample_id": "codeswitched:audio/codeswitched_fleurs_060_a925234db67b.wav",
+    "utterance_id": "audio/codeswitched_fleurs_060_a925234db67b.wav",
+    "speech_condition": "codeswitched",
+    "audio_path": "/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage2/audio/codeswitched_fleurs_060_a925234db67b.wav",
+    "demonstration_transcript": "कुनै पनि एयरलाइन सङ्गठनले दक्षिणी गोलार्द्धमा सबै तीन महासागरहरू पार गर्ने समेट्दैन र skyteam ले कुनै एउटा पनि पार गर्ने समेट्दैन।",
+    "duration_sec": 9.72
+  },
+  "noisy": {
+    "sample_id": "noisy:audio/noisy_noisy_054_fleurs_019_e09a181ef7_noise_5db.wav",
+    "utterance_id": "audio/noisy_noisy_054_fleurs_019_e09a181ef7_noise_5db.wav",
+    "speech_condition": "noisy",
+    "audio_path": "/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage2/audio/noisy_noisy_054_fleurs_019_e09a181ef7_noise_5db.wav",
+    "demonstration_transcript": "सिंहहरू सबैभन्दा सामाजिक बिरालाहरू हुन् यिनीहरू प्राइड भनिने ठूला समूहमा बस्छन्",
+    "duration_sec": 6.12
+  }
+}

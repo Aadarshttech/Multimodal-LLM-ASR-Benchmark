@@ -1,0 +1,14 @@
+check,passed,detail
+development_manifest_size,True,30/30
+audio_files_resolved,True,30/30
+references_nonempty,True,30/30
+L0_record_count,True,30
+L1_record_count,True,90
+L2_record_count,True,90
+L3_record_count,True,27
+L4_record_count,True,27
+no_inference_failures,True,0
+no_metric_failures,True,0
+fewshot_exemplars_excluded,True,3
+resolved_revision_recorded,True,3060fe34b35ba5d44202ce9ff3c097642914f8f3
+frozen_bundle_written,True,/kaggle/working/results/prompt_dev/voxtral_mini_3b/manifest_143d7b555e4b_prompts_a415dc0228f8/frozen_prompt_bundle.json

@@ -1,0 +1,1001 @@
+utt_id,audio_path,predicted,ground_truth,wer,cer
+0448dd4609,/kaggle/working/asr_nepali_data/asr_nepali/data/04/0448dd4609.flac,बारे सय छ तीस इस री सम्मा,१२३६ ईश्वीसम्म,3.5,1.3571428571428572
+0008fd3262,/kaggle/working/asr_nepali_data/asr_nepali/data/00/0008fd3262.flac,[सङ्गीत] बवान अरु जलाई ए।,भवनहरु जलाइए,2.5,1.3333333333333333
+0e9d0b236c,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e9d0b236c.flac,शेवा निव्रित त हुनु भयो।,सेवानिवृत्त हुनुभयो,2.5,0.42105263157894735
+08533a773a,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08533a773a.flac,नि भाचन र हजार अर्चाली थिए नयाँ।,निर्वाचन २०४८ नयाँ,2.3333333333333335,1.2222222222222223
+0d77f20229,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d77f20229.flac,जल्दा पारा भन्ने चिव अब यार उन्यो,जल्दापारा वन्यजीव अभयारण्य,2.3333333333333335,0.5
+0d5c30ad4a,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d5c30ad4a.flac,दुई हजार चार साठी साल चाहिँ यता,२०६४ साल चैत,2.0,2.0
+045381b42b,/kaggle/working/asr_nepali_data/asr_nepali/data/04/045381b42b.flac,पहिला याद यार ओपा जब पिया जब,प्यार वफा जब,2.0,1.5833333333333333
+06737f025c,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06737f025c.flac,हुनु के बेबास आए,मुख्य व्यवसाय,2.0,1.0
+0b90b0056b,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b90b0056b.flac,बाब्द ८८ से ४० सम्म अभ्राम भाएछिन्थ,१८०४ सम्म अब्राहमहायसिन्थ,2.0,0.72
+0bb5a4d298,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bb5a4d298.flac,किस्टमा पुषात सिवाको ठि,कृष्णप्रसाद शिवाकोटी,2.0,0.7
+0c5361ec52,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c5361ec52.flac,अ नि भन्दो कोत्यान्त,निबन्धको अत्यन्त,2.0,0.5625
+01dd3c20ca,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01dd3c20ca.flac,अध्वुज छ मा दाले मरो भूमिमा,अद्‌भूत क्षमताले मरुभूमीमा,2.0,0.5384615384615384
+0517bc6a66,/kaggle/working/asr_nepali_data/asr_nepali/data/05/0517bc6a66.flac,जीन युनी नक्षामा अधरित,जिएनयुलिनक्समा आधारित,2.0,0.47619047619047616
+0fd9719eb7,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fd9719eb7.flac,दु खान त नाटोका जस्तो जना,दुखान्त नाटकको सृजना,2.0,0.45
+06b9e95460,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06b9e95460.flac,कंखा थर गणमुक्ते स्वरका पूर्व देखि,कङ्खाथर गढमुक्तेश्रवरका पूर्वदेखि,2.0,0.24242424242424243
+0429aa3c3e,/kaggle/working/asr_nepali_data/asr_nepali/data/04/0429aa3c3e.flac,उभय लिन्गीहरु मध्ये एकाको,उभयलिङ्गीहरूमध्ये एकको,2.0,0.22727272727272727
+05ebfaea92,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05ebfaea92.flac,हर साल बढा दशैको सुरु देखि,हरसाल बडादशैँको सुरुदेखि,2.0,0.20833333333333334
+0537f9e291,/kaggle/working/asr_nepali_data/asr_nepali/data/05/0537f9e291.flac,इशा पुव नौशी चौण्न इशा,ईपू ९५४ ईसा,1.6666666666666667,1.6363636363636365
+00866e3f11,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00866e3f11.flac,[सङ्गीत] प्रथम परि जया बाह्र सय,प्रथम परिचय १२००,1.6666666666666667,1.25
+0a6498c625,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a6498c625.flac,छन् अन्नाइसै बाह्न बेजु लैमा,सन् १९९२ जुलाईमा,1.6666666666666667,1.25
+001625cc1d,/kaggle/working/asr_nepali_data/asr_nepali/data/00/001625cc1d.flac,उन्नाइस सय उनान पचास को टिसेमबरमा,१९४९ को डिसेम्बरमा,1.6666666666666667,1.2222222222222223
+0bf8a3c381,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bf8a3c381.flac,दुई हजार पत्रीस साल देखि लोक,२०३२ सालदेखि लोक,1.6666666666666667,1.0
+0266d03fb3,/kaggle/working/asr_nepali_data/asr_nepali/data/02/0266d03fb3.flac,जानुमा ले नि भाइ साबहिलमा,जन्मदिन २२ अप्रिलमा,1.6666666666666667,0.7894736842105263
+03730973c9,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03730973c9.flac,हो ल गाउ जहाँ बाटा,गाउँँ जहाँबाट लजिस्टिक,1.6666666666666667,0.7727272727272727
+0421bebce3,/kaggle/working/asr_nepali_data/asr_nepali/data/04/0421bebce3.flac,थियो। आफ्ना पोलि चाहिँ दिनुहोस्।,आफ्नो परिचय दिनुहोस्,1.6666666666666667,0.75
+020c966955,/kaggle/working/asr_nepali_data/asr_nepali/data/02/020c966955.flac,हुन्छ वर्बत किलो मिटर छौ।,वर्ग किलोमिटर छ,1.6666666666666667,0.7333333333333333
+013f590098,/kaggle/working/asr_nepali_data/asr_nepali/data/01/013f590098.flac,दुई हजार आठा सालको जनगणा अनुसारा,२०२८ सालको जनगणनाअनुसार,1.6666666666666667,0.6521739130434783
+0abe204585,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0abe204585.flac,भएको चलिरा छ बच्चनले चलचित्र खरमा आफ्नो,बच्चनले चलचित्रहरूमा आफ्नो,1.6666666666666667,0.6153846153846154
+0a1bb84da8,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a1bb84da8.flac,ब्रिको ले उनीहरु दुबै लागि।,भृगुले उनीहरू दुबैलाई,1.6666666666666667,0.5714285714285714
+02b2941e30,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02b2941e30.flac,14 मुस्ताव दिको महामारी नै,१४औं शताब्दीको महामारीले,1.6666666666666667,0.5416666666666666
+02f7d593a4,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02f7d593a4.flac,त थफा विषे साधीकार पाच,तथा विशेषाधिकार ५,1.6666666666666667,0.5294117647058824
+0402a171e4,/kaggle/working/asr_nepali_data/asr_nepali/data/04/0402a171e4.flac,हो उहा धनी लाल्या त,उहाँ धनीलाल यादव,1.6666666666666667,0.5
+06d17b3a70,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06d17b3a70.flac,त्यो यो जना निद्रशका रुपमा,योजना निर्देशकका रूपमा,1.6666666666666667,0.5
+0ad6d5bc5e,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0ad6d5bc5e.flac,आति बाइसीहरुको महा मलाई यस्।,आदिवासीहरूको मामलाले यस,1.6666666666666667,0.4782608695652174
+085b04d6e5,/kaggle/working/asr_nepali_data/asr_nepali/data/08/085b04d6e5.flac,जना सहभवागी त आहवान गरे।,जनसहभागिता आव्हान गरे,1.6666666666666667,0.47619047619047616
+025250a1a0,/kaggle/working/asr_nepali_data/asr_nepali/data/02/025250a1a0.flac,दोक छ नि समान गर्छ,ढोग्छन् सम्मान गर्छन्,1.6666666666666667,0.42857142857142855
+08fa422468,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08fa422468.flac,सबादी सिद्यान्तका पश्च्नहरु भा रे,मार्क्सवादी सिद्धान्तका प्रश्नहरूबारे,1.6666666666666667,0.40540540540540543
+0b91804a8e,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b91804a8e.flac,उसमा नि साम्राज्य १२ १७ १९,उस्मानी साम्राज्य १२९९,1.6666666666666667,0.36363636363636365
+0ac45099a6,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0ac45099a6.flac,महादेबको ११ वर्ष त पश्चामा,महादेवको बाह्रवर्षे तपस्यामा,1.6666666666666667,0.35714285714285715
+011c409a14,/kaggle/working/asr_nepali_data/asr_nepali/data/01/011c409a14.flac,नेपालका बाम पन् थिए राजना तिग्या,नेपालका बामपन्थी राजनीतिज्ञ,1.6666666666666667,0.3333333333333333
+021e1cabc1,/kaggle/working/asr_nepali_data/asr_nepali/data/02/021e1cabc1.flac,उदै देउ नेपालको सुद्र पश्चि मान्छलमा,उदयदेव नेपालको सुदूरपश्चिमाञ्चल,1.6666666666666667,0.3225806451612903
+075c60d3e9,/kaggle/working/asr_nepali_data/asr_nepali/data/07/075c60d3e9.flac,अ गर्डेश पौडेल ज्यू नमोस्कार,गणेश पौडेलज्यू नमस्कार,1.6666666666666667,0.3181818181818182
+02440f12c7,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02440f12c7.flac,उपिन्द्र याद अब नै ताका,उपेन्द्र यादव नेताका,1.6666666666666667,0.3
+0bfccf81f0,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bfccf81f0.flac,दुवै म पराल को आएको,दुवैमा परालको आगो,1.6666666666666667,0.29411764705882354
+0977e4eb46,/kaggle/working/asr_nepali_data/asr_nepali/data/09/0977e4eb46.flac,अ भयका उत परिवतन हरुको प्रश्न,भएका उत्परिवर्तनहरूको प्रश्न,1.6666666666666667,0.2857142857142857
+048dfa016a,/kaggle/working/asr_nepali_data/asr_nepali/data/04/048dfa016a.flac,सर किटको प्रयाक गरिन थियो।,सर्किटको प्रयोग गरिन्थ्यो,1.6666666666666667,0.24
+060631e4e5,/kaggle/working/asr_nepali_data/asr_nepali/data/06/060631e4e5.flac,गौ कोटमा पृथ्वी नराएन साहले,गौकोटमा पृथ्वीनारायण शाहले,1.6666666666666667,0.23076923076923078
+03de74780d,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03de74780d.flac,त्यस बेला गीहेन्द्र संसेर जस्तै,त्यसबेला गेहेन्द्र शमशेरजस्तै,1.6666666666666667,0.20689655172413793
+03a7a9cef6,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03a7a9cef6.flac,आज्या अनुसार कम लाले अगाडी,आज्ञाअनुसार कमलाले अगाडि,1.6666666666666667,0.16666666666666666
+051d2de5db,/kaggle/working/asr_nepali_data/asr_nepali/data/05/051d2de5db.flac,उ द्योग यन्त्र मानु सम्म प्रचुर,उद्योग यन्त्रमानवसम्म प्रचुर,1.6666666666666667,0.14285714285714285
+0b9266790c,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b9266790c.flac,मेसो पोटा म या तर्फ लागेका मानिन्छ,मेसोपोटामियातर्फ लागेका मानिन्छ,1.6666666666666667,0.12903225806451613
+07e855e464,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07e855e464.flac,[सङ्गीत] एक मात्र,एकमात्र अपरेसन,1.5,1.1428571428571428
+081ed143f5,/kaggle/working/asr_nepali_data/asr_nepali/data/08/081ed143f5.flac,सहा चाहिँ थिएक्ने,सहजै छेक्ने,1.5,0.9090909090909091
+0433360560,/kaggle/working/asr_nepali_data/asr_nepali/data/04/0433360560.flac,अराबु न दाई।,अभाव हुँदा,1.5,0.8
+088787d21a,/kaggle/working/asr_nepali_data/asr_nepali/data/08/088787d21a.flac,हामीले लेखक त थाहा हास्य बेंगेकार हुन्।,लेखक तथा हास्यव्यङ्यकार हुन्,1.5,0.6071428571428571
+0af4e6c08b,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0af4e6c08b.flac,थियो साम अर्थ्यो हुन्छ,सामर्थ्य हुन्छ,1.5,0.5714285714285714
+02221b56d5,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02221b56d5.flac,बबाली लाई आदुनिक,भवनलाई आधुनिक,1.5,0.5384615384615384
+046d78b574,/kaggle/working/asr_nepali_data/asr_nepali/data/04/046d78b574.flac,ने मित्ती रुपमा,नियमित रूपमा,1.5,0.5
+0e82810953,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e82810953.flac,कुरु द भाइन,क्रुद्ध भइन्,1.5,0.5
+08fc7b8f78,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08fc7b8f78.flac,सि दान्टस थापे,सिद्धान्त स्थापित,1.5,0.47058823529411764
+0f90b726ec,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f90b726ec.flac,सास्ट्रमा यस्तो लाइ,शास्त्रमा यसलाई,1.5,0.4666666666666667
+0cc90ee426,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cc90ee426.flac,यो रंगुन आइपुगिन,रङ्गुन आइपुगिन्।,1.5,0.4375
+08dabd1b27,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08dabd1b27.flac,कास्की बार्क तित्वन,कास्कीबाट चितवन,1.5,0.4
+053c169665,/kaggle/working/asr_nepali_data/asr_nepali/data/05/053c169665.flac,ब्राउन दराली खित,ब्राउनद्वारा लिखित,1.5,0.3888888888888889
+065b6723d8,/kaggle/working/asr_nepali_data/asr_nepali/data/06/065b6723d8.flac,लोचा चोडी गरिन्छ।,लुछाचुँडी गरिन्छ,1.5,0.375
+0aa580504b,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0aa580504b.flac,मलाई मिलाई जाड,मलामीलाई जाँड,1.5,0.3076923076923077
+089628c4a2,/kaggle/working/asr_nepali_data/asr_nepali/data/08/089628c4a2.flac,। लस गोली आद्रोस,लस गोलिआद्रोस,1.5,0.3076923076923077
+00c0636c06,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00c0636c06.flac,तिर ठका रुपमा,तीर्थका रूपमा,1.5,0.3076923076923077
+0b9d5080d9,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b9d5080d9.flac,नाराण सान्यल दुरा,नारायण सान्यालद्वारा,1.5,0.3
+00163facae,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00163facae.flac,विद्वान अर्को दियान,विद्वानहरूको ध्यान,1.5,0.2777777777777778
+0b9f400505,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b9f400505.flac,सबै त हरुमा देखिएको,सभ्यताहरूमा देखिएको,1.5,0.2631578947368421
+07f55db913,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07f55db913.flac,अ ग्रेन्डी फ्लोरा निर्धारण,ग्राण्डिफ्लोरा निर्धारण,1.5,0.2608695652173913
+0e8c827330,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e8c827330.flac,प्रते चौ बाटोमा,प्रत्येक चौबाटोमा,1.5,0.23529411764705882
+04f98fa34d,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04f98fa34d.flac,परेसित गरा यो,परिचित गराइयो,1.5,0.23076923076923078
+08cc3bab68,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08cc3bab68.flac,रामेश विकल दवारा,रमेश विकलद्वारा,1.5,0.2
+0993a8a5e4,/kaggle/working/asr_nepali_data/asr_nepali/data/09/0993a8a5e4.flac,सँग सँगै फर्कान्छन्।,सँगसँगै फर्कन्छन्,1.5,0.17647058823529413
+07ac220422,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07ac220422.flac,सले ले खाइमा,यसले लेखाइमा,1.5,0.16666666666666666
+05137565a9,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05137565a9.flac,जन्नु हुने छ,जान्नु हुनेछ,1.5,0.16666666666666666
+0a09077a0a,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a09077a0a.flac,सिक परिवार सँग,सिख परिवारसँग,1.5,0.15384615384615385
+06709e0379,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06709e0379.flac,लेखहरु हुने छन्,लेखहरू हुनेछन्,1.5,0.14285714285714285
+0adb14f302,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0adb14f302.flac,तमर खोले लिम्बुहरु,तमरखोले लिम्बुहरू,1.5,0.11764705882352941
+0bf5715eb1,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bf5715eb1.flac,सन अठारा चाहिँ नब्बेको,सन् १८९० को,1.3333333333333333,1.4545454545454546
+0e874b1317,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e874b1317.flac,तर सन उन्नै सतिर चालीस,तर सन् १९४३,1.3333333333333333,1.3636363636363635
+066ded5932,/kaggle/working/asr_nepali_data/asr_nepali/data/06/066ded5932.flac,[सङ्गीत] यही चाहिँ गरि उनले आफ्नो,यसैगरी उनले आफ्नो,1.3333333333333333,1.1176470588235294
+00ab3895f1,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00ab3895f1.flac,बञजङगल पान्छेत्री चाली सेक्टर,वनजङ्गल ५४३ हेक्टर,1.3333333333333333,1.0555555555555556
+0aac70b7ac,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0aac70b7ac.flac,[सङ्गीत] फोसपुरै मैले नम र,भोजपुरी मल्यालम र,1.3333333333333333,1.0
+00bfc01fdb,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00bfc01fdb.flac,मा त्यस्तै दुई हजार तीनमा,त्यस्तै २००३ मा,1.3333333333333333,0.9333333333333333
+05123e3855,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05123e3855.flac,म गले त सोरणा नै छन्,स्वर्ण नै छन्,1.3333333333333333,0.9230769230769231
+016ae1bc41,/kaggle/working/asr_nepali_data/asr_nepali/data/01/016ae1bc41.flac,[सङ्गीत] कस्त दिइरहेको मा,कष्ट दिइरहेकोमा म,1.3333333333333333,0.8235294117647058
+04976faf9c,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04976faf9c.flac,मलाई मलाई नै हरेक बर्छ।,मल्लले हरेक वर्ष,1.3333333333333333,0.75
+0ed3b4644c,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0ed3b4644c.flac,अर्सठ्ठी बैसाख पुड्ने माको,६८ बैशाख पूर्णिमाको,1.3333333333333333,0.7368421052631579
+01c0f73352,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01c0f73352.flac,[सङ्गीत] बिटिष बालतको बंगाल,ब्रिटिस भारतको बङ्गाल,1.3333333333333333,0.6666666666666666
+07fc7453c1,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07fc7453c1.flac,अ ब्रिहत जनपर्दाशनहरुलाई हामी कति,वृहद् जनप्रदर्शनहरूलाई हामी,1.3333333333333333,0.6296296296296297
+0fbe223c7e,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fbe223c7e.flac,खको नि जाइब अचेत्र,खगोल जैव क्षेत्र,1.3333333333333333,0.625
+064ec551ff,/kaggle/working/asr_nepali_data/asr_nepali/data/06/064ec551ff.flac,यागो जनत संक्या छौ।,यहाँको जनसङ्ख्या ६,1.3333333333333333,0.6111111111111112
+02eb240d6b,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02eb240d6b.flac,आतिलाई आक्रमन गर्यो है,हात्तीलाई आक्रमण गरे,1.3333333333333333,0.6
+0954c145c5,/kaggle/working/asr_nepali_data/asr_nepali/data/09/0954c145c5.flac,तचिनमा नटा राम्बेसर हेती,दक्षिणमा नटारम्भेश्वर यति,1.3333333333333333,0.56
+05ef62a763,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05ef62a763.flac,भनेजी महानन्दा भन्ने जी अपयारण,महानन्दा वन्यजीव अभयारण्य,1.3333333333333333,0.56
+0c665ceb39,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c665ceb39.flac,गर्फाबाटी यस्तै दिएको गमरमा,गर्भवती स्त्रीको कमरमा,1.3333333333333333,0.5454545454545454
+04c61ee647,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04c61ee647.flac,उपको रानु हुन्छ जस्तले,उपकरण हुन् जसले,1.3333333333333333,0.5333333333333333
+0136fb8671,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0136fb8671.flac,हो। यसी अलि देशको रुपमा,एसियाली देशको रूपमा,1.3333333333333333,0.5263157894736842
+03a6915b6b,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03a6915b6b.flac,सस्था क्रिया सिल छ।,संस्था कृयाशील छ,1.3333333333333333,0.5
+05ac1f310c,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05ac1f310c.flac,दा आन्दो अर्का हुदै,विरुद्ध आन्दोलन चर्काउँदै,1.3333333333333333,0.48
+0dc151be52,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0dc151be52.flac,पछि यिंकलाप राखिएको थियो।,इन्कलाब राखिेएको थियो,1.3333333333333333,0.47619047619047616
+0362b236a5,/kaggle/working/asr_nepali_data/asr_nepali/data/03/0362b236a5.flac,की समस्था भित्या थिए,कि समस्त विद्यार्थी,1.3333333333333333,0.47368421052631576
+0193edae73,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0193edae73.flac,त्यहाको मा बर्ना ए,त्यहाँको अस्पतालमा भर्ना,1.3333333333333333,0.4583333333333333
+0f303ae413,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f303ae413.flac,कांग्रेसका उपास हवाती मुन्छ,काङ्ग्रेसका उपसभापति हुनुहुन्छ,1.3333333333333333,0.43333333333333335
+0a3dfdea7e,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a3dfdea7e.flac,उनै जिप छैन नि,कुनै जीव छैनन्,1.3333333333333333,0.42857142857142855
+0f024e042c,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f024e042c.flac,राशायनहरु संग सम्लाग्न धरिदैन।,रसायनहरूसँग संलग्न गरिँदैन,1.3333333333333333,0.4230769230769231
+0834c2878f,/kaggle/working/asr_nepali_data/asr_nepali/data/08/0834c2878f.flac,हार्नेक मगलमा नै सुवकामना,हार्दिक मङ्गलमय शुभकामना,1.3333333333333333,0.4166666666666667
+0932146465,/kaggle/working/asr_nepali_data/asr_nepali/data/09/0932146465.flac,महातिर छ भन्नेको छ।,महातीर्थ भनिएको छ,1.3333333333333333,0.4117647058823529
+01f2db9bf0,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01f2db9bf0.flac,राम ल्याफ माति लगि,रामले आफूमाथि लगी,1.3333333333333333,0.4117647058823529
+05c86083a0,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05c86083a0.flac,पहिलो दुवै माहा साषान शक्ता,पहिलो दुवैमा शासनसत्ता,1.3333333333333333,0.4090909090909091
+0701b56f9a,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0701b56f9a.flac,चाहिँ बैसाखमा गुरास ले,चैत वैशाखमा गुराँसले,1.3333333333333333,0.4
+0cc36c77da,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cc36c77da.flac,अनि भाषा बिकेयनको क्यान,पनि भाषाविज्ञानको ज्ञान,1.3333333333333333,0.391304347826087
+0e0a4a562f,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e0a4a562f.flac,५ सलामा बर्ना भए।,पाठशालामा भर्ना भए,1.3333333333333333,0.3888888888888889
+07fed19466,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07fed19466.flac,साइत तिमा तिन वटा र,साहित्यमा तीनवटा र,1.3333333333333333,0.3888888888888889
+0facf2a95b,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0facf2a95b.flac,तर सम्म नै भिन्न त,तर सामान्य भिन्नता,1.3333333333333333,0.3888888888888889
+0e7f389716,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e7f389716.flac,भाइन र केहि भाक,भनेर केही भाग,1.3333333333333333,0.38461538461538464
+06996c6628,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06996c6628.flac,तुहीलाई नाममा अगाडी देखिन्छ।,तुलनामा अगाडि देखिन्छ,1.3333333333333333,0.38095238095238093
+09b10d5fa4,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09b10d5fa4.flac,गुड रसायण सास्थ्र थिए।,गूढ रसायनशास्त्री थिए,1.3333333333333333,0.38095238095238093
+064a502f49,/kaggle/working/asr_nepali_data/asr_nepali/data/06/064a502f49.flac,स्क्रियालाई पाउनी र को,यस क्रियालाई पनिरको,1.3333333333333333,0.3684210526315789
+0c36f63edf,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c36f63edf.flac,अन्न पुना सम्रक्षन क्षेत्रा,अन्नपूर्ण संरक्षण क्षेत्र,1.3333333333333333,0.36
+0e8eac1e93,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e8eac1e93.flac,अन्जा बालीमा छ को,अन्डा भाले माछाको,1.3333333333333333,0.35294117647058826
+08f718b2a7,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08f718b2a7.flac,कटाउन त थाहा सरिरबाट,घटाउन तथा शरीरबाट,1.3333333333333333,0.35294117647058826
+08722cff84,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08722cff84.flac,यो बाहरु उनीहरुका पछ,युवाहरू उनीहरूका पसल,1.3333333333333333,0.35
+0c5aac5495,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c5aac5495.flac,आठ वटाहरु निदन पछि,आठवटा र निधनपछि,1.3333333333333333,0.3333333333333333
+0af073c454,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0af073c454.flac,पुनेमा अभइद रुप बाट,पुणेमा अवैध रूपबाट,1.3333333333333333,0.3333333333333333
+0d64ab6f47,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d64ab6f47.flac,साउमर्थनमा लाखनाउमा को किलहरुले,समर्थनमा लखनउमा वकिलहरूले,1.3333333333333333,0.32
+075f1a62d9,/kaggle/working/asr_nepali_data/asr_nepali/data/07/075f1a62d9.flac,सुजाउ दिन्दा छर्किने लाई।,सुझाव दिँदा झर्किनेलाई,1.3333333333333333,0.3181818181818182
+03342349ae,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03342349ae.flac,छल्जित्र अब बिनेत्री हुन्।,चलचित्र अभिनेत्री हुन्,1.3333333333333333,0.3181818181818182
+0730254496,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0730254496.flac,खेरिहो रुको अकार उत्पदन,खेतीहरूको आकार उत्पादन,1.3333333333333333,0.3181818181818182
+0418c87dd0,/kaggle/working/asr_nepali_data/asr_nepali/data/04/0418c87dd0.flac,बेरुको आन्देश हिमसिं गराको,पेरुको आन्देस हिमशृङ्खलाको,1.3333333333333333,0.3076923076923077
+008d96572b,/kaggle/working/asr_nepali_data/asr_nepali/data/00/008d96572b.flac,परेराम सो रुप प्राप्द एक,परिणामस्वरूप प्राप्त एक,1.3333333333333333,0.30434782608695654
+0667997af3,/kaggle/working/asr_nepali_data/asr_nepali/data/06/0667997af3.flac,दही चुरे सोबाबको बनाइदिन्छ।,दहीचिउरे स्वभावको बनाइदिन्छ,1.3333333333333333,0.2962962962962963
+01c3793721,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01c3793721.flac,सनि बार र मंगल बार,शनिबार र मङ्गलबार,1.3333333333333333,0.29411764705882354
+035d3e3c4f,/kaggle/working/asr_nepali_data/asr_nepali/data/03/035d3e3c4f.flac,छ अद्यान गर्नु भएको छ,अध्ययन गर्नुभएको छ,1.3333333333333333,0.2777777777777778
+02235d5810,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02235d5810.flac,पिउ न पर्यो गरिन्छ।,पिउन प्रयोग गरिन्छ,1.3333333333333333,0.2777777777777778
+0ca2b67e85,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0ca2b67e85.flac,ए सम्बन दमा विशेश,यस सम्बन्धमा विशेष,1.3333333333333333,0.2777777777777778
+0dec1b1ed8,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0dec1b1ed8.flac,लागिक कहिलको महत्र देखि,लागि कैलको महत्त्वदेखि,1.3333333333333333,0.2727272727272727
+08ed83e0eb,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08ed83e0eb.flac,पुल निर्मान गराउनु भएको हो।,पुल निर्माण गराउनुभएको,1.3333333333333333,0.2727272727272727
+0b0c8acf8f,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b0c8acf8f.flac,तेरो तुम शिल्लाका सुधाप,तेह्रथुम जिल्लाका सुदाप,1.3333333333333333,0.2608695652173913
+0cd205e90f,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cd205e90f.flac,त्यो श्रिकिष्ण सँग भन्दा छ।,त्यो श्रीकृष्णसँग भन्दछ,1.3333333333333333,0.2608695652173913
+031250d2f9,/kaggle/working/asr_nepali_data/asr_nepali/data/03/031250d2f9.flac,। उत्तरी अस्टरेलिया बाटस अबै,उत्तरी अस्ट्रेलियाबाट सबै,1.3333333333333333,0.24
+09589d0808,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09589d0808.flac,पहिलो प्यारा हरुमा लेखिए का,पहिलो प्याराग्राफहरूमा लेखिएका,1.3333333333333333,0.23333333333333334
+06879021e4,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06879021e4.flac,प्राप्लत जानका रे अनुसायो,प्राप्त जानकारी अनुसार,1.3333333333333333,0.22727272727272727
+078a62a7b6,/kaggle/working/asr_nepali_data/asr_nepali/data/07/078a62a7b6.flac,सिखहर माथि पूर्वत तिर ढोका,शिखरमाथि पूर्वतिर ढोका,1.3333333333333333,0.22727272727272727
+0617a8c5f3,/kaggle/working/asr_nepali_data/asr_nepali/data/06/0617a8c5f3.flac,पुच्रै रेनुका सँग दिवाह,पुत्री रेणुकासँग विवाह,1.3333333333333333,0.22727272727272727
+06f09012d4,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06f09012d4.flac,जनता सँग हुने गर्दा छ।,जनतासँग हुने गर्दछ,1.3333333333333333,0.2222222222222222
+070d257532,/kaggle/working/asr_nepali_data/asr_nepali/data/07/070d257532.flac,अरु संग रहदा भोतिक,अरुसँग रहँदा भौतिक,1.3333333333333333,0.2222222222222222
+001907805e,/kaggle/working/asr_nepali_data/asr_nepali/data/00/001907805e.flac,दृष्टिक ओणले किराती विषेष्था,दृष्टिकोणले किराँती विशेषता,1.3333333333333333,0.2222222222222222
+0f32721eac,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f32721eac.flac,आदारमा छुवा छो त गर्न,आधारमा छुवाछुत गर्न,1.3333333333333333,0.21052631578947367
+08ea7b1b0c,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08ea7b1b0c.flac,उपरक त लेखको पुन रावृति,उपरोक्त लेखको पुनरावृत्ति,1.3333333333333333,0.2
+040c30e9f5,/kaggle/working/asr_nepali_data/asr_nepali/data/04/040c30e9f5.flac,दाम डडेल दुराको शिर्ष,धाम डडेलधुराको शीर्ष,1.3333333333333333,0.2
+07f040a069,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07f040a069.flac,मक बरा भरिया बरे,मकबरा हरिया भरे,1.3333333333333333,0.2
+02ba5d740a,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02ba5d740a.flac,कोसपाल तेट थियो डोरले,कोषपाल टेड थियोडोरले,1.3333333333333333,0.2
+033377063d,/kaggle/working/asr_nepali_data/asr_nepali/data/03/033377063d.flac,नि यम अनुसारले खिन्छन्।,नियम अनुसार लेखिन्छन्,1.3333333333333333,0.19047619047619047
+07a6b00600,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07a6b00600.flac,संविक्त राजय अमेरिका सँग,संयुक्त राज्य अमेरिकासँग,1.3333333333333333,0.16666666666666666
+090f4e58f2,/kaggle/working/asr_nepali_data/asr_nepali/data/09/090f4e58f2.flac,जितपुर फेदी बाग्मती अन्छलको,जितपुरफेदी बागमती अञ्चलको,1.3333333333333333,0.16
+02edf221e3,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02edf221e3.flac,किन भने उनीहरु आफुना,किनभने उनीहरू आफ्ना,1.3333333333333333,0.15789473684210525
+02e3b7abff,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02e3b7abff.flac,भवानी जी नमस्थे मेतामा,भवानीजी नमस्ते मेटामा,1.3333333333333333,0.14285714285714285
+0e4602f883,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e4602f883.flac,जे नाम रोल पा जिल्लामा,झेनाम रोल्पा जिल्लामा,1.3333333333333333,0.14285714285714285
+0950a3e9a4,/kaggle/working/asr_nepali_data/asr_nepali/data/09/0950a3e9a4.flac,रन्मा मै कोट तक्सेरा हुकाम,रन्मामैकोट तकसेरा हुकाम,1.3333333333333333,0.13043478260869565
+0ec1b66d5c,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0ec1b66d5c.flac,दुई भन्दा बढी शब्द बाट,दुईभन्दा बढी शब्दबाट,1.3333333333333333,0.1
+035e912c0f,/kaggle/working/asr_nepali_data/asr_nepali/data/03/035e912c0f.flac,उनन्तीस मे एक वट सात एकमा,२९ मे १८७१ मा,1.25,1.3846153846153846
+044ae2bebf,/kaggle/working/asr_nepali_data/asr_nepali/data/04/044ae2bebf.flac,पल्बानेक्स थल्ल रखि आएको छ।,पौराणिक स्थल रहिआएको छ,1.25,0.5454545454545454
+0e41ab70cf,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e41ab70cf.flac,कबि तालामको केटीहरु पर्कासे छन्।,कवितारामका कृतिहरू प्रकाशित छन्,1.25,0.45161290322580644
+0152fd4cd0,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0152fd4cd0.flac,गाउबाट सहरी करण हुदै छ।,गाउँबाट सहरीकरण हुँदै छ,1.25,0.17391304347826086
+0e19083047,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e19083047.flac,[सङ्गीत] म विदावा,म विधवा,1.0,1.5714285714285714
+0742dbe65d,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0742dbe65d.flac,भनेदेखि कर्ण सम्भषीहरु,कर्ण शम्शेर,1.0,1.2727272727272727
+04b7fe49ab,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04b7fe49ab.flac,,इन्डियन किङ्गफिसर जेटएयर,1.0,1.0
+03b10759ad,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03b10759ad.flac,[सङ्गीत],स्टारशिप एल्बम,1.0,1.0
+0b13860439,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b13860439.flac,[सङ्गीत],जेठ ३ मा,1.0,1.0
+0c9c680b39,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c9c680b39.flac,,पी एच डी,1.0,1.0
+0cbcc693d7,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cbcc693d7.flac,[सङ्गीत],पतेरे खोला,1.0,1.0
+0d6e0eb218,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d6e0eb218.flac,[सङ्गीत],लगभग समान,1.0,1.0
+0a024fb483,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a024fb483.flac,बाथवी,कम्प्युटर इन्जिनियरिङ्गले वास्तविक,1.0,0.9411764705882353
+075d6a2efe,/kaggle/working/asr_nepali_data/asr_nepali/data/07/075d6a2efe.flac,छौ। छब्बिस सम्म भएको।,२६ सम्म भएको,1.0,0.9166666666666666
+0280698d2f,/kaggle/working/asr_nepali_data/asr_nepali/data/02/0280698d2f.flac,मा,डाइरेक्ट म्यानिपुलेसनमा,1.0,0.9130434782608695
+055ac579bc,/kaggle/working/asr_nepali_data/asr_nepali/data/05/055ac579bc.flac,बैसा ठियो पिजे,६२ औँ पिजिए,1.0,0.9090909090909091
+0d14f2eda8,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d14f2eda8.flac,अरु गबमा,वल्डकपमा स्पेन र,1.0,0.875
+042e22344e,/kaggle/working/asr_nepali_data/asr_nepali/data/04/042e22344e.flac,हो। एक भ्वाग हो।,एक भाग हो,1.0,0.7777777777777778
+0db92f215d,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0db92f215d.flac,एसका कारण दुई हजार पाच मा,एड्सका कारण २००५ मा,1.0,0.7368421052631579
+043a357549,/kaggle/working/asr_nepali_data/asr_nepali/data/04/043a357549.flac,इपु एक हजार एघारका अनुसार,ईपू १०११ का अनुसार,1.0,0.7222222222222222
+01dbe67bee,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01dbe67bee.flac,सुस्ट्रो,कम्युनिस्ट सशस्त्र,1.0,0.7222222222222222
+0f4ed4b20a,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f4ed4b20a.flac,झन् प्रिये,क्याम्पस जनप्रिय क्याम्पस,1.0,0.72
+07f887bd84,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07f887bd84.flac,२०७,ऐन २०६४,1.0,0.7142857142857143
+0ab077d134,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0ab077d134.flac,संसायदु निर्छक्यो।,सञ्चालन हुन सक्यो,1.0,0.7058823529411765
+05c326dd45,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05c326dd45.flac,के रखु,केन्द्र हो,1.0,0.7
+016cfbe90f,/kaggle/working/asr_nepali_data/asr_nepali/data/01/016cfbe90f.flac,रस्थन १९६ साठीको,र सन् १९६० को,1.0,0.6923076923076923
+0440b043e7,/kaggle/working/asr_nepali_data/asr_nepali/data/04/0440b043e7.flac,[सङ्गीत] बन्ने मानिसको सङ्ख्या हो।,बोल्ने मानिसको सङ्ख्या,1.0,0.6818181818181818
+040b0ec9f9,/kaggle/working/asr_nepali_data/asr_nepali/data/04/040b0ec9f9.flac,[सङ्गीत] यी सात स्थान लाई,यी सात स्थानलाई,1.0,0.6666666666666666
+0756dc7347,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0756dc7347.flac,हाम्रो दोह्रो गोलमा,दोस्रो गोलमा,1.0,0.6666666666666666
+032bf553c5,/kaggle/working/asr_nepali_data/asr_nepali/data/03/032bf553c5.flac,बुटा चाहिँ विकिनीय,बुढाजी विकि नियम,1.0,0.625
+0e8f399ce4,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e8f399ce4.flac,कर्ण्डानी हुन्छ,कर्णाली अञ्चल,1.0,0.6153846153846154
+077e959667,/kaggle/working/asr_nepali_data/asr_nepali/data/07/077e959667.flac,त्रिपन्न व्यक्ति गच्चन्दा,५३ व्यक्तिगत चन्दा,1.0,0.6111111111111112
+080c872f0b,/kaggle/working/asr_nepali_data/asr_nepali/data/08/080c872f0b.flac,मा माच्छा सम्बन्धी,प्रोफाइल प्रोजेक्टमा माछासम्बन्धी,1.0,0.6060606060606061
+0e1531448f,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e1531448f.flac,लिन्या ले,निर्णय लिए,1.0,0.6
+05a5716243,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05a5716243.flac,सुत्राफल भर्ग,क्षेत्रफल वर्ग कि मि,1.0,0.6
+0edb96e248,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0edb96e248.flac,हुन्छ समात २० समय समयमा,समाजद्वारा समय समयमा,1.0,0.6
+08f15c7b75,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08f15c7b75.flac,दिल्लामा बर्ने तिरचालीस,जिल्लामा पर्ने ४३,1.0,0.5882352941176471
+0dfccb948c,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0dfccb948c.flac,उनीहरुले भाइवालिन,उनले भायोलिन,1.0,0.5833333333333334
+05070384b9,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05070384b9.flac,चमुखमा यो,समूहमा युवती,1.0,0.5833333333333334
+00f967ce9b,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00f967ce9b.flac,माथि पढ्दा छ।,फुट माथि पर्दछ,1.0,0.5714285714285714
+02b0bb9df5,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02b0bb9df5.flac,दिन अनुरत गरे। त्यो,दिन अनुरोध गरे,1.0,0.5714285714285714
+0129dfb43d,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0129dfb43d.flac,प्रियोगलाई भनिन्छ।,प्रयोगलाई इलेक्ट्रोनिक्स भनिन्छ,1.0,0.5483870967741935
+0eade5aa8c,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0eade5aa8c.flac,[सङ्गीत] दागी हाट मोरङ जिल्लामा,डाँगीहाट मोरङ जिल्लामा,1.0,0.5454545454545454
+0bab80b953,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bab80b953.flac,ए कहाँ न इकाई,एक गौण इकाई,1.0,0.5454545454545454
+0b8eb16c50,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b8eb16c50.flac,रुशी खोण्जाई,ढुसी फन्जाइ,1.0,0.5454545454545454
+07ca08e188,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07ca08e188.flac,हो। मानसिक रुब हो।,मानसिक रोग हो,1.0,0.5384615384615384
+0a263252f8,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a263252f8.flac,स्यार पाका दुई छोरा,शेर्पाका २ छोरा,1.0,0.5333333333333333
+0055a267b0,/kaggle/working/asr_nepali_data/asr_nepali/data/00/0055a267b0.flac,अल्पोर्ट लिवान,जेएचजिओ अल्बर्ट लीवान,1.0,0.5238095238095238
+0b69dcd88d,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b69dcd88d.flac,या उत्त सिच्याको,इस्लामिया उच्च शिक्षाको,1.0,0.5217391304347826
+0bfc2501e5,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bfc2501e5.flac,सामाको अपचरिक,एसएलसीसम्मको औपचारिक,1.0,0.5
+0fbb7700b9,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fbb7700b9.flac,3-1 माधेविक बित्यालय,त्रिभुवन माध्यमिक विद्यालय,1.0,0.5
+024608eec4,/kaggle/working/asr_nepali_data/asr_nepali/data/02/024608eec4.flac,तिपतिस सिनामारीय,तिब्बती सेना मारिए,1.0,0.5
+01f993356b,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01f993356b.flac,उसले किर छन्,उल्लेख्य छन्,1.0,0.5
+083b2aa4e4,/kaggle/working/asr_nepali_data/asr_nepali/data/08/083b2aa4e4.flac,इसन्तले,यी सन्तले यस,1.0,0.5
+068454677c,/kaggle/working/asr_nepali_data/asr_nepali/data/06/068454677c.flac,साय एकसिद्ध भयो।,सहायक सिद्ध भए,1.0,0.5
+0af5aa88f4,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0af5aa88f4.flac,प्रशाधन सन्दर्यको प्रसाधन,सौन्दर्यको प्रसाधन,1.0,0.5
+073f06f743,/kaggle/working/asr_nepali_data/asr_nepali/data/07/073f06f743.flac,चेनामीत्स घोली,सेनाबीच गोली,1.0,0.5
+011ed6273d,/kaggle/working/asr_nepali_data/asr_nepali/data/01/011ed6273d.flac,दक्षिम पुर्वी मा,दक्षिण पूर्वी अस्ट्रेलियामा,1.0,0.48148148148148145
+0587cdacaa,/kaggle/working/asr_nepali_data/asr_nepali/data/05/0587cdacaa.flac,देंको जरुबाट पिडिद,डेङ्गु ज्वरोबाट पीडित,1.0,0.47619047619047616
+0408a59680,/kaggle/working/asr_nepali_data/asr_nepali/data/04/0408a59680.flac,फिपाली आधिकरी ग्रुममा,फिफाले आधिकारिक रूपमै,1.0,0.47619047619047616
+08012c6946,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08012c6946.flac,फेया पुर अस्कार,फिल्म फेयर पुरस्कार,1.0,0.47368421052631576
+0eb1ccd4e4,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0eb1ccd4e4.flac,त्यो प्रै बिसियालाई लिएर,थुप्रै विषयलाई लिएर,1.0,0.47368421052631576
+0773be6b68,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0773be6b68.flac,बेहिटलाई मलाई यसलाई,व्यहिटलैमले यसलाई,1.0,0.47058823529411764
+0f14b0e69b,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f14b0e69b.flac,मुक्के रुपनै पाइलो,मुख्य रूपले पहिलो,1.0,0.47058823529411764
+0ef5ff703d,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0ef5ff703d.flac,मद्रास्था थाहा अन्या,मद्रास तथा अन्य,1.0,0.4666666666666667
+0c8f8be640,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c8f8be640.flac,रिषी सन्तानु,ऋषि सन्तान हुन्,1.0,0.4666666666666667
+064e44b4e9,/kaggle/working/asr_nepali_data/asr_nepali/data/06/064e44b4e9.flac,माग दुई कतेका,माघ २ गतेका,1.0,0.45454545454545453
+048e9b39aa,/kaggle/working/asr_nepali_data/asr_nepali/data/04/048e9b39aa.flac,चालामा देखि नै,छालामा डाबर देखिने,1.0,0.4444444444444444
+07f436035a,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07f436035a.flac,बारत जोती लिङ्ग नाम,१२ ज्योतिलिङ्ग नाम,1.0,0.4444444444444444
+02e5eeaea6,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02e5eeaea6.flac,अभि नङ्गमानी नै,अभिन्न अङ्ग मानिने,1.0,0.4444444444444444
+05108411f0,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05108411f0.flac,प्रहिककुर्ता पृष्ट्र होला मैले,प्रयोगकर्ता पृष्ठलाई मैले,1.0,0.44
+0feea7b365,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0feea7b365.flac,स्लास्तेर संरहको,स्वास्थ्य र सङ्ग्रहको,1.0,0.42857142857142855
+05a0936877,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05a0936877.flac,कर्याक्राम पुलपक घोषाडा,कार्यक्रम पूर्व घोषणा,1.0,0.42857142857142855
+01eecdeb80,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01eecdeb80.flac,कार्योहरु बिलाल,कार्य रविलाल,1.0,0.4166666666666667
+0da8b625aa,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0da8b625aa.flac,केमा लगिदेउ,ट्याम्केमा लगिदेऊ,1.0,0.4117647058823529
+0bf767c496,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bf767c496.flac,दुई गाविष्य समेट दाई।,दुई गाविस समेट्दै,1.0,0.4117647058823529
+04da5c3387,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04da5c3387.flac,थियो त्यो खोदाको अगाडी,त्यो खुदाको अगाडि,1.0,0.4117647058823529
+053dfe6063,/kaggle/working/asr_nepali_data/asr_nepali/data/05/053dfe6063.flac,लगता दिएका,लगातार ऋण लिएका,1.0,0.4
+02fc0c5038,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02fc0c5038.flac,तापाई।,तपाईँ,1.0,0.4
+01cb95cd73,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01cb95cd73.flac,हो। युद्धको गोषाणा गर्यो।,युद्धको घोषणा गर्‍यो,1.0,0.4
+0c17b9324b,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c17b9324b.flac,। एश राज्यमा,यस राज्यमा,1.0,0.4
+0816d815ca,/kaggle/working/asr_nepali_data/asr_nepali/data/08/0816d815ca.flac,बिन कटिन्छ,दिन कठीन छ,1.0,0.4
+075e22fce6,/kaggle/working/asr_nepali_data/asr_nepali/data/07/075e22fce6.flac,दिडारी हो,द डायरी अफ,1.0,0.4
+01dac45c7d,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01dac45c7d.flac,अतिलिकत टोकीयोको,अतिरिक्त टोकियोको लन्डन,1.0,0.391304347826087
+0e32f81130,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e32f81130.flac,हो थाको चान्दन सिंहको,ठाकुर चन्दन सिंहको,1.0,0.3888888888888889
+0929869fa1,/kaggle/working/asr_nepali_data/asr_nepali/data/09/0929869fa1.flac,बिनास गर्ने पर्छु राम्रीले,विनाश गर्ने परशुरामले,1.0,0.38095238095238093
+0a92437f61,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a92437f61.flac,राखित तपाई उनीहरुको,राखे तब उनीहरूको,1.0,0.375
+05206159cb,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05206159cb.flac,चिकच्च भइज्या निक्ले पनि,चिकित्सा वैज्ञानिकले पनि,1.0,0.375
+00a4e62268,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00a4e62268.flac,सातैवटा,यी सातै वटा,1.0,0.36363636363636365
+0155780025,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0155780025.flac,बोत्य लाउने,पोते लगाउने,1.0,0.36363636363636365
+0242216efd,/kaggle/working/asr_nepali_data/asr_nepali/data/02/0242216efd.flac,पर्यो गुने,प्रयोग हुने,1.0,0.36363636363636365
+0916180324,/kaggle/working/asr_nepali_data/asr_nepali/data/09/0916180324.flac,गीयो नल्मे शी पेनाल्टी,लियोनल मेसीले पेनाल्टी,1.0,0.36363636363636365
+059365b623,/kaggle/working/asr_nepali_data/asr_nepali/data/05/059365b623.flac,राजनायतिक रुपले योध्यतर,राजनैतिक रूपले युद्धोत्तर,1.0,0.36
+041edeec9c,/kaggle/working/asr_nepali_data/asr_nepali/data/04/041edeec9c.flac,पर्यो नाम सरु पेन्सिलिनको,परिणाम स्वरूप पेन्सिलिनको,1.0,0.36
+09fe6ebfa2,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09fe6ebfa2.flac,बसन्त रितुमा दाज,वसन्त ऋतुमा दश,1.0,0.35714285714285715
+0cdcf2c620,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cdcf2c620.flac,कथा बस्तुथिन,कथावस्तु थिइन्,1.0,0.35714285714285715
+02cfcf4b67,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02cfcf4b67.flac,तेस्रो महा,तेश्रो महामारी,1.0,0.35714285714285715
+08b89f5084,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08b89f5084.flac,गुम्न आउने गर्दो थिए।,घुम्न आउने गर्दथे,1.0,0.35294117647058826
+0e15548a54,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e15548a54.flac,पौध्यकुम्बाहरुमा,बौद्ध गुम्बाहरूमा,1.0,0.35294117647058826
+01a95af0bc,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01a95af0bc.flac,कि राजनीताहरूले,केही राजनेताहरूले यस,1.0,0.35
+003807abfa,/kaggle/working/asr_nepali_data/asr_nepali/data/00/003807abfa.flac,घरैले उन्जाले घुम्यो,घरेलु हिंसाले गुम्यो,1.0,0.35
+01ce024e8d,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01ce024e8d.flac,योगी नरारिना त अफैडै,योगी नरहरिनाथ आफैँले,1.0,0.35
+087a9fcff3,/kaggle/working/asr_nepali_data/asr_nepali/data/08/087a9fcff3.flac,अब लम्बा र नाटा कि थिए,अविलम्ब र नाटकीय थिए,1.0,0.35
+06a345784f,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06a345784f.flac,अ नगरपालिका उनु पुर्गो,नगरपालिका हुनु पूर्व,1.0,0.35
+0673fb6ffb,/kaggle/working/asr_nepali_data/asr_nepali/data/06/0673fb6ffb.flac,जनसंग्या का सन्तानहरु,जनसङ्ख्याका सन्तानहरू हुन्,1.0,0.34615384615384615
+00c6cd4fae,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00c6cd4fae.flac,गासी कोपात,गाँसिएको पात,1.0,0.3333333333333333
+01cef0a78a,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01cef0a78a.flac,बिम बहारु परेक भएका छन्।,बिम्बहरू प्रयोग भएका छन्,1.0,0.3333333333333333
+0fcd57f045,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fcd57f045.flac,राजुद बनिन,राजदूत बनिन्,1.0,0.3333333333333333
+0f110150e7,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f110150e7.flac,त्यसन्तर्गतका विवागहरु,त्यस अर्न्तगतका विभागहरू,1.0,0.3333333333333333
+0196bcbbd8,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0196bcbbd8.flac,छोरी त थाहा हिन्दु।,छोरी तथा हिन्दू,1.0,0.3333333333333333
+05e0c47358,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05e0c47358.flac,मुर भन्दा पाँच वर्ष,मुरभन्दा ५ वर्ष,1.0,0.3333333333333333
+069239bbc0,/kaggle/working/asr_nepali_data/asr_nepali/data/06/069239bbc0.flac,बिनोर भण्टारी चार,बिनोद भण्डारी ४,1.0,0.3333333333333333
+03361484d2,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03361484d2.flac,अभि निहेर निदेशनमा,अभिनय र निर्देशनमा,1.0,0.3333333333333333
+0c092e0352,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c092e0352.flac,कबिको पुमिगा,कविको भूमिका,1.0,0.3333333333333333
+06d8ca7d42,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06d8ca7d42.flac,सात तिरै वान,साथ धेरै वाण,1.0,0.3333333333333333
+0734f4eeae,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0734f4eeae.flac,फण्डा ठिक भयो।,फन्दा ठिक्क भयो,1.0,0.3333333333333333
+0cc9e65cc6,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cc9e65cc6.flac,छापामार गर मोरान,जर्मन छापामार गरमोरान,1.0,0.3333333333333333
+0c76099506,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c76099506.flac,बा साच्छे र भएपछि,वा साक्षर भएपछि,1.0,0.3333333333333333
+0fb0585935,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fb0585935.flac,स्वस्वत्र प्ररी यो अस्पताल,सशस्त्र प्रहरी अस्पताल,1.0,0.3181818181818182
+0ef4f1bce0,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0ef4f1bce0.flac,काट्टिक नाचकाटिक,कात्तिक नाच कात्तिक,1.0,0.3157894736842105
+0ed3feae7c,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0ed3feae7c.flac,हो। तर हाल्लाई थोप्लाहरु,तर हाललाई थोप्लाहरू,1.0,0.3157894736842105
+0b73ff4c80,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b73ff4c80.flac,समुचित दिहान दिने छ।,समुचित ध्यान दिइनेछ,1.0,0.3157894736842105
+0c21a1e891,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c21a1e891.flac,तम्म लोसारले गुरुम,तमु ल्होसारले गुरूङ,1.0,0.3157894736842105
+07647601de,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07647601de.flac,त पनि जानकरी चायमा,पनि जानकारी चाहिएमा,1.0,0.3157894736842105
+0ec7e2996d,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0ec7e2996d.flac,प्राक्रितिक प्रक्रोप,प्राकृतिक प्रकोप,1.0,0.3125
+07a189840e,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07a189840e.flac,जातको उचाहि मति,जातकको उचाइ मोती,1.0,0.3125
+0c45117697,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c45117697.flac,प्रारम्बिक रब्ब्यमान गानुसार,प्रारम्भिक द्रव्यमानका अनुसार,1.0,0.3103448275862069
+0c85b397df,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c85b397df.flac,धेरै महत्तुपोड्न यति हासेक,धेरै महत्त्वपूर्ण ऐतिहासिक,1.0,0.3076923076923077
+093aedaa28,/kaggle/working/asr_nepali_data/asr_nepali/data/09/093aedaa28.flac,उम्ना ना थाल्छन्,उम्लन थाल्छन्,1.0,0.3076923076923077
+0b11281450,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b11281450.flac,मुन नक्षकीत्रको,मूल नक्षत्रको,1.0,0.3076923076923077
+07c45397b4,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07c45397b4.flac,प्राप्त घर्दा छ।,प्राप्त गर्दछ,1.0,0.3076923076923077
+0eb5837996,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0eb5837996.flac,सैलिका पत्रहरा,शैलीका पत्र र,1.0,0.3076923076923077
+0e99175ea5,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e99175ea5.flac,पछि निर्यतमा बृद्धी लगातार,निर्यातमा वृद्धि लगातार,1.0,0.30434782608695654
+0700b41a96,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0700b41a96.flac,सहकारी त थाहा,सहकारी तथा,1.0,0.3
+0c78932ad6,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c78932ad6.flac,गन्वकी नदि,गण्डकी नदी,1.0,0.3
+068dd44ea3,/kaggle/working/asr_nepali_data/asr_nepali/data/06/068dd44ea3.flac,पार्न भरुका नजिक साठ,पाण्डवहरूका नजिक सात,1.0,0.3
+0f671554db,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f671554db.flac,उदेको क्षेत्रमा मध्यौ,उद्योग क्षेत्र मध्यम,1.0,0.3
+0a93eed080,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a93eed080.flac,अ अगाडी बढ्न,अगाडि बढ्न,1.0,0.3
+0704d13d6e,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0704d13d6e.flac,जो आउन सकिने नखो।,जोगाउन सकिने न हो,1.0,0.29411764705882354
+0e4121a498,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e4121a498.flac,गुरुत्त मिल्किदिए,गुरुत्व मिल्की वे,1.0,0.29411764705882354
+0e943eb3d1,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e943eb3d1.flac,सोयम सेभी सक्ती बनिरह्यो,स्वयंसेवी शक्ति बनिरह्यो,1.0,0.2916666666666667
+094018c6bc,/kaggle/working/asr_nepali_data/asr_nepali/data/09/094018c6bc.flac,जिल्ला क्या अर्को,जिल्लाकै अर्को,1.0,0.2857142857142857
+0106a0e5e1,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0106a0e5e1.flac,बसोबास गर्ने मुख खिवा तया,बसोबास गर्ने मुख्यतया,1.0,0.2857142857142857
+09fba7d393,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09fba7d393.flac,जंगलको ओरिपरी,जङ्गलको वरिपरि,1.0,0.2857142857142857
+0b5f198e08,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b5f198e08.flac,रोपमा उसले करियो,रूपमा उल्लेख गरियो,1.0,0.2777777777777778
+0f490f75f5,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f490f75f5.flac,वा रबाशी र हन्छन्,वा प्रवासी रहन्छन्,1.0,0.2777777777777778
+01593a2b90,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01593a2b90.flac,पुमिका निवाय जस्लाई,भूमिका निभाए जसलाई,1.0,0.2777777777777778
+0306eae372,/kaggle/working/asr_nepali_data/asr_nepali/data/03/0306eae372.flac,प्रठम इन्डेन्यसनलमा,प्रथम इन्टरनेसनलमा,1.0,0.2777777777777778
+0fcf333119,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fcf333119.flac,कहाँ त पाखुरा र छ ति,काँध पाखुरा र छाती,1.0,0.2777777777777778
+0e1c81ad41,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e1c81ad41.flac,भारतीय राख्जे अरुनान चल,भारतीय राज्य अरुणाञ्चल,1.0,0.2727272727272727
+097f021c09,/kaggle/working/asr_nepali_data/asr_nepali/data/09/097f021c09.flac,स्वा गी हुने,सहभागी हुने,1.0,0.2727272727272727
+0b5819a3b7,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b5819a3b7.flac,योग्दानको कदर्शहरु इस्थानीय,योगदानको कदरस्वरूप स्थानीय,1.0,0.2692307692307692
+02acbf33b5,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02acbf33b5.flac,बन हरो रहेका छन्।,वनहरू रहेका छन्,1.0,0.26666666666666666
+05d08de0cb,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05d08de0cb.flac,मानिस माछा लाई सहुक्क,मानिस माछालाई सौखका,1.0,0.2631578947368421
+085f7e936a,/kaggle/working/asr_nepali_data/asr_nepali/data/08/085f7e936a.flac,एक गोहिर सरकारी सस्था,एक गैरसरकारी संस्था,1.0,0.2631578947368421
+0991afdd1c,/kaggle/working/asr_nepali_data/asr_nepali/data/09/0991afdd1c.flac,देरै पहाडे सडाकरुको,धेरै पहाडी सडकहरूको,1.0,0.2631578947368421
+09ad691058,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09ad691058.flac,पश्चिम्मा भग्ने आको,पश्चिममा बग्ने आँखु,1.0,0.2631578947368421
+0be487d8e5,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0be487d8e5.flac,हुने गरे दाई बाया,हुने गरी दायाँबायाँ,1.0,0.2631578947368421
+03c6520773,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03c6520773.flac,माथिकै भनिएको बाट,माथि केही भनिएकोबाट,1.0,0.2631578947368421
+09d8235403,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09d8235403.flac,मैले उहालाई प्रयुग गर्दा,मैले वहाँलाई प्रयोगकर्ता,1.0,0.25
+0c3a64c496,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c3a64c496.flac,ग्रसी तुन्छ,ग्रसित हुन्छ,1.0,0.25
+0ea82df969,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0ea82df969.flac,चुनी एक थियो,चुनिएको थियो,1.0,0.25
+0dd7fd3c69,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0dd7fd3c69.flac,केम क्यार्यल जन्मा,किम क्यारोल जन्म,1.0,0.25
+0dfa877b3a,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0dfa877b3a.flac,र तुल्सी पुल्य राक्ती,र तुल्सीपुरले राप्ती,1.0,0.25
+0b78ee4edb,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b78ee4edb.flac,गावीसहरु एक नगर्पालिका,गाविसहरू १ नगरपालिका,1.0,0.25
+0dae291e40,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0dae291e40.flac,पार्टिका राजनीतिक गए खुन,पार्टिका राजनीतिज्ञ हुन्,1.0,0.25
+019d085da1,/kaggle/working/asr_nepali_data/asr_nepali/data/01/019d085da1.flac,जन्म पाथी भरा तिनमा,जन्म पाथीभरा ३मा,1.0,0.25
+01530251eb,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01530251eb.flac,खरितमा छ।,खरिदमा छ,1.0,0.25
+090ebafeab,/kaggle/working/asr_nepali_data/asr_nepali/data/09/090ebafeab.flac,न इस्वर पुत्र,न ईश्वरपुत्र,1.0,0.25
+0cfd82f26b,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cfd82f26b.flac,त्राखेको पायो,राखेको पाइयो,1.0,0.25
+06192cc557,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06192cc557.flac,चालिङ नेपालको मध्यमा अन्छ,छालिङ नेपालको मध्यमाञ्चल,1.0,0.25
+0d0892bf95,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d0892bf95.flac,उहाहरुले अरुलाई दुखा।,उहाँहरूले अरूलाई दुख,1.0,0.25
+0c34422de6,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c34422de6.flac,अ जुवानो तरकारी त थाहा अचारमा,ज्वानो तरकारी तथा अचारमा,1.0,0.25
+0db2ed5fec,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0db2ed5fec.flac,लुकै र पछेको मेरो,लुकेर बसेको मेरो,1.0,0.25
+049d6bbd57,/kaggle/working/asr_nepali_data/asr_nepali/data/04/049d6bbd57.flac,मोहन विक्रम सिंहले न्यत्रित्व,मोहनविक्रम सिंहले नेतृत्व,1.0,0.24
+029e2958b3,/kaggle/working/asr_nepali_data/asr_nepali/data/02/029e2958b3.flac,गनेश जे तपाईलाई नयाँ,गणेशजी तपाईँंलाई नयाँ,1.0,0.23809523809523808
+0f0762bbf6,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f0762bbf6.flac,अन्यो उपनी बेशहरुले पनि,अन्य उपनिवेशहरूले पनि,1.0,0.23809523809523808
+0babc29328,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0babc29328.flac,सिया सिया परेको हुदैन।,छियाछिया परेको हुँदैन,1.0,0.23809523809523808
+0ae65d1b60,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0ae65d1b60.flac,फेरी प्रतिक सुचीलाई,फेरि प्रत्येक सूचीलाई,1.0,0.23809523809523808
+065894c95b,/kaggle/working/asr_nepali_data/asr_nepali/data/06/065894c95b.flac,कुराकमा घामीले,कुराको माग हामीले,1.0,0.23529411764705882
+04534ff61a,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04534ff61a.flac,सत्र धारणी आदी पनि,छत्रधारणि आदि पनि,1.0,0.23529411764705882
+077c2f9e78,/kaggle/working/asr_nepali_data/asr_nepali/data/07/077c2f9e78.flac,उखु चार गर्न सकिन्छ।,उपचार गर्न सकिन्छ,1.0,0.23529411764705882
+062debe4e5,/kaggle/working/asr_nepali_data/asr_nepali/data/06/062debe4e5.flac,पुर्गमा विवाजित छ।,पूर्वमा विभाजित छ,1.0,0.23529411764705882
+02bc29c9b8,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02bc29c9b8.flac,अस्टेलियाली सिनामा भते,अस्ट्रेलियाली सेनामा भर्ती,1.0,0.23076923076923078
+04028d64ba,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04028d64ba.flac,ठुलो मटेर थाडो,ठूलो मटर ठाडो,1.0,0.23076923076923078
+008c17f698,/kaggle/working/asr_nepali_data/asr_nepali/data/00/008c17f698.flac,हेस मध्ये लज्जा,यसमध्ये लज्जा,1.0,0.23076923076923078
+07f0bacb0f,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07f0bacb0f.flac,ए रहेको पाइदैन,रहेको पाइँदैन,1.0,0.23076923076923078
+0013bfeda1,/kaggle/working/asr_nepali_data/asr_nepali/data/00/0013bfeda1.flac,क्याम श्रिन्त पाल्चोक जिल्लाको,क्याम्पस सिन्धुपाल्चोक जिल्लाको,1.0,0.22580645161290322
+0621bd43fc,/kaggle/working/asr_nepali_data/asr_nepali/data/06/0621bd43fc.flac,पुर्व तामोर नदिसम्मा,पूर्व तमोर नदीसम्म,1.0,0.2222222222222222
+02f8670451,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02f8670451.flac,अन्छलको सोधो खुम्भु जिल्लाको,अञ्चलको सोलुखुम्बु जिल्लाको,1.0,0.2222222222222222
+004797d788,/kaggle/working/asr_nepali_data/asr_nepali/data/00/004797d788.flac,छापी एको छ,छापिएको छ,1.0,0.2222222222222222
+054148d7fd,/kaggle/working/asr_nepali_data/asr_nepali/data/05/054148d7fd.flac,वानुहुन्छ,भान हुन्छ,1.0,0.2222222222222222
+08b695dca8,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08b695dca8.flac,निपालको बाच बिकास,नेपालको पाँच विकास,1.0,0.2222222222222222
+08e670ebd7,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08e670ebd7.flac,स्थानहरु राइका छन्।,स्थानहरू रहेका छन्,1.0,0.2222222222222222
+0b4fb4aac1,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b4fb4aac1.flac,भनिन महत्मन,भनिन् महात्मन्,1.0,0.21428571428571427
+0bd862125c,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bd862125c.flac,सच्चै ल्यायो।,साँच्चै ल्यायो,1.0,0.21428571428571427
+0592b825cd,/kaggle/working/asr_nepali_data/asr_nepali/data/05/0592b825cd.flac,सिर्ष नेता खनाल,शीर्षनेता खनाल,1.0,0.21428571428571427
+027117406f,/kaggle/working/asr_nepali_data/asr_nepali/data/02/027117406f.flac,पाच नेपालका परम परागत,५ नेपालका परम्परागत,1.0,0.21052631578947367
+0fb845be7b,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fb845be7b.flac,अब राम लिंकनले यो,अब्राहम लिङ्कनले यो,1.0,0.21052631578947367
+07da3eda48,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07da3eda48.flac,शब्यता हरुमा देखिएको,सभ्यताहरूमा देखिएको,1.0,0.21052631578947367
+0d57b8b12e,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d57b8b12e.flac,सास्ट्रार धमा भराउने काम,शास्त्रार्थमा हराउने काम,1.0,0.20833333333333334
+0bde9d4483,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bde9d4483.flac,आत्मा प्रकासन पनि,आत्मप्रकाशन पनि,1.0,0.2
+0d06437875,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d06437875.flac,जनायका छन्।,जनाएका छन्,1.0,0.2
+0185db6a70,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0185db6a70.flac,सी जी आन्द्रास र,सिजी आन्ड्रास र,1.0,0.2
+041dcc38c2,/kaggle/working/asr_nepali_data/asr_nepali/data/04/041dcc38c2.flac,मद्दै कालमा कतिपय धाराहरुको,मध्यकालमा कतिपय धाराहरूको,1.0,0.2
+0b8622cddc,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b8622cddc.flac,स्याम गुरुम पदन,श्याम गुरुङ पदम,1.0,0.2
+08a2a541f0,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08a2a541f0.flac,गरेको मार्दिक,गरेकोमा हार्दिक,1.0,0.2
+022eb3d75f,/kaggle/working/asr_nepali_data/asr_nepali/data/02/022eb3d75f.flac,गरिदिन्छु।,गरि दिन्छु,1.0,0.2
+0f7a5fd545,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f7a5fd545.flac,पञ्जाको जाल धर्मा सम्पन्न,पन्जाबको जालन्धरमा सम्पन्न,1.0,0.19230769230769232
+047911be4d,/kaggle/working/asr_nepali_data/asr_nepali/data/04/047911be4d.flac,एक बायो ग्राफरले उन्नाइ,एक बायोग्राफरले उनलाई,1.0,0.19047619047619047
+08d8d1dfd3,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08d8d1dfd3.flac,अस्टरीलियाको निदिलाई,अस्ट्रेलियाको नीतिलाई,1.0,0.19047619047619047
+015f9280ba,/kaggle/working/asr_nepali_data/asr_nepali/data/01/015f9280ba.flac,तेस बेला उहा माओवादी,त्यसबेला उहाँ माओवादी,1.0,0.19047619047619047
+03e28e8665,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03e28e8665.flac,स्वतन्त्र तासङ्मिलनमा,स्वतन्त्रता सम्मेलनमा,1.0,0.19047619047619047
+040a73b852,/kaggle/working/asr_nepali_data/asr_nepali/data/04/040a73b852.flac,देविका मुर्तिहरु जस्तो,देवीका मुर्तिहरू जसको,1.0,0.19047619047619047
+08f8d1f259,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08f8d1f259.flac,राष्ट्रभातको उदै,राष्ट्रवादको उदय,1.0,0.1875
+0a0624add8,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a0624add8.flac,ना परेको बताइएको छ।,नपरेको बताइएको छ,1.0,0.1875
+002a749d55,/kaggle/working/asr_nepali_data/asr_nepali/data/00/002a749d55.flac,श्रनीमा राकिन्छ,श्रेणीमा राखिन्छ,1.0,0.1875
+05c88ab560,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05c88ab560.flac,स्ना त शकेका थिए,स्नातक सकेका थिए,1.0,0.1875
+00b316fa0b,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00b316fa0b.flac,अन्नेले राष्ट्रीय,अन्यले राष्ट्रिय,1.0,0.1875
+01c8aa05ef,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01c8aa05ef.flac,कन्दाहरु सम्म लामो,कन्धहरुसम्म लामो,1.0,0.1875
+0e2b27ffb4,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e2b27ffb4.flac,ए म बराबरको पढाई,एमए बराबरको पढाइ,1.0,0.1875
+08bb96a4a7,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08bb96a4a7.flac,बयो इत्यादी,भयो इत्यादि,1.0,0.18181818181818182
+08be6ed059,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08be6ed059.flac,बारध्य ग्रामको कृषी केन्द्रित,भारतीय ग्रामको कृषिकेन्द्रित,1.0,0.17857142857142858
+01a53a1136,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01a53a1136.flac,कति पयो त्यस्तै छन्।,कतिपय त्यस्तै छन्,1.0,0.17647058823529413
+063bc944b2,/kaggle/working/asr_nepali_data/asr_nepali/data/06/063bc944b2.flac,तमुर नदि त्रिवेनी,तमोर नदी त्रिवेणी,1.0,0.17647058823529413
+08c28a13f7,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08c28a13f7.flac,अब लेखका लागि माक,अभिलेखका लागि माग,1.0,0.17647058823529413
+00ceed2707,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00ceed2707.flac,गाइका तथा गीत कार,गायिका तथा गीतकार,1.0,0.17647058823529413
+0bbafeb514,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bbafeb514.flac,टोरण टुडाल च्याल,तोरण टुँडाल झ्याल,1.0,0.17647058823529413
+01d1d205be,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01d1d205be.flac,साली ग्राम पुजा सम्बन्धी,शालिग्राम पूजा सम्बन्धी,1.0,0.17391304347826086
+0715d985b4,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0715d985b4.flac,कृषी मन्त्रालय कानुसार,कृषि मन्त्रालयका अनुसार,1.0,0.17391304347826086
+0a9ff299f6,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a9ff299f6.flac,सिकार बन्छन्।,शिकार बन्छन्,1.0,0.16666666666666666
+0e3fc7a26a,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e3fc7a26a.flac,व्युत पाधन छ,व्युत्पादन छ,1.0,0.16666666666666666
+0dacda5368,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0dacda5368.flac,सिक्षा पाइका गपाल,शिक्षा पाएका गोपाल,1.0,0.16666666666666666
+0f806384b1,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f806384b1.flac,छ सय वर्ष अघि,६ सय वर्षअघि,1.0,0.16666666666666666
+0b33b4c3e1,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b33b4c3e1.flac,पारतीय चिकित्सा पद्धती हो,भारतीय चिकित्सापद्दति हो,1.0,0.16666666666666666
+0fbc2b9d30,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fbc2b9d30.flac,पुल्न सक्दैन।,भुल्न सक्दैन,1.0,0.16666666666666666
+0a041c0406,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a041c0406.flac,सुरे उपासना सँग सम्बन्धित,सूर्य उपासनासँग सम्बन्धित,1.0,0.16
+08def00260,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08def00260.flac,सम्मस्पुग्नमा तुनिया,सम्म पुग्नमा दुनिया,1.0,0.15789473684210525
+0ffca1ef57,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0ffca1ef57.flac,देवाला रे मठमन्धिरमा,देवालय र मठमन्दिरमा,1.0,0.15789473684210525
+08c45f1187,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08c45f1187.flac,कम्पनीको सहस अवस्थापक,कम्पनीको सहसंस्थापक,1.0,0.15789473684210525
+008ef1abf7,/kaggle/working/asr_nepali_data/asr_nepali/data/00/008ef1abf7.flac,छिन्दुरमा चङ्खेर नक्क लिको,सिन्दुरमा चङ्खे र नक्कलीको,1.0,0.15384615384615385
+032d206e19,/kaggle/working/asr_nepali_data/asr_nepali/data/03/032d206e19.flac,विजय बन्दा पछि,विजयभन्दा पछि,1.0,0.15384615384615385
+05dc2cd19b,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05dc2cd19b.flac,यसलाई त कालै,यसलाई तत्कालै,1.0,0.15384615384615385
+0033a7ae1e,/kaggle/working/asr_nepali_data/asr_nepali/data/00/0033a7ae1e.flac,संकर जी नमस्थे नेपाली,शंकरजी नमस्ते नेपाली,1.0,0.15
+03e5264af0,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03e5264af0.flac,हसर पढ्ने गरी त्यस्तो,असर पर्नेगरी त्यस्तो,1.0,0.15
+0e09d45820,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e09d45820.flac,सर माकै कारण राहुले,शर्माकै कारण राहुलले,1.0,0.15
+0cefed3473,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cefed3473.flac,व्यापार बाटो गरेका थिए।,व्यापारबाट गरेका थिए,1.0,0.15
+034ccb1cfa,/kaggle/working/asr_nepali_data/asr_nepali/data/03/034ccb1cfa.flac,नागमुल नक्षेत्र भनिन्छ।,नागमूल नक्षत्र भनिन्छ,1.0,0.14285714285714285
+0c77d606e2,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c77d606e2.flac,महा सागरमा पाइने उम्नी,महासागरमा पाइने उड्ने,1.0,0.14285714285714285
+00a7a2549a,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00a7a2549a.flac,सबभन्दा बल साली,सबभन्दा बलशाली,1.0,0.14285714285714285
+0c4956d193,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c4956d193.flac,काम त पुरो अधिराज्यको भाक थियो,कामतापुर अधिराज्यको भाग थियो,1.0,0.14285714285714285
+0944cd5858,/kaggle/working/asr_nepali_data/asr_nepali/data/09/0944cd5858.flac,पारतमा सै भन्दा सस्तो,भारतमा सबैभन्दा सस्तो,1.0,0.14285714285714285
+057b5f53bb,/kaggle/working/asr_nepali_data/asr_nepali/data/05/057b5f53bb.flac,काठमाडौँ विश्व विद्याल आयो निम्न,काठमाडौँ विश्वविद्यालय निम्न,1.0,0.14285714285714285
+05eb29d1f6,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05eb29d1f6.flac,प्रानम्भिक कालमा लोकशाहित्यको,प्रारम्भिककालमा लोक साहित्यको,1.0,0.13793103448275862
+0e4b7a84b6,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e4b7a84b6.flac,अन्तर राष्ट्रियो स्टर्का नेपाली,अन्तर्राष्ट्रिय स्तरका नेपाली,1.0,0.13793103448275862
+0f019da96a,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f019da96a.flac,अन्छल ललित पुर जिल्लाको,अञ्चल ललितपुर जिल्लाको,1.0,0.13636363636363635
+05c4b11b92,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05c4b11b92.flac,नियान त्रित गर्छ,नियन्त्रित गर्छ,1.0,0.13333333333333333
+0505ebd182,/kaggle/working/asr_nepali_data/asr_nepali/data/05/0505ebd182.flac,बच्चालाई सिकाउदा भनि नै,बच्चालाई सिकाउँदा भनिने,1.0,0.13043478260869565
+03fed63e75,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03fed63e75.flac,यो घटनाले डेल फी बासीहरु,यो घटनाले डेल्फीबासीहरू,1.0,0.13043478260869565
+038d56ce1e,/kaggle/working/asr_nepali_data/asr_nepali/data/03/038d56ce1e.flac,मैले देखे अनुसार तपाईलाई।,मैले देखेअनुसार तपाईँलाई,1.0,0.125
+0374d5fbe1,/kaggle/working/asr_nepali_data/asr_nepali/data/03/0374d5fbe1.flac,तपाईले अनात पृष्ठहरुलाई,तपाईँले अनाथ पृष्ठहरूलाई,1.0,0.125
+02da9a8fe4,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02da9a8fe4.flac,अस्टेर लियाली आदिवासहरुको अधिकार,अस्ट्रेलियाली आदिवासीहरूको अधिकार,1.0,0.12121212121212122
+0fe386143f,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fe386143f.flac,यस नक्षेत्रलाई प्राता कालमा,यस नक्षत्रलाई प्रातःकालमा,1.0,0.12
+09b6b92b95,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09b6b92b95.flac,संविधान सबामा प्रमुख्ता साथ,संविधानसभामा प्रमुखता साथ,1.0,0.12
+0b7fe1d87d,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b7fe1d87d.flac,गडतन्त्र इष्टो निया उत्तरी,गणतन्त्र इस्टोनिया उत्तरी,1.0,0.12
+0f27499469,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f27499469.flac,जेलबाट पाण्डु लिपीको रुपमा,जेलबाट पाण्डुलिपिको रूपमा,1.0,0.12
+0a75363268,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a75363268.flac,दिलमा प्रकृतिक सुन्दर्ताले,डिलमा प्राकृतिक सुन्दरताले,1.0,0.11538461538461539
+09e2a1ea4f,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09e2a1ea4f.flac,दक्षिडी वियतनामी सेनाहरुका,दक्षिणी भियतनामी सेनाहरूका,1.0,0.11538461538461539
+015ae545f8,/kaggle/working/asr_nepali_data/asr_nepali/data/01/015ae545f8.flac,पत्रो पत्रिकामा प्रकाशित छन्।,पत्रपत्रिकामा प्रकाशित छन्,1.0,0.11538461538461539
+078bc96781,/kaggle/working/asr_nepali_data/asr_nepali/data/07/078bc96781.flac,राम्रो सँग खाना लाउन,राम्रोसँग खान लाउन,1.0,0.1111111111111111
+0245cb880e,/kaggle/working/asr_nepali_data/asr_nepali/data/02/0245cb880e.flac,ल्याई विषय वस्तुगत व्यापकता,नौल्याई विषयवस्तुगत व्यापकता,1.0,0.10714285714285714
+053f7e2d81,/kaggle/working/asr_nepali_data/asr_nepali/data/05/053f7e2d81.flac,वास्तु कलाका नमुनाहरु यत्रतत्र,वास्तुकलाका नमूनाहरू यत्रतत्र,1.0,0.10344827586206896
+06fc079c2b,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06fc079c2b.flac,सबै धारहरुलाई एक कृत,सबै धारहरूलाई एकीकृत,1.0,0.1
+0944a98949,/kaggle/working/asr_nepali_data/asr_nepali/data/09/0944a98949.flac,सस्थाका कर्मचारीहरु,संस्थाका कर्मचारीहरू,1.0,0.1
+0ac8482785,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0ac8482785.flac,नरम भनाएर राख्नु पर्छ,नरम बनाएर राख्नुपर्छ,1.0,0.1
+088572ef03,/kaggle/working/asr_nepali_data/asr_nepali/data/08/088572ef03.flac,दुई दिन पछि,दुई दिनपछि,1.0,0.1
+0fb4935fcc,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fb4935fcc.flac,खुवाउनी परम परा रहेको,खुवाउने परम्परा रहेको,1.0,0.09523809523809523
+0cf78889da,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cf78889da.flac,मन्दिरको तल्लोब तल लामा,मन्दिरको तल्लो तल्लामा,1.0,0.09090909090909091
+0503450a13,/kaggle/working/asr_nepali_data/asr_nepali/data/05/0503450a13.flac,सदर मुकाम पनि,सदरमुकाम पनि,1.0,0.08333333333333333
+0ec6661b4b,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0ec6661b4b.flac,लागि समय समयमा निर्वाजनका,लागि समयसमयमा निर्वाचनका,1.0,0.08333333333333333
+0112505e61,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0112505e61.flac,अन्त राष्ट्रिय समाजवादी,अन्तर्राष्ट्रिय समाजवादी,1.0,0.08333333333333333
+075dbbab4e,/kaggle/working/asr_nepali_data/asr_nepali/data/07/075dbbab4e.flac,माओवादी सित पनि,माओवादीसित पनि,1.0,0.07142857142857142
+0b1c711878,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b1c711878.flac,जग्गा धनीलाई प्रमाणपत्र भितरण,जग्गाधनीलाई प्रमाणपत्र वितरण,1.0,0.07142857142857142
+0b426d6d1a,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b426d6d1a.flac,प्राथमिक दुई वटा,प्राथमिक दुईवटा,1.0,0.06666666666666667
+0767660458,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0767660458.flac,मैलाई त आठ जना बालबलिकाहरु,महिला तथा ८ जना बालबालिकाहरू,0.8,0.32142857142857145
+066a5c902f,/kaggle/working/asr_nepali_data/asr_nepali/data/06/066a5c902f.flac,सबै त्रिक्कोन हरमा बिस्दारित गरेका थिए।,सबै त्रिकोणहरूमा विस्तारित गरेका थिए,0.8,0.2222222222222222
+013a669168,/kaggle/working/asr_nepali_data/asr_nepali/data/01/013a669168.flac,परेट के केन्द्र तथा प्राकृतिक सङ्ग्राल है,पर्यटकीय केन्द्र तथा प्राकृतिक सङ्ग्राहलय,0.8,0.21951219512195122
+05d0fe8f70,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05d0fe8f70.flac,गणेडाको सिंक कपा र नङग भन्ने जस्तै केरा तीनले भनेको हुन्छ।,गैंडाको सिङ कपाल र नङ बन्ने जस्तै केराटिनले बनेको हुन्छ।,0.8,0.19642857142857142
+0f48848c10,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f48848c10.flac,एक यसरी धार्मेक र बहिज्ञानी,यसरी धार्मिक र वैज्ञानिक,0.75,0.375
+00a8073bc2,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00a8073bc2.flac,यो सावित भएकी,यो साबित भयो कि,0.75,0.3333333333333333
+0887c233a3,/kaggle/working/asr_nepali_data/asr_nepali/data/08/0887c233a3.flac,चाथा उठ्या पनि हुन्छ।,तथा ऊर्जा पनि हुन्छ,0.75,0.3157894736842105
+07e0d70a1a,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07e0d70a1a.flac,जादुन र अपसी,जादु टुना र आपसी,0.75,0.3125
+03e5d62f63,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03e5d62f63.flac,मलाई युनिकोट रसँखि,मलाई युनिकोड र सही,0.75,0.2777777777777778
+0a19194213,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a19194213.flac,महिना बिहान नौ बजे देखि,महिना बिहान ९ बजेदेखि,0.75,0.14285714285714285
+06847e23c1,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06847e23c1.flac,दियान गर्नु होला र जहाँ,ध्यान गर्नुहोला र जहाँ,0.75,0.13636363636363635
+0b1b4bc2c6,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b1b4bc2c6.flac,यसको दिर्गकालीन व्यवस्था पन्का लागि,यसको दीर्घकालीन व्यवस्थापनका लागि,0.75,0.12121212121212122
+05a5cc736a,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05a5cc736a.flac,गरिन र राज्य सभा सभाको,गरिन् र राज्यसभा सभाको,0.75,0.09090909090909091
+0315ce2974,/kaggle/working/asr_nepali_data/asr_nepali/data/03/0315ce2974.flac,[सङ्गीत] अठ्टाइस मौजा मध्ये,२८ मौजा मध्ये,0.6666666666666666,1.2307692307692308
+0bc391c89a,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bc391c89a.flac,अठारसे तिरनबामा निकोला,१८९३ मा निकोला,0.6666666666666666,0.8571428571428571
+0c666cf413,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c666cf413.flac,हो,डाउन फल हो,0.6666666666666666,0.8
+0fbce00b2a,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fbce00b2a.flac,हुनुहुन्छ। युराज्ञ हबी भनिन्छ,युरासियन हबी भनिन्छ,0.6666666666666666,0.7894736842105263
+0aa62da0a5,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0aa62da0a5.flac,वा अस्दौ,रोमनाइज्ड वा असदउ,0.6666666666666666,0.7058823529411765
+0b24452bad,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b24452bad.flac,एक्काशमै देखि,२१ मे देखि,0.6666666666666666,0.7
+0d534298fc,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d534298fc.flac,[सङ्गीत] विजय गरेको थियो।,विजय गरेको थियो,0.6666666666666666,0.6666666666666666
+0298884586,/kaggle/working/asr_nepali_data/asr_nepali/data/02/0298884586.flac,पढेर,रेड बुक पढेर,0.6666666666666666,0.6666666666666666
+0188354284,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0188354284.flac,थियो। थोनीको लागि एक,ध्वनिको लागि एक,0.6666666666666666,0.6
+0bae47faf0,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bae47faf0.flac,[सङ्गीत] रमाइदो पाराले कोर्न,रमाईलो पाराले कोर्न,0.6666666666666666,0.5789473684210527
+0a9a982139,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a9a982139.flac,लरी त्यसै छिर्न,ललित त्यसै क्षण,0.6666666666666666,0.5333333333333333
+0e3d5a790f,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e3d5a790f.flac,जेली वाच्चार,जेली अचार चक्लेट,0.6666666666666666,0.5
+067329d6d9,/kaggle/working/asr_nepali_data/asr_nepali/data/06/067329d6d9.flac,छ। छर्कको जनसँग छ,छर्कको जनसङ्ख्या छ,0.6666666666666666,0.5
+060dd6ba8f,/kaggle/working/asr_nepali_data/asr_nepali/data/06/060dd6ba8f.flac,सम्पाधन गर्दा,टेम्प्लेट सम्पादन गर्दा,0.6666666666666666,0.4782608695652174
+017ddd6ef0,/kaggle/working/asr_nepali_data/asr_nepali/data/01/017ddd6ef0.flac,उग्राहा बुद्ध हो,ग्रह बुध हो,0.6666666666666666,0.45454545454545453
+0b4e717798,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b4e717798.flac,[सङ्गीत] धेरै प्रशासन संस्थाहरु,धेरै प्रशासन संस्थाहरू,0.6666666666666666,0.45454545454545453
+01f4795ac4,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01f4795ac4.flac,हुनुभएको पैसकेका छन्,अनुवाद भइसकेका छन्,0.6666666666666666,0.4444444444444444
+0bd5bbfa47,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bd5bbfa47.flac,किटाण वाला,कीटाणु वाला हावा,0.6666666666666666,0.4375
+09ee5db7c4,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09ee5db7c4.flac,चाहिँ सुर तयार गरिदियो।,सुर तयार गरिदियो,0.6666666666666666,0.4375
+009f5f24f5,/kaggle/working/asr_nepali_data/asr_nepali/data/00/009f5f24f5.flac,अ लडाकुको हुन्छे,लडाकुको कमान्ड हुन्छे,0.6666666666666666,0.42857142857142855
+0d3eca6f6c,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d3eca6f6c.flac,थियो ढोक दर्शन गर्न,ढोग दर्शन गर्न,0.6666666666666666,0.42857142857142855
+034a4f6ca3,/kaggle/working/asr_nepali_data/asr_nepali/data/03/034a4f6ca3.flac,हाल पर्सिलो एउटा,हाल बार्सिलोना क्लब,0.6666666666666666,0.42105263157894735
+082c8e70f4,/kaggle/working/asr_nepali_data/asr_nepali/data/08/082c8e70f4.flac,हुदै चाहिँ मलाई लाग्छ,हुँदैछ मलाई लाग्छ,0.6666666666666666,0.4117647058823529
+0a0398f242,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a0398f242.flac,उनीहरु उनकी पत्नी पैरङ्गारुका,उनकी पत्नी बैरङ्गारूका,0.6666666666666666,0.4090909090909091
+06005c99cf,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06005c99cf.flac,गरकारैलाई सडक,घर कार्यालय सडक,0.6666666666666666,0.4
+06e11405b9,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06e11405b9.flac,प्राय जस्तो कम्दोहर।,प्राय जसो कमजोर,0.6666666666666666,0.4
+02c8df0101,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02c8df0101.flac,हो। राम्रो कुरा छैन।,राम्रो कुरा हैन,0.6666666666666666,0.4
+0ce2f4792b,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0ce2f4792b.flac,उन्न आएको छ।,हुन आएको छ,0.6666666666666666,0.4
+0b80dc3983,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b80dc3983.flac,शानतिका देखाउन ओबामाले सान्तिका,देखाउन ओबामाले शान्तिका,0.6666666666666666,0.391304347826087
+0b19205e4c,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b19205e4c.flac,उच्चप्रित्ति भएको,उच्च बृद्धि भएको,0.6666666666666666,0.375
+0c451efbb4,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c451efbb4.flac,छ। पनि सम्भव छ।,पनि सम्भव छ,0.6666666666666666,0.36363636363636365
+0fbc1e425d,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fbc1e425d.flac,मुल्य दुई लाख,मूल्य २ लाख,0.6666666666666666,0.36363636363636365
+022a4617c3,/kaggle/working/asr_nepali_data/asr_nepali/data/02/022a4617c3.flac,उनको जनमा एक,उनको जन्म १,0.6666666666666666,0.36363636363636365
+0c96df7f57,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c96df7f57.flac,हो। लागि गरिएको हो।,लागि गरिएको हो,0.6666666666666666,0.35714285714285715
+078f554b7b,/kaggle/working/asr_nepali_data/asr_nepali/data/07/078f554b7b.flac,जनमा बाटनमा नै,जन्म पटनामा नै,0.6666666666666666,0.35714285714285715
+04d3bd1023,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04d3bd1023.flac,कि एक किसिलको,टिम्की एक किसिमको,0.6666666666666666,0.35294117647058826
+06e3dca4d4,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06e3dca4d4.flac,भयो भाइको जसको सम्बन्ध,भएको जसको सम्बन्ध,0.6666666666666666,0.35294117647058826
+0aa5fcb29a,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0aa5fcb29a.flac,हामी ब्रामोन हो,हामी ब्राह्मण हौँ,0.6666666666666666,0.35294117647058826
+002c53fe1e,/kaggle/working/asr_nepali_data/asr_nepali/data/00/002c53fe1e.flac,नमानेमा तेस्पको लागि,नमानेमा त्यस पोकोलाई,0.6666666666666666,0.35
+01da41ae18,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01da41ae18.flac,मधेशी मोर्चाले,मधेसी मोर्चाले उनलाई,0.6666666666666666,0.35
+073119bb97,/kaggle/working/asr_nepali_data/asr_nepali/data/07/073119bb97.flac,त्यस्ता सामा गृतोयार।,त्यस्ता सामग्री तयार,0.6666666666666666,0.35
+06dd3245bb,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06dd3245bb.flac,हड्डीहरुका गरिने,हड्डीहरूका विषयमा गरिने,0.6666666666666666,0.34782608695652173
+0acfc09b10,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0acfc09b10.flac,ल म पुग्न,४ सम्म पुग्न,0.6666666666666666,0.3333333333333333
+0753ad9116,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0753ad9116.flac,भित्रेन गो जस्ता,विम ट्रेनगोभ जस्ता,0.6666666666666666,0.3333333333333333
+0c4792b487,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c4792b487.flac,महानबद्धारको लागि,मानव अधिकारको लागि,0.6666666666666666,0.3333333333333333
+0ba8e6bacd,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0ba8e6bacd.flac,हो। ३०० सालमा पञ्चायती,०३१ सालमा पञ्चायती,0.6666666666666666,0.3333333333333333
+086790537c,/kaggle/working/asr_nepali_data/asr_nepali/data/08/086790537c.flac,अब मिग्यौली पछि दोस्रो,मिगुएली पछि दोस्रो,0.6666666666666666,0.3333333333333333
+0e3c5d6d8f,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e3c5d6d8f.flac,ढाकीको रहेछ,वन ढाकिएको रहेछ,0.6666666666666666,0.3333333333333333
+082118c154,/kaggle/working/asr_nepali_data/asr_nepali/data/08/082118c154.flac,नाटक रच्नी आएरौँ।,नाटक रच्ने आरोप,0.6666666666666666,0.3333333333333333
+0f3afb8d21,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f3afb8d21.flac,एउटा रसी छ।,एउटा रहस्य छ,0.6666666666666666,0.3333333333333333
+0d734117a9,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d734117a9.flac,मात्री भाछ होइन साथै,मातृभाषा होइन साथै,0.6666666666666666,0.3333333333333333
+0f65001ebc,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f65001ebc.flac,गोल्डेन मुमेन्ट अमेरिकी उपन्याश कार द्यानेलले श्टिल्दहरा लेखित,गोल्डेन मुमेन्ट अमेरिकी उपन्यासकार ड्यनिएल्ले स्टिलद्वारा लिखित उपन्यास हो।,0.6666666666666666,0.32
+0c20006bd9,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c20006bd9.flac,सुरचित खेत्र वा,सुरक्षित क्षेत्र वा,0.6666666666666666,0.3157894736842105
+03d873ec02,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03d873ec02.flac,शिजना गर्नमा अप्राय,सृजना गर्नमा प्रयोग,0.6666666666666666,0.3157894736842105
+0d0cfc342f,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d0cfc342f.flac,नेपालले यस्तो लागि आफ्नो,नेपालले यसलाई आफ्नो,0.6666666666666666,0.3157894736842105
+06eaeedc70,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06eaeedc70.flac,खोजेको आवाष्याक्ता छ,खोजको आवश्यकता छ,0.6666666666666666,0.3125
+0f3523ca25,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f3523ca25.flac,बायेको देखिएको छैन।,भएको देखिएको छैन,0.6666666666666666,0.3125
+0f8b5679f4,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f8b5679f4.flac,रते हा मैले,र त्यहाँ मैले,0.6666666666666666,0.3076923076923077
+058ee3ef9c,/kaggle/working/asr_nepali_data/asr_nepali/data/05/058ee3ef9c.flac,हामीहरु केटी कोचौ,हामीहरू केटी खोज्छौँ,0.6666666666666666,0.3
+03f45a2752,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03f45a2752.flac,थाहा भए स्थित दुर्गा,थावे स्थित दुर्गा,0.6666666666666666,0.29411764705882354
+02783c98a3,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02783c98a3.flac,अनि पटक बटक आन्दोलनमा,पटक पटक आन्दोलनमा,0.6666666666666666,0.29411764705882354
+0e56363fd5,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e56363fd5.flac,कुनै भयो गोली कारण,कुनै भौगोलिक कारण,0.6666666666666666,0.29411764705882354
+00045ee2e0,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00045ee2e0.flac,सबै सरकारी कार्यलाई अहिले,सबै सरकारी कार्यालयले,0.6666666666666666,0.2857142857142857
+070809d53a,/kaggle/working/asr_nepali_data/asr_nepali/data/07/070809d53a.flac,गर्दा पुटा नहुदै,गर्दा पूर्ण नहुँदै,0.6666666666666666,0.2777777777777778
+0c78ee1dec,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c78ee1dec.flac,त्यो नियन्त्र बिल निकाल्ने,नियन्त्रण बिल निकाल्ने,0.6666666666666666,0.2727272727272727
+080f51ec89,/kaggle/working/asr_nepali_data/asr_nepali/data/08/080f51ec89.flac,मन्दिरको पाए अर्थत,मन्दिरको बायाँ अर्थात्,0.6666666666666666,0.2727272727272727
+0f34f6b37a,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f34f6b37a.flac,सित्त भइसकेको सो,सिद्ध भइसकेको छ,0.6666666666666666,0.26666666666666666
+035cadbf56,/kaggle/working/asr_nepali_data/asr_nepali/data/03/035cadbf56.flac,थिएगा नाको नगर वा,ठेगानाको नगर वा,0.6666666666666666,0.26666666666666666
+083c4a1bcd,/kaggle/working/asr_nepali_data/asr_nepali/data/08/083c4a1bcd.flac,यस्तो प्रकारका छन्।,यस प्रकारका छन्,0.6666666666666666,0.26666666666666666
+02af830700,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02af830700.flac,तारिज गेवसन एक,टाइरिस गिवसन एक,0.6666666666666666,0.26666666666666666
+0ff6f06472,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0ff6f06472.flac,प्रगतीसील लेखक संग,प्रगतिशील लेखक सङ्घ,0.6666666666666666,0.2631578947368421
+0ac7c7deb6,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0ac7c7deb6.flac,टकाल जीु यहाँ आफ्नो,ढकालज्यू यहाँ आफ्नो,0.6666666666666666,0.2631578947368421
+0e85006a70,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e85006a70.flac,उनका नाम पुझोशकार,उनका नाममा पुरस्कार,0.6666666666666666,0.2631578947368421
+0a1212e9ef,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a1212e9ef.flac,छित्रमा आफ्नो गुरु,क्षेत्रमा आफ्नो गुरू,0.6666666666666666,0.25
+0a15894a63,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a15894a63.flac,आराम्ब भएको छ।,आरम्भ भएको छ,0.6666666666666666,0.25
+030dc7363a,/kaggle/working/asr_nepali_data/asr_nepali/data/03/030dc7363a.flac,खाप्दे पाली भन्दा,खाद्य बाली भन्दा,0.6666666666666666,0.25
+050f5fdfe0,/kaggle/working/asr_nepali_data/asr_nepali/data/05/050f5fdfe0.flac,हुने जस्तो शब्दा,हुने दोस्रो शब्द,0.6666666666666666,0.25
+08184b3bb4,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08184b3bb4.flac,पेरी सेँच जर्मनबाट,पेरिस सेन्ट जर्मनबाट,0.6666666666666666,0.25
+030ad4deb2,/kaggle/working/asr_nepali_data/asr_nepali/data/03/030ad4deb2.flac,पहेको मंगलमा सबैभन्दा,भएको मङ्गलमा सबैभन्दा,0.6666666666666666,0.23809523809523808
+01d1915fed,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01d1915fed.flac,चलचित्रमा हबिनै गरि,चलचित्रमा अभिनय गरिन्,0.6666666666666666,0.23809523809523808
+096dd393ad,/kaggle/working/asr_nepali_data/asr_nepali/data/09/096dd393ad.flac,नेवार जातीले गतमा,नेवार जातिले गर्न,0.6666666666666666,0.23529411764705882
+0604e9d5ce,/kaggle/working/asr_nepali_data/asr_nepali/data/06/0604e9d5ce.flac,ग्रावन गरी सन्याशी,ग्रहण गरी सन्यासी,0.6666666666666666,0.23529411764705882
+0ee5a3c90e,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0ee5a3c90e.flac,जारी गरे जस्तो वारा,जारी गरे जसद्वारा,0.6666666666666666,0.23529411764705882
+0b7d5f5c63,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b7d5f5c63.flac,हुन्छ त्यहाँ रिद्धी सिध्धीको,हुन्छ त्यहाँ ऋद्धिसिद्धिको,0.6666666666666666,0.23076923076923078
+0e5e866702,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e5e866702.flac,सहयुक पनि गरे।,सहयोग पनि गरे,0.6666666666666666,0.23076923076923078
+028e6419da,/kaggle/working/asr_nepali_data/asr_nepali/data/02/028e6419da.flac,अह्मता बाउत जिल्ला भारतको,अहमदाबाद जिल्ला भारतको,0.6666666666666666,0.22727272727272727
+04c850d3fc,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04c850d3fc.flac,एउटा मात्दामिक विद्यालाई,एउटा माध्यमिक विद्यालय,0.6666666666666666,0.22727272727272727
+0a8f76918d,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a8f76918d.flac,सँगीय खजानमा दनको,सङ्घीय खजानमा धनको,0.6666666666666666,0.2222222222222222
+0b0a5e163e,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b0a5e163e.flac,सरिरमा रक्त प्रहा,शरीरमा रक्त प्रवाह,0.6666666666666666,0.2222222222222222
+0da0aa9771,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0da0aa9771.flac,उदाउली भनेको पाइन्छ।,उधौली भनेको पाइन्छ,0.6666666666666666,0.2222222222222222
+002668d6ff,/kaggle/working/asr_nepali_data/asr_nepali/data/00/002668d6ff.flac,आएको छुरा,आएको छु र,0.6666666666666666,0.2222222222222222
+023bc9bcb4,/kaggle/working/asr_nepali_data/asr_nepali/data/02/023bc9bcb4.flac,सुलको कटौटीमा बजार,शुल्क कटौतीमा बजार,0.6666666666666666,0.2222222222222222
+0f8e50fa62,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f8e50fa62.flac,आफ्नो सुमधुर औँ आजले,आफ्नो सुमधुर आवजले,0.6666666666666666,0.2222222222222222
+067c9b30ee,/kaggle/working/asr_nepali_data/asr_nepali/data/06/067c9b30ee.flac,तासा पस्तुल हो,भाषा पस्तुन हो,0.6666666666666666,0.21428571428571427
+030f931d62,/kaggle/working/asr_nepali_data/asr_nepali/data/03/030f931d62.flac,जन्य रुग पनुति,जन्य रोग पनौती,0.6666666666666666,0.21428571428571427
+069d895ef9,/kaggle/working/asr_nepali_data/asr_nepali/data/06/069d895ef9.flac,रातो कार्पाई,रातो कार्ड पाइ,0.6666666666666666,0.21428571428571427
+0f9e37123f,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f9e37123f.flac,बियुहरु निकालेका थिए।,बिउहरू निकालेका थिए,0.6666666666666666,0.21052631578947367
+072a2ebc73,/kaggle/working/asr_nepali_data/asr_nepali/data/07/072a2ebc73.flac,विष्चिक राषी भनिन्छ,वृश्चिक राशि भनिन्छ,0.6666666666666666,0.21052631578947367
+006e67532f,/kaggle/working/asr_nepali_data/asr_nepali/data/00/006e67532f.flac,दाराहरु बाटा पानी आउन,धाराहरूबाट पानी आउन,0.6666666666666666,0.21052631578947367
+02bf360040,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02bf360040.flac,जोहरु पनि लामघुट्टेहरुले,ज्वरो पनि लामखुट्टेहरूले,0.6666666666666666,0.20833333333333334
+01e552efaf,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01e552efaf.flac,बिरु त आन्दोलन गरिरह्यो,विरूद्ध आन्दोलन गरिरह्यो,0.6666666666666666,0.20833333333333334
+03ad05d95e,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03ad05d95e.flac,उहाका छोरा रबी,उहाँका छोरा रवि,0.6666666666666666,0.2
+0e053fcbc3,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e053fcbc3.flac,युना निचिकित्साको मत,यूनानी चिकित्साको मत,0.6666666666666666,0.2
+0a9ed042d4,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a9ed042d4.flac,ब्याउस्था थियो त्यहा,व्यवस्था थियो त्यहाँ,0.6666666666666666,0.2
+0b2394b739,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b2394b739.flac,कीती कुनै,कि ती कुनै,0.6666666666666666,0.2
+01f71cec1d,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01f71cec1d.flac,गनिस्ट सम्बन्ध रहन्छ।,घनिष्ठ सम्बन्ध रहन्छ,0.6666666666666666,0.2
+0e8c65c17a,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e8c65c17a.flac,हो हिन्सा नगर्नु।,हो हिंसा नगर्नु,0.6666666666666666,0.2
+0fc50ca865,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fc50ca865.flac,बन्दिनुमा गइ महादेवको,मन्दिरमा गई महादेवको,0.6666666666666666,0.2
+097c947e6e,/kaggle/working/asr_nepali_data/asr_nepali/data/09/097c947e6e.flac,कत्षान्ड र स्पैनको,कक्ष्यान्ड र स्पेनको,0.6666666666666666,0.2
+04009474b4,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04009474b4.flac,पदार्थ बिज्ञन विवागरलाई,पदार्थ विज्ञान विभागहरूलाई,0.6666666666666666,0.19230769230769232
+024c6395ea,/kaggle/working/asr_nepali_data/asr_nepali/data/02/024c6395ea.flac,अन्तरम विभागमा बिषम,अन्तरङ्ग विभागमा विषम,0.6666666666666666,0.19047619047619047
+089ec9ab83,/kaggle/working/asr_nepali_data/asr_nepali/data/08/089ec9ab83.flac,जिल्लाहहरु मिलेर अन्छल,जिल्लाहरू मिलेर अञ्चल,0.6666666666666666,0.19047619047619047
+00d54bbd2d,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00d54bbd2d.flac,भने पुर्विभागको,भने पूर्वी भागको,0.6666666666666666,0.1875
+0e2cc53e2d,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e2cc53e2d.flac,छ सिरैकीमा पनि छन्।,सिरैकीमा पनि छन्,0.6666666666666666,0.1875
+07623ca303,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07623ca303.flac,पनि रुजदै जान्छ।,पनि रुच्दै जान्छ,0.6666666666666666,0.1875
+0917cf422a,/kaggle/working/asr_nepali_data/asr_nepali/data/09/0917cf422a.flac,अन्ते गरेर फेरी,अन्त्य गरेर फेरि,0.6666666666666666,0.1875
+0706cb1b9c,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0706cb1b9c.flac,त्यतिबेला उनको सरीले बाट,त्यतिबेला उनको शरीरबाट,0.6666666666666666,0.18181818181818182
+006bee0ec1,/kaggle/working/asr_nepali_data/asr_nepali/data/00/006bee0ec1.flac,भोमी देख्र सकिन्छ,भूमि देख्न सकिन्छ,0.6666666666666666,0.17647058823529413
+0187112ce8,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0187112ce8.flac,काश्टीको यात्र गरी,काशीको यात्रा गरी,0.6666666666666666,0.17647058823529413
+0cc6b9a4df,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cc6b9a4df.flac,युगीय इसाइ सब्ताह,युगीय ईसाई सप्ताह,0.6666666666666666,0.17647058823529413
+0af8ab67b7,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0af8ab67b7.flac,पुर्न रुपले आफ्नो,पूर्ण रूपले आफ्नो,0.6666666666666666,0.17647058823529413
+00ffcffc98,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00ffcffc98.flac,कुराहरु त छैछन्,कुराहरू त छँदैछन्,0.6666666666666666,0.17647058823529413
+0be968d326,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0be968d326.flac,नाम दिएको छ।,नाम दिइएको छ,0.6666666666666666,0.16666666666666666
+03e4ef424a,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03e4ef424a.flac,युदमा उसका समस्थ,युद्धमा उसका समस्त,0.6666666666666666,0.16666666666666666
+01b65df6fb,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01b65df6fb.flac,दिनमा कांग्रेस अधक्षको,दिनमा काङ्ग्रेस अध्यक्षको,0.6666666666666666,0.16
+053c0f975d,/kaggle/working/asr_nepali_data/asr_nepali/data/05/053c0f975d.flac,पछि बिरामीले केहि,यसपछि बिरामीले केही,0.6666666666666666,0.15789473684210525
+021ce390b9,/kaggle/working/asr_nepali_data/asr_nepali/data/02/021ce390b9.flac,प्राचिन गुर्खा राज्य,प्राचीन गोरखा राज्य,0.6666666666666666,0.15789473684210525
+0721aad0a4,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0721aad0a4.flac,करुङ जिल्ला भारती,करुड़ जिल्ला भारतीय,0.6666666666666666,0.15789473684210525
+0f6ac20a7e,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f6ac20a7e.flac,सम्झेर तेसको रस्पान,सम्झेर त्यसको रसपान,0.6666666666666666,0.15789473684210525
+06a41934c9,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06a41934c9.flac,अस्तानतरण गरिएको छ।,हस्तान्तरण गरिएको छ,0.6666666666666666,0.15789473684210525
+0ffef4bd14,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0ffef4bd14.flac,पहिलो लसिका ग्रन्ती,पहिलो लसीका ग्रन्थि,0.6666666666666666,0.15789473684210525
+0c69a44a94,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c69a44a94.flac,भारतमा पढ्चलित केहि,भारतमा प्रचलित केही,0.6666666666666666,0.15789473684210525
+05e9081f10,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05e9081f10.flac,सम्प्रेशन गडेका सबै,सम्प्रेषण गरेका सबै,0.6666666666666666,0.15789473684210525
+024a580e57,/kaggle/working/asr_nepali_data/asr_nepali/data/02/024a580e57.flac,सोहेक कुराको जानकारे,सोही कुराको जानकारी,0.6666666666666666,0.15789473684210525
+070890dc70,/kaggle/working/asr_nepali_data/asr_nepali/data/07/070890dc70.flac,दिलीलाई उसको उच्चा,दिल्लीलाई उसको उच्च,0.6666666666666666,0.15789473684210525
+0d992e0381,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d992e0381.flac,छानो भयका छन्।,छानो भएका छन्,0.6666666666666666,0.15384615384615385
+07d7281012,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07d7281012.flac,जिल्लाको अन्तरिक प्रिटनलाई,जिल्लाको आन्तरिक पर्यटनलाई,0.6666666666666666,0.15384615384615385
+0e8c1b6c64,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e8c1b6c64.flac,कम्तिमा ए करब,कम्तिमा १ अरब,0.6666666666666666,0.15384615384615385
+00d2c6cac2,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00d2c6cac2.flac,बिलाट राजाको दरबारमा,विराट राजाको दरवारमा,0.6666666666666666,0.15
+058bdc0eec,/kaggle/working/asr_nepali_data/asr_nepali/data/05/058bdc0eec.flac,जान्मेको अमिता बच्चन,जन्मेका अमिताभ बच्चन,0.6666666666666666,0.15
+0c445f5f38,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c445f5f38.flac,किनभने धेरै जस्तो विकास,किनभने धेरैजसो विकास,0.6666666666666666,0.15
+041ba1cfcf,/kaggle/working/asr_nepali_data/asr_nepali/data/04/041ba1cfcf.flac,तथा अनुसन नलाई चार,तथा अनुसन्धानलाई चार,0.6666666666666666,0.15
+0f72c5dbfb,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f72c5dbfb.flac,जनाले यसकार एक्रमको,जनाले यस कार्यक्रमको,0.6666666666666666,0.15
+05886badaf,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05886badaf.flac,प्रेमेजु सिक्किम धार्जिली,प्रेमेजुङ सिक्किम दार्जिलिङ,0.6666666666666666,0.14814814814814814
+061078cccb,/kaggle/working/asr_nepali_data/asr_nepali/data/06/061078cccb.flac,महत्वपुर्ण परिवर्तन गरियो।,महत्त्वपूर्ण परिवर्तन गरियो,0.6666666666666666,0.14814814814814814
+0216c3c546,/kaggle/working/asr_nepali_data/asr_nepali/data/02/0216c3c546.flac,राजय संवितिको सचिवालय,राज्य समितिको सचिवालय,0.6666666666666666,0.14285714285714285
+037e1cd11e,/kaggle/working/asr_nepali_data/asr_nepali/data/03/037e1cd11e.flac,न्यानु पन्का साथ निभाउन,न्यानोपनका साथ निभाउन,0.6666666666666666,0.14285714285714285
+0e51101853,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e51101853.flac,उनले पर्शो रामलाई यस्तो,उनले परशुरामलाई यस्तो,0.6666666666666666,0.14285714285714285
+0313563e50,/kaggle/working/asr_nepali_data/asr_nepali/data/03/0313563e50.flac,प्रकरो स्वावका यिनलाई,प्रखर स्वभावका यिनलाई,0.6666666666666666,0.14285714285714285
+0adb364a40,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0adb364a40.flac,लेखीको भए मौलाई,लेखेको भए मलाई,0.6666666666666666,0.14285714285714285
+0b836cf7f4,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b836cf7f4.flac,खाली पन्नाहरु बढ्छन्,खालि पान्नाहरू बढ्छन्,0.6666666666666666,0.14285714285714285
+01674beacc,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01674beacc.flac,पाच देखि आठ सय,पाँचदेखि आठ सय,0.6666666666666666,0.14285714285714285
+0baedc9584,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0baedc9584.flac,मेहेन्दो ए उपन्यासकी,म्हेन्दो यस उपन्यासकी,0.6666666666666666,0.14285714285714285
+0d69931e62,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d69931e62.flac,जनता दारा गरिएको यही,जनताद्वारा गरिएको यही,0.6666666666666666,0.14285714285714285
+06458f45c7,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06458f45c7.flac,अन्छलमा पर्ने काठमाडौ,अञ्चलमा पर्ने काठमाडौँ,0.6666666666666666,0.13636363636363635
+01e7a487bf,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01e7a487bf.flac,जन्वादी तरिकाले उहाहरु,जनवादी तरिकाले उहाँहरू,0.6666666666666666,0.13636363636363635
+03bd84cc97,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03bd84cc97.flac,गरितको शान्ता मोनिकाको,खरिदको सान्ता मोनिकाको,0.6666666666666666,0.13636363636363635
+0ce85a0873,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0ce85a0873.flac,अनि भयो गरेका थिए,अनिभय गरेका थिए,0.6666666666666666,0.13333333333333333
+0ba9271cf4,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0ba9271cf4.flac,ओजेल भएको हुदा,ओझेल भएको हुँदा,0.6666666666666666,0.13333333333333333
+0e8a19bda9,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e8a19bda9.flac,बेडा परेवा हास,भेडा परेवा हाँस,0.6666666666666666,0.13333333333333333
+0a8a17ca92,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a8a17ca92.flac,परसुरामले सम्बुद्रलाई पछि,परशुरामले समुद्रलाई पछि,0.6666666666666666,0.13043478260869565
+07520db56f,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07520db56f.flac,ढुंगे धाराको सब्यतालाई,ढुङ्गे धाराको सभ्यतालाई,0.6666666666666666,0.13043478260869565
+070e7112f9,/kaggle/working/asr_nepali_data/asr_nepali/data/07/070e7112f9.flac,यो महिलाहरुलाई राजनाइतिक,यो महिलाहरूलाई राजनैतिक,0.6666666666666666,0.13043478260869565
+0a73e6472f,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a73e6472f.flac,जोला समान राखेर,झोला सामान राखेर,0.6666666666666666,0.125
+017a9de2b6,/kaggle/working/asr_nepali_data/asr_nepali/data/01/017a9de2b6.flac,धेरै स्वतत्रता अन्दोलन,धेरै स्वतन्त्रता आन्दोलन,0.6666666666666666,0.125
+02dd1ffa78,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02dd1ffa78.flac,भने तपाईले केहि,भने तपाईँले केही,0.6666666666666666,0.125
+0b4a2b8631,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b4a2b8631.flac,उत्तर मुराधा बाध जिल्लाका,उत्तर मुरादाबाद जिल्लाका,0.6666666666666666,0.125
+0abad5804b,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0abad5804b.flac,स्थिति आइपरीको छ।,स्थिति आइपरेको छ,0.6666666666666666,0.125
+0f3217d4e9,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f3217d4e9.flac,रुपमा घोशित थियो,रूपमा घोषित थियो,0.6666666666666666,0.125
+05d60f84de,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05d60f84de.flac,जुन तीन ताका सायद,जुन तिनताका सायद,0.6666666666666666,0.125
+0e79726574,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e79726574.flac,बाखो बिराउन ठाले,पाखो बिराउन थाले,0.6666666666666666,0.125
+0f60694983,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f60694983.flac,स्वालबाट सामान्य स्पतालका,स्थलबाट सामान्य अस्पतालका,0.6666666666666666,0.12
+0e522c5b38,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e522c5b38.flac,लाब्रेहरुको पनि नियन्त्रन,लाभ्रेहरूको पनि नियन्त्रण,0.6666666666666666,0.12
+070e63169a,/kaggle/working/asr_nepali_data/asr_nepali/data/07/070e63169a.flac,संवात र आत्मपरक्ता,संवाद र आत्मपरकता,0.6666666666666666,0.11764705882352941
+0df388d0a2,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0df388d0a2.flac,पाच वर्षकै गलिलो,पाँच वर्षकै कलिलो,0.6666666666666666,0.11764705882352941
+04399052c8,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04399052c8.flac,दासहरु रगतले लटपत,दासहरू रगतले लतपत,0.6666666666666666,0.11764705882352941
+05970425f1,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05970425f1.flac,हिंषा बढ्दै जादा,हिंसा बढ्दै जाँदा,0.6666666666666666,0.11764705882352941
+0b9817930b,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b9817930b.flac,हामी सहभाकी हुदै,हामी सहभागी हुँदै,0.6666666666666666,0.11764705882352941
+097df9bc99,/kaggle/working/asr_nepali_data/asr_nepali/data/09/097df9bc99.flac,सुरेशाले दिल्लीमा,सुरेश आले दिल्लीमा,0.6666666666666666,0.1111111111111111
+02159549ca,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02159549ca.flac,नदिको किनेरमा तातो,नदीको किनारमा तातो,0.6666666666666666,0.1111111111111111
+01c97acfde,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01c97acfde.flac,नर्मधा नदिको डिलमा,नर्मदा नदीको डिलमा,0.6666666666666666,0.1111111111111111
+07ceb34940,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07ceb34940.flac,दानीका रुपमा अगाडी,दानीका रूपमा अगाडि,0.6666666666666666,0.1111111111111111
+0de2b322c5,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0de2b322c5.flac,सम्बन्धमा निजहरुलाई जान्करी,सम्बन्धमा निजहरूलाई जानकारी,0.6666666666666666,0.1111111111111111
+031ee1a9f8,/kaggle/working/asr_nepali_data/asr_nepali/data/03/031ee1a9f8.flac,तपाईको यो आक्रमक,तपाईँको यो आक्रामक,0.6666666666666666,0.1111111111111111
+0411980edf,/kaggle/working/asr_nepali_data/asr_nepali/data/04/0411980edf.flac,उनको नाम प्रतिस सहमति,उनको नामप्रति सहमति,0.6666666666666666,0.10526315789473684
+02d71e2faf,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02d71e2faf.flac,जवानहरु तैनात गरियो,जवानहरू तैनाथ गरियो,0.6666666666666666,0.10526315789473684
+0f593d6258,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f593d6258.flac,अलक क्षेत्र मानिन्छ।,अलग क्षेत्र मानिन्छ,0.6666666666666666,0.10526315789473684
+0c6413721e,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c6413721e.flac,एकै हवस्थामा बिकसित,एकै अवस्थामा विकसित,0.6666666666666666,0.10526315789473684
+0c5f2665d3,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c5f2665d3.flac,एउटा अक्षेर बाट सनातन,एउटा अक्षरबाट सनातन,0.6666666666666666,0.10526315789473684
+0d431b4b96,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d431b4b96.flac,थारुको जन्म गोवर डिहा,थारुको जन्म गोबरडिहा,0.6666666666666666,0.1
+0a94d20839,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a94d20839.flac,दुरो भाग्य यसै अवधिमा,दुर्भाग्य यसै अवधिमा,0.6666666666666666,0.1
+06243168e4,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06243168e4.flac,जनकारी भएपछि वार्न,जानकारी भएपछि वार्नर,0.6666666666666666,0.1
+0baa8b8af4,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0baa8b8af4.flac,पुरास्कार विजेता किरण,पुरस्कार विजेता किरन,0.6666666666666666,0.1
+0a1516422b,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a1516422b.flac,असरहरुको अध्यन अनेक,असरहरूको अध्ययन अनेक,0.6666666666666666,0.1
+00f810e052,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00f810e052.flac,भर्ना भएर,भर्ना भए र,0.6666666666666666,0.1
+06ab4888d0,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06ab4888d0.flac,कार्कीले खाल सम्म करिब,कार्कीले हालसम्म करिब,0.6666666666666666,0.09523809523809523
+02c061d75c,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02c061d75c.flac,कृष्ण दुलाले तपाईलाई,कृष्ण दुलालले तपाईँलाई,0.6666666666666666,0.09090909090909091
+0e465ffa35,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e465ffa35.flac,निर्वाचित पुस्पा बुसाल,निर्वाचित पुष्पा भुसाल,0.6666666666666666,0.09090909090909091
+0b504fd477,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b504fd477.flac,चतुर्थी र दिपाबली लगायत,चतुर्थी र दिपावलीलगायत,0.6666666666666666,0.09090909090909091
+0e41520f99,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e41520f99.flac,जिल्लाको दोस्रो सदरमा काम,जिल्लाको दोस्रो सदरमुकाम,0.6666666666666666,0.08333333333333333
+084f8770e0,/kaggle/working/asr_nepali_data/asr_nepali/data/08/084f8770e0.flac,उमारी एको विभिन्न किसिमको,उमारिएको विभिन्न किसिमको,0.6666666666666666,0.08333333333333333
+06a29f7f67,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06a29f7f67.flac,म अब सके सम्म,म अब सकेसम्म,0.6666666666666666,0.08333333333333333
+0c6cc7c684,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c6cc7c684.flac,मलाई यी प्रयोग कर्ताहरुले,मलाई यी प्रयोगकर्ताहरूले,0.6666666666666666,0.08333333333333333
+0736d79b4a,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0736d79b4a.flac,बजाउने चलन्छ,बजाउने चलन छ,0.6666666666666666,0.08333333333333333
+04f199bc23,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04f199bc23.flac,भाषामा निरुक्तकको भुमिकाको,भाषामा निरुक्तको भूमिकाको,0.6666666666666666,0.08
+0c01211172,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c01211172.flac,कपिल वस्तो जिल्लाको उत्तरी,कपिलवस्तु जिल्लाको उत्तरी,0.6666666666666666,0.08
+03514ab21e,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03514ab21e.flac,उनलाई भोगलिनु,उनलाई भोग लिनु,0.6666666666666666,0.07142857142857142
+0f69245407,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f69245407.flac,किन भने उपकारको यो,किनभने उपकारको यो,0.6666666666666666,0.058823529411764705
+07e866999c,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07e866999c.flac,गो था भन्ने ठाउँमा,गोथा भन्ने ठाउँमा,0.6666666666666666,0.058823529411764705
+0ac195f5c5,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0ac195f5c5.flac,चार दिनको समयाव धिमा,चार दिनको समयावधिमा,0.6666666666666666,0.05263157894736842
+022194aec4,/kaggle/working/asr_nepali_data/asr_nepali/data/02/022194aec4.flac,लै जानु पर्ने देखिएको,लैजानु पर्ने देखिएको,0.6666666666666666,0.05
+04a9b58eb6,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04a9b58eb6.flac,बाघ घुरे जस्तो सुनिन्छ,बाघ घुरेजस्तो सुनिन्छ,0.6666666666666666,0.047619047619047616
+0e3ae449fd,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e3ae449fd.flac,आफ्नो गद्य ग्रन्थ ललित,आफ्नो गद्यग्रन्थ ललित,0.6666666666666666,0.047619047619047616
+050f8d615b,/kaggle/working/asr_nepali_data/asr_nepali/data/05/050f8d615b.flac,पुलेसा बाटो घाटोमा अन्य,पुलेसा बाटोघाटोमा अन्य,0.6666666666666666,0.045454545454545456
+0fff59a959,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fff59a959.flac,जाजर कोटको सिमानामा पर्ने,जाजरकोटको सिमानामा पर्ने,0.6666666666666666,0.041666666666666664
+0ab0b2fc48,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0ab0b2fc48.flac,त्यसपछि उनले साभुन काहि खाना तल आउने र को प्रविध्य निकाल्नै काम पनि गरेका थिए।,त्यसपछि उनले साबुन कारखाना चलाउने र स्क्रिन प्रिन्टको प्रविधि निकाल्ने काम पनि गरेका थिए।,0.6428571428571429,0.2808988764044944
+09bb83f544,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09bb83f544.flac,पञ्चमुल नेपालको घन्दाखी अन्छलको स्यांग्रा जिल्लाकको एउटा त गाउज विकास समिति हो,पञ्चमुल नेपालको गण्डकी अञ्चलको स्याङ्जा जिल्लाको एउटा गाउँ विकास समिति हो।,0.6363636363636364,0.20270270270270271
+049f8de8c7,/kaggle/working/asr_nepali_data/asr_nepali/data/04/049f8de8c7.flac,उपयुक्त गन्ता व्यक्षेत्र पनि हुन्।,उपयुक्त गन्तव्य क्षेत्र पनि हुन्,0.6,0.125
+0c873b8e61,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c873b8e61.flac,थियो। त्यसपछि गरिने प्राणीबाट पराप्थ विकसित लाई बिन दिममा प्रवेश गराइन्छ।,त्यसपछि क्लोनिङ गरिने प्राणीबाट प्राप्त विकसित कोषलाई न्युक्लियस विहीन डिम्बमा प्रवेश गराइन्छ।,0.5833333333333334,0.3617021276595745
+028f9594fd,/kaggle/working/asr_nepali_data/asr_nepali/data/02/028f9594fd.flac,गोला नेपालको मध्य पश्चिमानचल विकास क्षेत्र भेरी अन्चलको बर्दिया जिल्लामा अवस्थी त्योटा काउ विकह समिति हो,गोला नेपालको मध्यपश्चिमाञ्चल विकास क्षेत्र भेरी अञ्चलको बर्दिया जिल्लामा अवस्थित एउटा गाउँ विकास समिति हो।,0.5333333333333333,0.1320754716981132
+03310d1de4,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03310d1de4.flac,बने र,गोल्फर बने र एनसीएए,0.5,0.7368421052631579
+0c0c66991e,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c0c66991e.flac,दियो सहर दियो,सहर दियो,0.5,0.625
+0855d765bf,/kaggle/working/asr_nepali_data/asr_nepali/data/08/0855d765bf.flac,गरेपछि,प्रदर्शन गरेपछि,0.5,0.6
+07bad4e471,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07bad4e471.flac,ब्रित्दी हुन्छ,वृद्धि हुन्छ,0.5,0.5833333333333334
+0b57b0cb41,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b57b0cb41.flac,यो बङ्गइजा,यो बगैंचा,0.5,0.5555555555555556
+072e0ea7a9,/kaggle/working/asr_nepali_data/asr_nepali/data/07/072e0ea7a9.flac,उपस्थिति,उपस्थिति हुँदा,0.5,0.42857142857142855
+059ac4c7e2,/kaggle/working/asr_nepali_data/asr_nepali/data/05/059ac4c7e2.flac,महिला सरचालीस प्रतिशत छन्।,महिला ४७ प्रतिशत छन्,0.5,0.4
+0278c722d8,/kaggle/working/asr_nepali_data/asr_nepali/data/02/0278c722d8.flac,भने लिन्डन भने,लिन्डन भने,0.5,0.4
+0a2b791266,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a2b791266.flac,आइतबार को,आइतबार टिकटको,0.5,0.3076923076923077
+09867629a7,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09867629a7.flac,हामीमा छेमाता,हामीमा क्षमता,0.5,0.3076923076923077
+0b75798de3,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b75798de3.flac,हो केशर महलमा,केशर महलमा,0.5,0.3
+050bc8ba4b,/kaggle/working/asr_nepali_data/asr_nepali/data/05/050bc8ba4b.flac,इपु १६० का अनुसार,ईपू ९३८ का अनुसार,0.5,0.29411764705882354
+0ccf13520a,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0ccf13520a.flac,हो यसको उचाइमा,यसको उचाइमा,0.5,0.2727272727272727
+0585692095,/kaggle/working/asr_nepali_data/asr_nepali/data/05/0585692095.flac,एक कतै भएको थियो,१ गते भएको थियो,0.5,0.26666666666666666
+08f8ed5eeb,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08f8ed5eeb.flac,तर बिडम बनाकै छ,तर विडम्बना के छ,0.5,0.25
+0d888b68dd,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d888b68dd.flac,प्रेष्ठहरुमा जानलाई,पृष्ठहरूमा जानलाई,0.5,0.23529411764705882
+0adf8f217b,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0adf8f217b.flac,गराउने उहा,गराउने उहाँको,0.5,0.23076923076923078
+0f69417a91,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f69417a91.flac,बाब आफ्ना,भाग आफ्ना,0.5,0.2222222222222222
+08adb40614,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08adb40614.flac,बिरकति प्राप्त,वीरगति प्राप्त,0.5,0.21428571428571427
+00dbbdaa2c,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00dbbdaa2c.flac,भाइको हुन्छ,भएको हुन्छ,0.5,0.2
+0d7905e304,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d7905e304.flac,ल्याइएको बेहोरा,ल्याइएको व्यहोरा,0.5,0.1875
+0ec87bd2fb,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0ec87bd2fb.flac,लाई मनाउन,यसलाई मनाउन,0.5,0.18181818181818182
+0b7a3e47bc,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b7a3e47bc.flac,मानव सरिरमा,मानव शरीरमा,0.5,0.18181818181818182
+0c7b61aff0,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c7b61aff0.flac,नौ महिना जेलजी पन,नौ महिना जेल जीवन,0.5,0.17647058823529413
+077d82593a,/kaggle/working/asr_nepali_data/asr_nepali/data/07/077d82593a.flac,देखि नै चलायो को हो,देखि नै चलाएको हो,0.5,0.17647058823529413
+03944d3cb6,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03944d3cb6.flac,सम्जिनक निकै सजिलो बनाउछ।,सम्झिन निकै सजिलो बनाउँछ,0.5,0.16666666666666666
+05bc0a2de7,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05bc0a2de7.flac,जोगको बीचमा रहेको छ।,चोकको बीचमा रहेको छ,0.5,0.15789473684210525
+07a00fe90e,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07a00fe90e.flac,आगेरा र दिलीका लागि,आगरा र दिल्लीका लागि,0.5,0.15
+04271b359d,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04271b359d.flac,है माता,हे माता,0.5,0.14285714285714285
+00d12d9a2c,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00d12d9a2c.flac,गर्ने यसबारै अलिकति,गर्ने र यसबारे अलिकति,0.5,0.14285714285714285
+0d36ec0fa2,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d36ec0fa2.flac,अनि थिए,पनि थिए,0.5,0.14285714285714285
+07c8d5cc3a,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07c8d5cc3a.flac,काठमाडौँ साच्कृतिक र ऐतिहासी,काठमाडौँ सांस्कृतिक र ऐतिहासिक,0.5,0.13333333333333333
+09389efddd,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09389efddd.flac,न त पोजन बनाइन।,न त भोजन बनाइन्,0.5,0.13333333333333333
+0152c5e33d,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0152c5e33d.flac,पुरुस एक,पुरुष एक,0.5,0.125
+068899c517,/kaggle/working/asr_nepali_data/asr_nepali/data/06/068899c517.flac,उनीकी आमा,उनकी आमा,0.5,0.125
+01eb8a9cc9,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01eb8a9cc9.flac,रबिलक्शमी तित्रकार सँग अन्तरजातिय विवाह गरेको झलनातको एक छोरा छन्।,रविलक्ष्मी चित्रकारसँग अन्तर जातीय विवाह गरेको झलनाथको एक छोरा छन्।,0.5,0.11940298507462686
+00b274b107,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00b274b107.flac,अस्पत्ताल काठमाडौँको,अस्पताल काठमाडौँको,0.5,0.1111111111111111
+0085a2cfbd,/kaggle/working/asr_nepali_data/asr_nepali/data/00/0085a2cfbd.flac,यसपछि कार्बान १ को,यसपछि कार्बन १४ को,0.5,0.1111111111111111
+02a6ae72ce,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02a6ae72ce.flac,फिर्ता आए।,फिर्ता आए,0.5,0.1111111111111111
+0534de0873,/kaggle/working/asr_nepali_data/asr_nepali/data/05/0534de0873.flac,अ राष्ट्रिय पार्टीको,राष्ट्रिय पार्टीको,0.5,0.1111111111111111
+016add064d,/kaggle/working/asr_nepali_data/asr_nepali/data/01/016add064d.flac,चल्न थाल्छ।,चल्न थाल्छ,0.5,0.1
+050121cc34,/kaggle/working/asr_nepali_data/asr_nepali/data/05/050121cc34.flac,गराएका थिए।,गराएका थिए,0.5,0.1
+063018d5e5,/kaggle/working/asr_nepali_data/asr_nepali/data/06/063018d5e5.flac,वर्षा सर्दर,वर्षा सरदर,0.5,0.1
+0a79a42526,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a79a42526.flac,दबाब बढ्यो,दवाब बढ्यो,0.5,0.1
+09f66755be,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09f66755be.flac,राखेर बिरोध,राखेर विरोध,0.5,0.09090909090909091
+04023efc4a,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04023efc4a.flac,भोझमा बोलाए,भोजमा बोलाए,0.5,0.09090909090909091
+072221ee31,/kaggle/working/asr_nepali_data/asr_nepali/data/07/072221ee31.flac,लागि मनाउछ,लागि मनाउँछ,0.5,0.09090909090909091
+00033e7a6c,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00033e7a6c.flac,देरै धन्यवाद,धेरै धन्यवाद,0.5,0.08333333333333333
+0ac34d5277,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0ac34d5277.flac,पानीको जातो,पानीको जाँतो,0.5,0.08333333333333333
+0b11983651,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b11983651.flac,मेरा अङ्गहरु,मेरा अङ्गहरू,0.5,0.08333333333333333
+00fd703cf5,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00fd703cf5.flac,अमेजन किन्दल,अमेजन किन्डल,0.5,0.08333333333333333
+0698fa3204,/kaggle/working/asr_nepali_data/asr_nepali/data/06/0698fa3204.flac,दुवैलाई मुहित,दुवैलाई मोहित,0.5,0.07692307692307693
+0c017ae4e4,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c017ae4e4.flac,मुस्लिम खिल्जी,मुस्लिम खिलजी,0.5,0.07692307692307693
+066f904460,/kaggle/working/asr_nepali_data/asr_nepali/data/06/066f904460.flac,प्रतारित थियो,प्रताडित थियो,0.5,0.07692307692307693
+08accb9d9a,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08accb9d9a.flac,पत्हरको तुलनामा,पत्थरको तुलनामा,0.5,0.06666666666666667
+0ce57e6b2a,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0ce57e6b2a.flac,निजहरुको इतिहास,निजहरूको इतिहास,0.5,0.06666666666666667
+07a1ef719f,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07a1ef719f.flac,आन्दोलनमा उत्रै,आन्दोलनमा उत्रे,0.5,0.06666666666666667
+0eeaafbd54,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0eeaafbd54.flac,बिरामीको औवस्था अनुसार उपचार पदती फरक फरक हुन्छ।,बिरामीको अवस्थाअनुसार उपचार पद्धति फरक फरक हुन्छ।,0.42857142857142855,0.10204081632653061
+05fe1000ba,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05fe1000ba.flac,हरेक साल जेठ पुड्नेमा रस्तरामुन पुर्णेमाका दिन यो देउताको पूजा हुन्छ।,हरेक साल जेठ पूर्णिमा र श्रावण पूर्णिमाका दिन यो देवताको पूजा हुन्छ।,0.4166666666666667,0.19117647058823528
+05bd9afaf4,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05bd9afaf4.flac,ग्रिना गर्न सिक्न सक्छन भने,घृणा गर्न सिक्न सक्छन् भने,0.4,0.23076923076923078
+012b0b72e4,/kaggle/working/asr_nepali_data/asr_nepali/data/01/012b0b72e4.flac,यो गर्नितको एउटा नयाँ छेत्र,यो गणितको एउटा नयाँ क्षेत्र,0.4,0.2222222222222222
+05fcd388ee,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05fcd388ee.flac,[सङ्गीत] भेडा आदिको बलि,भेडा आदिको बलि,0.3333333333333333,0.6428571428571429
+053179438e,/kaggle/working/asr_nepali_data/asr_nepali/data/05/053179438e.flac,सिद्धि वा,सिद्धि वा असिद्धि,0.3333333333333333,0.47058823529411764
+0624915b29,/kaggle/working/asr_nepali_data/asr_nepali/data/06/0624915b29.flac,गर्छ जसलाई,गर्छ जसलाई कार्बन,0.3333333333333333,0.4117647058823529
+08513291e0,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08513291e0.flac,परिवेशले मनमा,ग्रामीण परिवेशले मनमा,0.3333333333333333,0.38095238095238093
+0bc8019ac2,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bc8019ac2.flac,उसले आफ्नो,उसले आफ्नो शक्ति,0.3333333333333333,0.375
+000f91b35e,/kaggle/working/asr_nepali_data/asr_nepali/data/00/000f91b35e.flac,देखि नेपाल बाट,देखि नेपाल टेलिभिजनबाट,0.3333333333333333,0.36363636363636365
+085b0bd23a,/kaggle/working/asr_nepali_data/asr_nepali/data/08/085b0bd23a.flac,उनका गीतको लाई,उनका गीतको मेलोडीलाई,0.3333333333333333,0.3
+0e63b61222,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e63b61222.flac,तिहिरै हुन सक्ने,धेरै हुन सक्ने,0.3333333333333333,0.2857142857142857
+07dd0e8768,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07dd0e8768.flac,हामी सबै लोप्टान्छिक,हामी सबै लोकतान्त्रिक,0.3333333333333333,0.2857142857142857
+0c826ea6f0,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c826ea6f0.flac,बेचे तर हप्टाउँ।,बेचे तर हप्तौँ,0.3333333333333333,0.2857142857142857
+097c7198fb,/kaggle/working/asr_nepali_data/asr_nepali/data/09/097c7198fb.flac,लुइसा लेन रुगको,लुइसा लेन ड्र्युको,0.3333333333333333,0.2777777777777778
+0c64b8a6f0,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c64b8a6f0.flac,छुट्टै बैसिस्टिया छ,छुट्टै वैशिष्ट्य छ,0.3333333333333333,0.2777777777777778
+03c0396072,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03c0396072.flac,थियो तपाउ पनि,थियो तब पनि,0.3333333333333333,0.2727272727272727
+098e107bdc,/kaggle/working/asr_nepali_data/asr_nepali/data/09/098e107bdc.flac,उनी प्रचलित,उनी प्रचलित छन्,0.3333333333333333,0.26666666666666666
+005e9b6303,/kaggle/working/asr_nepali_data/asr_nepali/data/00/005e9b6303.flac,दिन बुझ आफ्नो,दिन वुड्स आफ्नो,0.3333333333333333,0.26666666666666666
+00794066ec,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00794066ec.flac,समाजमा आधारित,समाजमा आधारित लोक,0.3333333333333333,0.23529411764705882
+0f05de5a0b,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f05de5a0b.flac,एडी हामी यसमा,यदि हामी यसमा,0.3333333333333333,0.23076923076923078
+004b2a3c8e,/kaggle/working/asr_nepali_data/asr_nepali/data/00/004b2a3c8e.flac,सानो काविषो हो,सानो गाविस हो,0.3333333333333333,0.23076923076923078
+030e2b1895,/kaggle/working/asr_nepali_data/asr_nepali/data/03/030e2b1895.flac,गर्दा सकिने,गर्दा सकिने रे,0.3333333333333333,0.21428571428571427
+05a5345630,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05a5345630.flac,नाम राखिएको,नाम राखिएको हो,0.3333333333333333,0.21428571428571427
+06c44e7dc1,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06c44e7dc1.flac,बाहिर निकालिन्छ,लास बाहिर निकालिन्छ,0.3333333333333333,0.21052631578947367
+08de58797e,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08de58797e.flac,छेत्रामा यो जिल्ला,क्षेत्रमा यो जिल्ला,0.3333333333333333,0.21052631578947367
+064cc7548e,/kaggle/working/asr_nepali_data/asr_nepali/data/06/064cc7548e.flac,रेखामा बनेको लाई,रेखामा बनेको बक्सलाई,0.3333333333333333,0.2
+05c8e880bb,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05c8e880bb.flac,भयो जब जक्दीसलाई,भयो जब जगदीशलाई,0.3333333333333333,0.2
+04218e2c33,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04218e2c33.flac,प्रिष्टमा राम्रो सुधार,पृष्ठमा राम्रो सुधार,0.3333333333333333,0.2
+0be1ba42dc,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0be1ba42dc.flac,उनका करिब छ।,उनका करिब ६,0.3333333333333333,0.18181818181818182
+0ea1c7a6e8,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0ea1c7a6e8.flac,प्राविधिक विश्ववित्यालाई भारतको,प्राविधिक विश्वविधालय भारतको,0.3333333333333333,0.17857142857142858
+070fec79fa,/kaggle/working/asr_nepali_data/asr_nepali/data/07/070fec79fa.flac,टोमी भनिन्छ तर,अटोटोमी भनिन्छ तर,0.3333333333333333,0.17647058823529413
+0cb5aaf08c,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cb5aaf08c.flac,त्यहाँ पश्चित सबै,त्यहाँ उपस्थित सबै,0.3333333333333333,0.16666666666666666
+0ce1b8a82f,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0ce1b8a82f.flac,आफ्नो मन बचन्,आफ्नो मन वचन,0.3333333333333333,0.16666666666666666
+0f88cb87d5,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f88cb87d5.flac,सिच्छा विकासका लागि,शिक्षा विकासका लागि,0.3333333333333333,0.15789473684210525
+01cac94cce,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01cac94cce.flac,प्रतिएका लागि चेतन,प्रत्ययका लागि चेतन,0.3333333333333333,0.15789473684210525
+0a234feaca,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a234feaca.flac,नदिहरु पनि यो,नदीहरू पनि यो,0.3333333333333333,0.15384615384615385
+0febd74e4b,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0febd74e4b.flac,विर्गती प्राप्त गरेका,वीरगति प्राप्त गरेका,0.3333333333333333,0.15
+06abeb0502,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06abeb0502.flac,आफ्नो धर्मको औलमबन,आफ्नो धर्मको अवलम्बन,0.3333333333333333,0.15
+0d2ead4610,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d2ead4610.flac,तर त्यस्त बेलाको,तर त्यस बेलाको,0.3333333333333333,0.14285714285714285
+0788dbba92,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0788dbba92.flac,कल्ले दिएला माम,कल्ले देला माम,0.3333333333333333,0.14285714285714285
+0dd694713d,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0dd694713d.flac,पहिले छलफल गरे।,पहिले छलफल गरी,0.3333333333333333,0.14285714285714285
+0c986d3ac0,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c986d3ac0.flac,निरोधी लोकपाल बिजेकको,निरोधी लोकपाल विधेयकको,0.3333333333333333,0.13636363636363635
+0ee199a984,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0ee199a984.flac,अनि त्यो जहिसीले,अनि त्यो जैसीले,0.3333333333333333,0.13333333333333333
+0c3067c27c,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c3067c27c.flac,यहाँ छोटो चचा,यहाँ छोटो चर्चा,0.3333333333333333,0.13333333333333333
+0424c14c4a,/kaggle/working/asr_nepali_data/asr_nepali/data/04/0424c14c4a.flac,सिंग्यापुरमा लड्दै गरेको,सिङ्गापुरमा लड्दै गरेको,0.3333333333333333,0.13043478260869565
+070571f325,/kaggle/working/asr_nepali_data/asr_nepali/data/07/070571f325.flac,जीवनको रच्छा गरे,जीवनको रक्षा गरे,0.3333333333333333,0.125
+055f241df3,/kaggle/working/asr_nepali_data/asr_nepali/data/05/055f241df3.flac,छ त्यहाँ भन्दा लाज,त्यहाँ भन्दा लाज,0.3333333333333333,0.125
+09077d5590,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09077d5590.flac,उनलाई पर्न करिहेर,उनलाई पर्न करियर,0.3333333333333333,0.125
+0e65aa9c47,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e65aa9c47.flac,तल्फल गर्नका लागि,छलफल गर्नका लागि,0.3333333333333333,0.125
+03fc35bed2,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03fc35bed2.flac,दिली एक प्रमुख,दिल्ली एक प्रमुख,0.3333333333333333,0.125
+0325510dd5,/kaggle/working/asr_nepali_data/asr_nepali/data/03/0325510dd5.flac,त स्वीकार गर्यौ,त स्वीकार गर्‍यो,0.3333333333333333,0.125
+026a29f93b,/kaggle/working/asr_nepali_data/asr_nepali/data/02/026a29f93b.flac,देवासका अवसरमा किम,दिवसका अवसरमा किम,0.3333333333333333,0.11764705882352941
+0a446e6706,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a446e6706.flac,दिन गाह्रोको भागबाट,दिन गारोको भागबाट,0.3333333333333333,0.11764705882352941
+088005306e,/kaggle/working/asr_nepali_data/asr_nepali/data/08/088005306e.flac,काम कार्बाही गर्ने,काम कारवाही गर्ने,0.3333333333333333,0.11764705882352941
+070ef4019c,/kaggle/working/asr_nepali_data/asr_nepali/data/07/070ef4019c.flac,समय सजै सबैभन्दा,समय सधैँ सबैभन्दा,0.3333333333333333,0.11764705882352941
+043e24cb6f,/kaggle/working/asr_nepali_data/asr_nepali/data/04/043e24cb6f.flac,जन्मका समय बुढ्छको,जन्मका समय बुड्सको,0.3333333333333333,0.1111111111111111
+04e3b02d20,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04e3b02d20.flac,एभम घरको भित्तामा,एवम् घरको भित्तामा,0.3333333333333333,0.1111111111111111
+0c103c9849,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c103c9849.flac,कुरले सेनाका साथ,कुँवरले सेनाका साथ,0.3333333333333333,0.1111111111111111
+0e7d19ac6d,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e7d19ac6d.flac,रङको सिमीको बिउको,रङ्गको सिमीको बिउको,0.3333333333333333,0.10526315789473684
+0018261eb9,/kaggle/working/asr_nepali_data/asr_nepali/data/00/0018261eb9.flac,थाम्बहादुर श्रेष्ठ हो,रामबहादुर श्रेष्ठ हो,0.3333333333333333,0.1
+03569c3326,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03569c3326.flac,साँगा भन्ज्या उत्तर,साँगा भञ्ज्याङ उत्तर,0.3333333333333333,0.1
+0a827d5eb7,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a827d5eb7.flac,आउनाले यसमा परिवर्ण,आउनाले यसमा परिवर्तन,0.3333333333333333,0.1
+08fe386f33,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08fe386f33.flac,व्यक्तिको अपहरान गर्नु,व्यक्तिको अपहरण गर्नु,0.3333333333333333,0.09523809523809523
+018b0501e3,/kaggle/working/asr_nepali_data/asr_nepali/data/01/018b0501e3.flac,विश्वमै दुल्ल मानिने,विश्वमै दुर्लभ मानिने,0.3333333333333333,0.09523809523809523
+026c4f4770,/kaggle/working/asr_nepali_data/asr_nepali/data/02/026c4f4770.flac,जान्छ त्यो निषदहात्मक,जान्छ त्यो निषेधात्मक,0.3333333333333333,0.09523809523809523
+05a6a456c9,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05a6a456c9.flac,वर्षका प्रसित्त इतिहास,वर्षका प्रसिद्ध इतिहास,0.3333333333333333,0.09090909090909091
+0bff59faef,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bff59faef.flac,प्रश्न कसैले सोधिदेउस,प्रश्न कसैले सोधिदेओस्,0.3333333333333333,0.09090909090909091
+083f308659,/kaggle/working/asr_nepali_data/asr_nepali/data/08/083f308659.flac,अत्यन्तै रमडी रहेकोले,अत्यन्तै रमणीय रहेकोले,0.3333333333333333,0.09090909090909091
+0b51601bbc,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b51601bbc.flac,एउटै अविष्ठलाई प्राप्त,एउटै अभिष्टलाई प्राप्त,0.3333333333333333,0.09090909090909091
+0f8ccef6c5,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f8ccef6c5.flac,सांगीतिक करियर मिसिगन,साङ्गीतिक करियर मिसिगन,0.3333333333333333,0.09090909090909091
+05ec166b72,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05ec166b72.flac,नेपालको उपाधक्ष साथै,नेपालको उपाध्यक्ष साथै,0.3333333333333333,0.09090909090909091
+088dde77b2,/kaggle/working/asr_nepali_data/asr_nepali/data/08/088dde77b2.flac,गरेको झापा विद्रोहको,गरेको झापा व्रिद्रोहको,0.3333333333333333,0.09090909090909091
+05e3f3d06e,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05e3f3d06e.flac,मानिशहरुको बसोबास भएपछि,मानिसहरूको बसोबास भएपछि,0.3333333333333333,0.08695652173913043
+05ce8202d6,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05ce8202d6.flac,खोलाको संगममा इन्द्रले,खोलाको सङ्गममा इन्द्रले,0.3333333333333333,0.08695652173913043
+0460b63054,/kaggle/working/asr_nepali_data/asr_nepali/data/04/0460b63054.flac,समानहरु स्थानीय बजारमा,सामानहरू स्थानीय बजारमा,0.3333333333333333,0.08695652173913043
+0e607fbf8e,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e607fbf8e.flac,माप पुग्यो जुन,मा पुग्यो जुन,0.3333333333333333,0.07692307692307693
+0841d4597b,/kaggle/working/asr_nepali_data/asr_nepali/data/08/0841d4597b.flac,दिलाएका छन् र,दिलायका छन् र,0.3333333333333333,0.07692307692307693
+022ec953d5,/kaggle/working/asr_nepali_data/asr_nepali/data/02/022ec953d5.flac,छ वर्षका लागि,६ वर्षका लागि,0.3333333333333333,0.07692307692307693
+0e70c6a65a,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e70c6a65a.flac,कहा छु भन्ने,कहाँ छु भन्ने,0.3333333333333333,0.07692307692307693
+0c4d352b82,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c4d352b82.flac,पर्छ भने केहि,पर्छ भने केही,0.3333333333333333,0.07692307692307693
+00c0a071b3,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00c0a071b3.flac,जारी गरिएको छ।,जारी गरिएको छ,0.3333333333333333,0.07692307692307693
+01fe7b0d36,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01fe7b0d36.flac,यो नदिको गहाब,यो नदिको बहाब,0.3333333333333333,0.07692307692307693
+061fc380a5,/kaggle/working/asr_nepali_data/asr_nepali/data/06/061fc380a5.flac,गर्न सहयोग गरे।,गर्न सहयोग गरे,0.3333333333333333,0.07142857142857142
+06f430c530,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06f430c530.flac,कपी बिक्री भयो,कपि बिक्री भयो,0.3333333333333333,0.07142857142857142
+0b08ea3863,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b08ea3863.flac,उनी फौजमा लागि,उनी फौजमा लागे,0.3333333333333333,0.07142857142857142
+0b35f15578,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b35f15578.flac,रूपमा रेको भए,रूपमा रहेको भए,0.3333333333333333,0.07142857142857142
+06ac088d46,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06ac088d46.flac,गर्न सहयोग गरी,गर्न सहयोग गरे,0.3333333333333333,0.07142857142857142
+0eff9729f7,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0eff9729f7.flac,यस चहरको भ्रमण,यस सहरको भ्रमण,0.3333333333333333,0.07142857142857142
+03c9bd6fb9,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03c9bd6fb9.flac,साना सान्त रेड,साना शान्त रेड,0.3333333333333333,0.07142857142857142
+08928405a5,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08928405a5.flac,दोस्रो पत्नी भए,दोस्रो पत्नी भई,0.3333333333333333,0.06666666666666667
+044b28e314,/kaggle/working/asr_nepali_data/asr_nepali/data/04/044b28e314.flac,गर्ने विश्वास छ।,गर्ने विश्वास छ,0.3333333333333333,0.06666666666666667
+0b27feaf1d,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b27feaf1d.flac,भएको राष्ट्रा हो,भएको राष्ट्र हो,0.3333333333333333,0.06666666666666667
+0ce8366553,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0ce8366553.flac,कार्य रामेश खनाल,कार्य रमेश खनाल,0.3333333333333333,0.06666666666666667
+04b2739c7c,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04b2739c7c.flac,सँग बगुचिको बिउ,सँग बगुचीको बिउ,0.3333333333333333,0.06666666666666667
+0e9bd90514,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e9bd90514.flac,दबाब दिन उनीहरु,दबाब दिन उनीहरू,0.3333333333333333,0.06666666666666667
+0785484864,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0785484864.flac,कार्टिक देखि नै,कार्तिक देखि नै,0.3333333333333333,0.06666666666666667
+062c1cddc2,/kaggle/working/asr_nepali_data/asr_nepali/data/06/062c1cddc2.flac,जस्बाट उठेको रकम,जसबाट उठेको रकम,0.3333333333333333,0.06666666666666667
+03558d5ebe,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03558d5ebe.flac,चक्नाचुर भएको छ।,चक्नाचुर भएको छ,0.3333333333333333,0.06666666666666667
+066ea39354,/kaggle/working/asr_nepali_data/asr_nepali/data/06/066ea39354.flac,उनका जीवनमा थिए।,उनका जीवनमा थिए,0.3333333333333333,0.06666666666666667
+0a9b50e02f,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a9b50e02f.flac,बोहेरा हाल एमाले,बोहरा हाल एमाले,0.3333333333333333,0.06666666666666667
+0190ac3057,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0190ac3057.flac,थामी जातीमा पनि,थामी जातिमा पनि,0.3333333333333333,0.06666666666666667
+0c2fbbb50b,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c2fbbb50b.flac,उता सोजी आमैलाई,उता सोझी आमैलाई,0.3333333333333333,0.06666666666666667
+0d27babb2a,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d27babb2a.flac,प्रचलित रहेको छ।,प्रचलित रहेको छ,0.3333333333333333,0.06666666666666667
+06802f088e,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06802f088e.flac,प्रयोग गर्दै थिए।,प्रयोग गर्दै थिए,0.3333333333333333,0.0625
+0ad8fc485f,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0ad8fc485f.flac,त्यहीको कारण भयो।,त्यहीको कारण भयो,0.3333333333333333,0.0625
+0966a5aa1b,/kaggle/working/asr_nepali_data/asr_nepali/data/09/0966a5aa1b.flac,तताएर कानमा केहि,तताएर कानमा केही,0.3333333333333333,0.0625
+0f538dc13d,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f538dc13d.flac,वर्थका कुरा सेती,बर्थका कुरा सेती,0.3333333333333333,0.0625
+0797641b5e,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0797641b5e.flac,लेख पेरमा जान्छु,लेख पेजमा जान्छु,0.3333333333333333,0.0625
+0d86b6e2e4,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d86b6e2e4.flac,अर्थकाश साथ आफ्नो,अर्थका साथ आफ्नो,0.3333333333333333,0.0625
+06891efcbf,/kaggle/working/asr_nepali_data/asr_nepali/data/06/06891efcbf.flac,वर्षको औवधि राजा,वर्षको अवधि राजा,0.3333333333333333,0.0625
+0700bd8adf,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0700bd8adf.flac,अग्लो उठायौ भने,अग्लो उठायौँ भने,0.3333333333333333,0.0625
+0d1557db46,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d1557db46.flac,गर्न दलाई लामाको,गर्न दलाइ लामाको,0.3333333333333333,0.0625
+064d6d72e4,/kaggle/working/asr_nepali_data/asr_nepali/data/06/064d6d72e4.flac,पनि मध्य पुर्वमा,पनि मध्य पूर्वमा,0.3333333333333333,0.0625
+0bf6414142,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0bf6414142.flac,अन्न भावन क्याम्पस,अन्न भवन क्याम्पस,0.3333333333333333,0.058823529411764705
+0d36f8684f,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d36f8684f.flac,खेतमा बारको रुपमा,खेतमा बारको रूपमा,0.3333333333333333,0.058823529411764705
+09ae407bcd,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09ae407bcd.flac,मिल्यो भने चट्यान,मिल्यो भने चट्याङ,0.3333333333333333,0.058823529411764705
+0f369ba937,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f369ba937.flac,नेपालमा पनि किता,नेपालमा पनि किताब,0.3333333333333333,0.058823529411764705
+0e0adc9489,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e0adc9489.flac,यो समुदाईको मुख्य,यो समुदायको मुख्य,0.3333333333333333,0.058823529411764705
+0920b66274,/kaggle/working/asr_nepali_data/asr_nepali/data/09/0920b66274.flac,यहाँ धेरै प्राचिन,यहाँ धेरै प्राचीन,0.3333333333333333,0.058823529411764705
+0c6b4bd18f,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c6b4bd18f.flac,नभएर लडाईको लागि,नभएर लडाईँको लागि,0.3333333333333333,0.058823529411764705
+0f3c85be93,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f3c85be93.flac,राजनीती सुरु गरेको,राजनीति सुरु गरेको,0.3333333333333333,0.05555555555555555
+0891fcbd17,/kaggle/working/asr_nepali_data/asr_nepali/data/08/0891fcbd17.flac,मेहेनतको बलमा सफलता,मेहनतको बलमा सफलता,0.3333333333333333,0.05555555555555555
+018358c7a6,/kaggle/working/asr_nepali_data/asr_nepali/data/01/018358c7a6.flac,मेची अन्चलमा पर्ने,मेची अञ्चलमा पर्ने,0.3333333333333333,0.05555555555555555
+0f81ec503f,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f81ec503f.flac,यो गाउको बिस्तारै,यो गाउँको बिस्तारै,0.3333333333333333,0.05555555555555555
+08c13704aa,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08c13704aa.flac,राम्रो विषय अध्यन,राम्रो विषय अध्ययन,0.3333333333333333,0.05555555555555555
+0862247720,/kaggle/working/asr_nepali_data/asr_nepali/data/08/0862247720.flac,जुन मरिजको इटालियन,जुन मरिचको इटालियन,0.3333333333333333,0.05555555555555555
+03acd9e005,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03acd9e005.flac,जसको उपयोगले बारलाई,जसको उपयोगले बाणलाई,0.3333333333333333,0.05263157894736842
+04b2b2d237,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04b2b2d237.flac,चार विकास क्षेत्रामा,चार विकास क्षेत्रमा,0.3333333333333333,0.05263157894736842
+0850023894,/kaggle/working/asr_nepali_data/asr_nepali/data/08/0850023894.flac,दृष्य ल्याउला भन्ने,दृश्य ल्याउला भन्ने,0.3333333333333333,0.05263157894736842
+0b636b9403,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b636b9403.flac,उनमा पुराना घटनाहरु,उनमा पुराना घटनाहरू,0.3333333333333333,0.05263157894736842
+0aecf3d17a,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0aecf3d17a.flac,साखेवा साखेनवा सिमे,साखेवा साकेनवा सिमे,0.3333333333333333,0.05263157894736842
+00867c189f,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00867c189f.flac,सम्पर्क गर्न सकिन्छ।,सम्पर्क गर्न सकिन्छ,0.3333333333333333,0.05263157894736842
+04500a7a1f,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04500a7a1f.flac,तिनीहरुमा काम गर्ने,तिनीहरूमा काम गर्ने,0.3333333333333333,0.05263157894736842
+0f4ec17294,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f4ec17294.flac,नेपाली भाषाका पहिलो,नेपाली भाषाकै पहिलो,0.3333333333333333,0.05263157894736842
+0e827f7786,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e827f7786.flac,सरोजी पछिल्लो समयमा,सरोजजी पछिल्लो समयमा,0.3333333333333333,0.05
+0424803206,/kaggle/working/asr_nepali_data/asr_nepali/data/04/0424803206.flac,वर्तमान मन्त्री हुन्।,वर्तमान मन्त्री हुन्,0.3333333333333333,0.05
+08dc129a03,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08dc129a03.flac,माटोले पुर्ने गरिन्छ।,माटोले पुर्ने गरिन्छ,0.3333333333333333,0.05
+0648c07d69,/kaggle/working/asr_nepali_data/asr_nepali/data/06/0648c07d69.flac,लेखलाई कोटी मेट्नेमा,लेखलाई कोटि मेट्नेमा,0.3333333333333333,0.05
+005c147b66,/kaggle/working/asr_nepali_data/asr_nepali/data/00/005c147b66.flac,जुरेरी नेपालमा पाइने,जुरेली नेपालमा पाइने,0.3333333333333333,0.05
+01c7e8385a,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01c7e8385a.flac,सरकारहरु स्वायत्त भए,सरकारहरू स्वायत्त भए,0.3333333333333333,0.05
+0a0ac54d4a,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a0ac54d4a.flac,युरोबमा पनि मुसलमानको,युरोपमा पनि मुसलमानको,0.3333333333333333,0.047619047619047616
+0279720b41,/kaggle/working/asr_nepali_data/asr_nepali/data/02/0279720b41.flac,शिक्किम भारतमा जन्मेकी,सिक्किम भारतमा जन्मेकी,0.3333333333333333,0.045454545454545456
+0dcfe19305,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0dcfe19305.flac,गरेपछि भाकल गर्नेहरुको,गरेपछि भाकल गर्नेहरूको,0.3333333333333333,0.045454545454545456
+0653221b25,/kaggle/working/asr_nepali_data/asr_nepali/data/06/0653221b25.flac,स्थानलाई बिस्ती भनिन्छ,स्थानलाई पिस्ती भनिन्छ,0.3333333333333333,0.045454545454545456
+03737a41cf,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03737a41cf.flac,अनेक प्रकारका तथ्यहरुको,अनेक प्रकारका तथ्यहरूको,0.3333333333333333,0.043478260869565216
+0ea876439b,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0ea876439b.flac,सेटहरुमा प्रयुक्त हुन्छ,सेटहरूमा प्रयुक्त हुन्छ,0.3333333333333333,0.043478260869565216
+0af0570302,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0af0570302.flac,नयाँ उच्साहले राष्ट्रलाई,नयाँ उत्साहले राष्ट्रलाई,0.3333333333333333,0.041666666666666664
+0e3723c724,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e3723c724.flac,अन्चलको सिन्धुली जिल्लामा,अञ्चलको सिन्धुली जिल्लामा,0.3333333333333333,0.04
+0b1f7ff2b6,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b1f7ff2b6.flac,उसको कुरा सुनेर मेरो मन जस्तो गोज्छ।,उसको कुरा सुनेर मेरो मन चस्स घोच्छ।,0.2857142857142857,0.14285714285714285
+07c1a489c7,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07c1a489c7.flac,छ र जसलाई,रेकर्ड छ र जसलाई,0.25,0.4375
+0b7d6e14f0,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0b7d6e14f0.flac,कारण बच्चन र,कारण बच्चन र उनको,0.25,0.29411764705882354
+026c6a1a25,/kaggle/working/asr_nepali_data/asr_nepali/data/02/026c6a1a25.flac,थप १० वटा पुलहरु।,थप १० वटा पुलहरू,0.25,0.125
+08bc566668,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08bc566668.flac,थिये र पनि हजुरलाई,थिए र पनि हजुरलाई,0.25,0.11764705882352941
+0cf2621f78,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cf2621f78.flac,सङ्ग्य सरकार र सबै,सङ्घीय सरकार र सबै,0.25,0.1111111111111111
+00aaa9c769,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00aaa9c769.flac,तर उनी मात्र हासिन,तर उनी मात्र हाँसिन्,0.25,0.1
+0d294361a9,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d294361a9.flac,अर्को कुनै विकल्प आउँदैन,अर्को कुनै विकल्प रहँदैन,0.25,0.08333333333333333
+0d6b4edb2c,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d6b4edb2c.flac,अरु पनि धेरै थर्,अरु पनि धेरै थर,0.25,0.06666666666666667
+08a72f905b,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08a72f905b.flac,तर हाम्रो जन्मो के,तर हाम्रो जन्म के,0.25,0.058823529411764705
+0116557933,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0116557933.flac,र असान्ति बढ्ने छ,र अशान्ति बढ्ने छ,0.25,0.058823529411764705
+09db98d077,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09db98d077.flac,प्रमु केन्द्र हुनुको साथै,प्रमुख केन्द्र हुनुको साथै,0.25,0.038461538461538464
+0068d0a558,/kaggle/working/asr_nepali_data/asr_nepali/data/00/0068d0a558.flac,राम्रै हालतमा राख्न सकिन्छ।,राम्रै हालतमा राख्न सकिन्छ,0.25,0.038461538461538464
+0744bbb828,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0744bbb828.flac,हुन्छ भनिन्छ,हुन्छ भनिन्छ,0.0,0.0
+027c26bdef,/kaggle/working/asr_nepali_data/asr_nepali/data/02/027c26bdef.flac,गरेको भए पनि,गरेको भए पनि,0.0,0.0
+00adf5c131,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00adf5c131.flac,चामुण्डा मन्दिर परिसरका,चामुण्डा मन्दिर परिसरका,0.0,0.0
+0411ac741c,/kaggle/working/asr_nepali_data/asr_nepali/data/04/0411ac741c.flac,एक दिन,एक दिन,0.0,0.0
+0274870094,/kaggle/working/asr_nepali_data/asr_nepali/data/02/0274870094.flac,यसको इतिहासको प्रारम्भ,यसको इतिहासको प्रारम्भ,0.0,0.0
+0e2c6de599,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e2c6de599.flac,चलचित्र हो जुन,चलचित्र हो जुन,0.0,0.0
+095c7b4ba1,/kaggle/working/asr_nepali_data/asr_nepali/data/09/095c7b4ba1.flac,कोइराला पनि प्रयास,कोइराला पनि प्रयास,0.0,0.0
+017541405c,/kaggle/working/asr_nepali_data/asr_nepali/data/01/017541405c.flac,छैन त्यो देशको,छैन त्यो देशको,0.0,0.0
+0856114dc9,/kaggle/working/asr_nepali_data/asr_nepali/data/08/0856114dc9.flac,दिए पनि त्यही,दिए पनि त्यही,0.0,0.0
+0c1bd98f5d,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c1bd98f5d.flac,सिधे नुन मात्र,सिधे नुन मात्र,0.0,0.0
+0704067b8d,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0704067b8d.flac,बारे यसरी आफ्ना,बारे यसरी आफ्ना,0.0,0.0
+0fbcaf8d16,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fbcaf8d16.flac,करङ नितम्बको क्षेत्रको,करङ नितम्बको क्षेत्रको,0.0,0.0
+0e943964db,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e943964db.flac,पाण्डेको जीवन भने,पाण्डेको जीवन भने,0.0,0.0
+0d69788284,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d69788284.flac,नै तयार गरेर,नै तयार गरेर,0.0,0.0
+07e843693e,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07e843693e.flac,मन पर्ने मान्छेलाई,मन पर्ने मान्छेलाई,0.0,0.0
+04332a9f4b,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04332a9f4b.flac,गर्न नसकिए पनि,गर्न नसकिए पनि,0.0,0.0
+08276306ef,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08276306ef.flac,व्यक्ति बन्न,व्यक्ति बन्न,0.0,0.0
+0cd4463a34,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cd4463a34.flac,पनि आफ्नो सक्रियता,पनि आफ्नो सक्रियता,0.0,0.0
+054d968a1c,/kaggle/working/asr_nepali_data/asr_nepali/data/05/054d968a1c.flac,अमेरिका यात्रा,अमेरिका यात्रा,0.0,0.0
+0f81dd0877,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f81dd0877.flac,गर्नु पर्थ्यो,गर्नु पर्थ्यो,0.0,0.0
+076235f4d3,/kaggle/working/asr_nepali_data/asr_nepali/data/07/076235f4d3.flac,भन्दा बढी भयो,भन्दा बढी भयो,0.0,0.0
+0153a36a53,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0153a36a53.flac,सहर पनि भनिन्छ,सहर पनि भनिन्छ,0.0,0.0
+0e478b5087,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e478b5087.flac,भएको पाइन्छ,भएको पाइन्छ,0.0,0.0
+063ac6ca24,/kaggle/working/asr_nepali_data/asr_nepali/data/06/063ac6ca24.flac,पोकली झरना नेपालको,पोकली झरना नेपालको,0.0,0.0
+09f965a8a7,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09f965a8a7.flac,संविधान सभामा महिलाको,संविधान सभामा महिलाको,0.0,0.0
+0a49c41210,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a49c41210.flac,अर्को कुरा यदि,अर्को कुरा यदि,0.0,0.0
+01c81f1628,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01c81f1628.flac,आजको प्रमुख,आजको प्रमुख,0.0,0.0
+0632ad06de,/kaggle/working/asr_nepali_data/asr_nepali/data/06/0632ad06de.flac,दृष्टिकोणले अझ,दृष्टिकोणले अझ,0.0,0.0
+0111137fe4,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0111137fe4.flac,अनुमति समाप्त,अनुमति समाप्त,0.0,0.0
+0648d66392,/kaggle/working/asr_nepali_data/asr_nepali/data/06/0648d66392.flac,हुनुहुन्थ्यो,हुनुहुन्थ्यो,0.0,0.0
+085dd4489a,/kaggle/working/asr_nepali_data/asr_nepali/data/08/085dd4489a.flac,प्रकाशित गर्ने गरेका,प्रकाशित गर्ने गरेका,0.0,0.0
+004481c30d,/kaggle/working/asr_nepali_data/asr_nepali/data/00/004481c30d.flac,दिल्ली मेट्रो भन्छन्,दिल्ली मेट्रो भन्छन्,0.0,0.0
+0d5c203935,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d5c203935.flac,यसो गरे चिर्को,यसो गरे चिर्को,0.0,0.0
+037f0af863,/kaggle/working/asr_nepali_data/asr_nepali/data/03/037f0af863.flac,जस्तै यो लेखको,जस्तै यो लेखको,0.0,0.0
+0e553cea47,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e553cea47.flac,कुन जिल्ला हो,कुन जिल्ला हो,0.0,0.0
+0d59018758,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d59018758.flac,निवेदन हेरी आफ्नो,निवेदन हेरी आफ्नो,0.0,0.0
+012db02ab6,/kaggle/working/asr_nepali_data/asr_nepali/data/01/012db02ab6.flac,जन्मेका अन्नाको बालापन,जन्मेका अन्नाको बालापन,0.0,0.0
+010c116db7,/kaggle/working/asr_nepali_data/asr_nepali/data/01/010c116db7.flac,आदिमा पाइन्छ,आदिमा पाइन्छ,0.0,0.0
+0c279420bd,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c279420bd.flac,अघि सार्दै,अघि सार्दै,0.0,0.0
+00b7073d6a,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00b7073d6a.flac,उत्पन्न हुने,उत्पन्न हुने,0.0,0.0
+03144f14b0,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03144f14b0.flac,सरकारमा पनि,सरकारमा पनि,0.0,0.0
+05026adbb2,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05026adbb2.flac,कुरा अथवा घटना,कुरा अथवा घटना,0.0,0.0
+012f191793,/kaggle/working/asr_nepali_data/asr_nepali/data/01/012f191793.flac,पत्तनबाट आएको हो,पत्तनबाट आएको हो,0.0,0.0
+0ac7caf90c,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0ac7caf90c.flac,बारेमा सोध्ने र बताउने,बारेमा सोध्ने र बताउने,0.0,0.0
+0e71e3fdd4,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e71e3fdd4.flac,बढेर उनले रोमसँग,बढेर उनले रोमसँग,0.0,0.0
+0279e5269a,/kaggle/working/asr_nepali_data/asr_nepali/data/02/0279e5269a.flac,वा टुप्पो निकालिन्छ,वा टुप्पो निकालिन्छ,0.0,0.0
+0d0d07259a,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d0d07259a.flac,प्रियका नजिक सन्देश,प्रियका नजिक सन्देश,0.0,0.0
+03da234a02,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03da234a02.flac,तयार पारिन्छ,तयार पारिन्छ,0.0,0.0
+02dae26449,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02dae26449.flac,नेपाली कविताको इतिहासमा,नेपाली कविताको इतिहासमा,0.0,0.0
+03857eb17f,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03857eb17f.flac,गर्ने बाटोमा यो जुका,गर्ने बाटोमा यो जुका,0.0,0.0
+0ebb9133bd,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0ebb9133bd.flac,एउटा फोटो लगाइएको,एउटा फोटो लगाइएको,0.0,0.0
+0dcbaf8941,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0dcbaf8941.flac,पुरस्कार प्राप्त गर्ने,पुरस्कार प्राप्त गर्ने,0.0,0.0
+01ab21c467,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01ab21c467.flac,असफल हुन सक्छ,असफल हुन सक्छ,0.0,0.0
+0e527bbb42,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e527bbb42.flac,भन्न त सक्छु,भन्न त सक्छु,0.0,0.0
+05743f96e3,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05743f96e3.flac,छ यहाँ निम्न,छ यहाँ निम्न,0.0,0.0
+0a42eefccc,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0a42eefccc.flac,पात हुन्छ भने,पात हुन्छ भने,0.0,0.0
+0e67ffd195,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e67ffd195.flac,रहनको लागि पहिले,रहनको लागि पहिले,0.0,0.0
+0c561b2bed,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c561b2bed.flac,यहाँ आफ्ना विचार,यहाँ आफ्ना विचार,0.0,0.0
+0f9d3a0e60,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f9d3a0e60.flac,काम भएको जस्तो,काम भएको जस्तो,0.0,0.0
+09ab35a03b,/kaggle/working/asr_nepali_data/asr_nepali/data/09/09ab35a03b.flac,चम्चा ३४ महिना,चम्चा ३४ महिना,0.0,0.0
+0f467ad963,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f467ad963.flac,पाकेको सुक्खा मटरको दाना,पाकेको सुक्खा मटरको दाना,0.0,0.0
+0842db2064,/kaggle/working/asr_nepali_data/asr_nepali/data/08/0842db2064.flac,गरिएका छन्,गरिएका छन्,0.0,0.0
+0f329fde50,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f329fde50.flac,त्यस दिशाको सम्पूर्ण,त्यस दिशाको सम्पूर्ण,0.0,0.0
+0666799192,/kaggle/working/asr_nepali_data/asr_nepali/data/06/0666799192.flac,त्यहाँबाट मैले एउटी,त्यहाँबाट मैले एउटी,0.0,0.0
+0c46e43cfd,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c46e43cfd.flac,मैत्री सम्बन्धमा,मैत्री सम्बन्धमा,0.0,0.0
+0fa18d14bd,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0fa18d14bd.flac,परिवारमा जन्मी,परिवारमा जन्मी,0.0,0.0
+067876ad45,/kaggle/working/asr_nepali_data/asr_nepali/data/06/067876ad45.flac,पढ्नलाई बोर लाग्ला,पढ्नलाई बोर लाग्ला,0.0,0.0
+0be5725ce4,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0be5725ce4.flac,के थियो भने,के थियो भने,0.0,0.0
+00bf6adb87,/kaggle/working/asr_nepali_data/asr_nepali/data/00/00bf6adb87.flac,सिकारको बेला बस्न,सिकारको बेला बस्न,0.0,0.0
+04c8c3d86d,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04c8c3d86d.flac,गर्नु पर्छ होला,गर्नु पर्छ होला,0.0,0.0
+07692d4766,/kaggle/working/asr_nepali_data/asr_nepali/data/07/07692d4766.flac,तर मैले अहिले,तर मैले अहिले,0.0,0.0
+0750b9d1b7,/kaggle/working/asr_nepali_data/asr_nepali/data/07/0750b9d1b7.flac,तरङ्ग लम्बाइको प्रकाश,तरङ्ग लम्बाइको प्रकाश,0.0,0.0
+0cf7516766,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cf7516766.flac,केन्द्रित छ,केन्द्रित छ,0.0,0.0
+0ab0f9dc1d,/kaggle/working/asr_nepali_data/asr_nepali/data/0a/0ab0f9dc1d.flac,नै छन् कि,नै छन् कि,0.0,0.0
+0c7931650c,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c7931650c.flac,उसैले मलाई मेरो,उसैले मलाई मेरो,0.0,0.0
+0e95dc035c,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e95dc035c.flac,पत्रिका निकाल्ने,पत्रिका निकाल्ने,0.0,0.0
+04e0965b6f,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04e0965b6f.flac,संस्थाको पहलमा,संस्थाको पहलमा,0.0,0.0
+05b3d130d8,/kaggle/working/asr_nepali_data/asr_nepali/data/05/05b3d130d8.flac,गएर मलाई समर्थन,गएर मलाई समर्थन,0.0,0.0
+04b827afb4,/kaggle/working/asr_nepali_data/asr_nepali/data/04/04b827afb4.flac,आगराको जनसङ्ख्याको,आगराको जनसङ्ख्याको,0.0,0.0
+0135e844c3,/kaggle/working/asr_nepali_data/asr_nepali/data/01/0135e844c3.flac,पहिलो तारा कविता,पहिलो तारा कविता,0.0,0.0
+02bf42300a,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02bf42300a.flac,बिहे गरिदिएमा,बिहे गरिदिएमा,0.0,0.0
+0ba0535339,/kaggle/working/asr_nepali_data/asr_nepali/data/0b/0ba0535339.flac,ग्रह भएको अवस्थामा,ग्रह भएको अवस्थामा,0.0,0.0
+01b2fbc3b3,/kaggle/working/asr_nepali_data/asr_nepali/data/01/01b2fbc3b3.flac,पछि राजाको विश्वास,पछि राजाको विश्वास,0.0,0.0
+058f34cba0,/kaggle/working/asr_nepali_data/asr_nepali/data/05/058f34cba0.flac,अध्यात्मका सच्चा,अध्यात्मका सच्चा,0.0,0.0
+082865aeb2,/kaggle/working/asr_nepali_data/asr_nepali/data/08/082865aeb2.flac,यो काल जापानी,यो काल जापानी,0.0,0.0
+03488d3021,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03488d3021.flac,स्थापनाको सिलसिलामा,स्थापनाको सिलसिलामा,0.0,0.0
+0f7aeb9ef3,/kaggle/working/asr_nepali_data/asr_nepali/data/0f/0f7aeb9ef3.flac,अनेक विश्व प्रसिद्ध,अनेक विश्व प्रसिद्ध,0.0,0.0
+071f298d6d,/kaggle/working/asr_nepali_data/asr_nepali/data/07/071f298d6d.flac,मल्खु भनिन्छ,मल्खु भनिन्छ,0.0,0.0
+08cac0cea9,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08cac0cea9.flac,यसलाई नेपालीमा,यसलाई नेपालीमा,0.0,0.0
+08b3bfc399,/kaggle/working/asr_nepali_data/asr_nepali/data/08/08b3bfc399.flac,भाषाको समस्याको,भाषाको समस्याको,0.0,0.0
+0d9b60d3d4,/kaggle/working/asr_nepali_data/asr_nepali/data/0d/0d9b60d3d4.flac,शक्ति सन्तुलन,शक्ति सन्तुलन,0.0,0.0
+03367071ba,/kaggle/working/asr_nepali_data/asr_nepali/data/03/03367071ba.flac,बस्ती बसेपछि पोखरी,बस्ती बसेपछि पोखरी,0.0,0.0
+0064c75d84,/kaggle/working/asr_nepali_data/asr_nepali/data/00/0064c75d84.flac,नेपालमा रहेर काम,नेपालमा रहेर काम,0.0,0.0
+0c0b66fcfd,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0c0b66fcfd.flac,सर्वाधिक मान्य,सर्वाधिक मान्य,0.0,0.0
+0399783786,/kaggle/working/asr_nepali_data/asr_nepali/data/03/0399783786.flac,यो तामाङ जातिमा,यो तामाङ जातिमा,0.0,0.0
+0e3d9e4f46,/kaggle/working/asr_nepali_data/asr_nepali/data/0e/0e3d9e4f46.flac,जरुरी छैन,जरुरी छैन,0.0,0.0
+0cc879b61f,/kaggle/working/asr_nepali_data/asr_nepali/data/0c/0cc879b61f.flac,यो कल्पना सम्म पनि,यो कल्पना सम्म पनि,0.0,0.0
+02aa70a70b,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02aa70a70b.flac,उपल्लो सेरामा रहेको,उपल्लो सेरामा रहेको,0.0,0.0
+079bf277ab,/kaggle/working/asr_nepali_data/asr_nepali/data/07/079bf277ab.flac,अनि नेपालमा के,अनि नेपालमा के,0.0,0.0
+02b027dc38,/kaggle/working/asr_nepali_data/asr_nepali/data/02/02b027dc38.flac,कालमा सुरु भएको,कालमा सुरु भएको,0.0,0.0

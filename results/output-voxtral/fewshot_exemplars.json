@@ -1,0 +1,26 @@
+{
+  "clean": {
+    "sample_id": "clean:audio/clean_slr143_002_577615770e.wav",
+    "utterance_id": "audio/clean_slr143_002_577615770e.wav",
+    "speech_condition": "clean",
+    "audio_path": "/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/clean_slr143_002_577615770e.wav",
+    "demonstration_transcript": "त्यसैले यस दिन गाईलाई फुलको माला लगाएर थरथरीका मीठा मीठा खाने कुरा खान दिई गाई पूजा गरिन्छ।",
+    "duration_sec": 7.5
+  },
+  "codeswitched": {
+    "sample_id": "codeswitched:audio/codeswitched_fleurs_061_a99e8c435b61.wav",
+    "utterance_id": "audio/codeswitched_fleurs_061_a99e8c435b61.wav",
+    "speech_condition": "codeswitched",
+    "audio_path": "/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/codeswitched_fleurs_061_a99e8c435b61.wav",
+    "demonstration_transcript": "nasa को शटल कार्यक्रम प्रमुख n. wayne hale jr.ले  हाम्रो चिन्ताको समयपछि फोम खस्कियो”भने।",
+    "duration_sec": 10.56
+  },
+  "noisy": {
+    "sample_id": "noisy:audio/noisy_noisy_031_common_voice_009_8de382dd93_noise_10db.wav",
+    "utterance_id": "audio/noisy_noisy_031_common_voice_009_8de382dd93_noise_10db.wav",
+    "speech_condition": "noisy",
+    "audio_path": "/kaggle/input/datasets/panditaadarsh/llm-bechmarking-audio/prompt_development_sets/stage1/audio/noisy_noisy_031_common_voice_009_8de382dd93_noise_10db.wav",
+    "demonstration_transcript": "कति मेसेज मात्रै हेरोस बिचराले,यसो भिडियो हेरेर मुड फ्रेश बनावोस भनेर ।",
+    "duration_sec": 6.84
+  }
+}
