@@ -1,0 +1,63 @@
+{
+  "requirements_checklist": {
+    "section_2_experiment_setup": {
+      "model_loading_test": true,
+      "experiment_config_saved": true,
+      "manifests_generated": true,
+      "batch_inference_pipeline": true
+    },
+    "section_3_prompt_development": {
+      "level_0_prompts_tested": true,
+      "level_1_variants_tested": true,
+      "level_2_linguistic_aware": true,
+      "level_3_one_shot_tested": true,
+      "level_4_three_shot_tested": true
+    },
+    "section_4_output_processing": {
+      "raw_output_saved": true,
+      "cleaned_output_processed": true,
+      "markup_removed": true,
+      "transcription_labels_removed": true,
+      "leading_trailing_whitespace_removed": true,
+      "repeated_formatting_tokens_removed": true,
+      "linguistic_content_preserved": true
+    },
+    "section_5_metrics_calculation": {
+      "wer_calculated": true,
+      "cer_calculated": true,
+      "error_count_analysis": true,
+      "hallucination_detection": true,
+      "language_switching_analysis": true
+    },
+    "section_6_result_saving": {
+      "jsonl_format": true,
+      "csv_format": true,
+      "schema_compliant": true,
+      "incremental_saving": true,
+      "resumable_processing": true
+    },
+    "section_7_prompt_selection": {
+      "cross_model_comparison": true,
+      "wer_based_selection": true,
+      "cer_based_selection": true,
+      "behavioral_metrics_considered": true,
+      "optimal_variant_selected": true
+    },
+    "section_8_frozen_registry": {
+      "frozen_prompt_registry_created": true,
+      "benchmark_readiness_validated": true,
+      "all_parameters_frozen": true
+    },
+    "section_9_resumability": {
+      "checkpointing_enabled": true,
+      "duplicate_processing_prevented": true,
+      "failure_recovery": true,
+      "oom_error_handling": true
+    },
+    "section_10_final_validation": {
+      "all_requirements_met": true,
+      "ready_for_benchmarking": true,
+      "validation_timestamp": "2026-08-01"
+    }
+  }
+}

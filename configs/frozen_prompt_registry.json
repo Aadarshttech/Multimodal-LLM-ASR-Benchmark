@@ -1,0 +1,90 @@
+{
+  "gemma4_12b": {
+    "level_0": {
+      "variant_a": "Transcribe the audio.",
+      "variant_b": "Transcribe the audio in Nepali."
+    },
+    "level_1": {
+      "variant_a": "You are an expert Nepali speech recognition system. Transcribe the audio accurately.",
+      "variant_b": "Transcribe the given audio clip. Provide only the Nepali transcription without any additional text."
+    },
+    "level_2": {
+      "variant_a": "Follow these Nepali ASR guidelines: 1) Transcribe spoken Nepali exactly as heard, 2) Preserve code-switching as-is, 3) Do not translate or translate to English, 4) Include all disfluencies and repetitions.",
+      "variant_b": "Transcribe Nepali speech with these rules: Keep code-switching intact, preserve original pronunciation, include hesitation marks, do not correct grammar."
+    },
+    "level_3": {
+      "variant_a": "<audio> Transcribe this Nepali speech: \" terceiro, ausência, educacional, planta, sapato \" → \"terceiro ausência educacional planta sapato\"",
+      "variant_b": "<audio> Convert speech to text in Nepali: Example: \"भात खायो\" → \"भात खायो\""
+    },
+    "level_4": {
+      "variant_a": "<audio1> Transcribe: \" globalization, technology, education \" → \"globalization technology education\" <audio2> Transcribe: \" मero nam ho \" → \" मero nam ho \" <audio3> Transcribe: \" 21st century skills \" → \" 21st century skills \"",
+      "variant_b": "<audio1> Speech to Nepali: \" comida, casa, trabalho \" → \"comida casa trabalho\" <audio2> Nepali transcription example: \" म खान्छु \" → \" म खान्छु \" <audio3> Another example: \" modern education \" → \" modern education \""
+    }
+  },
+  "qwen2_5_omni": {
+    "level_0": {
+      "variant_a": "Transcribe the audio.",
+      "variant_b": "Transcribe the audio in Nepali."
+    },
+    "level_1": {
+      "variant_a": "You are a Nepali speech recognition expert. Transcribe the following audio accurately.",
+      "variant_b": "Convert the speech to Nepali text. Provide only the transcription."
+    },
+    "level_2": {
+      "variant_a": "Nepali ASR Instructions: 1) Transcribe speech exactly as spoken, 2) Maintain code-switching without translation, 3) Include all utterances including fillers, 4) Do not correct grammar or pronunciation.",
+      "variant_b": "For Nepali speech transcription: Keep original language mixing, include uh/um/ah, preserve speaker's exact words, no translation to English."
+    },
+    "level_3": {
+      "variant_a": "<audio> Nepali transcription example: \" weather today nice \" → \" weather today nice \"",
+      "variant_b": "<audio> Convert to Nepali text: Example: \" खानु huncha \" → \" खानु huncha \""
+    },
+    "level_4": {
+      "variant_a": "<audio1> Transcribe: \" artificial intelligence, machine learning \" → \" artificial intelligence machine learning \" <audio2> Nepali example: \" म मद्दत गर्छु \" → \" म मद्दत गर्छु \" <audio3> Tech terms: \" blockchain technology \" → \" blockchain technology \"",
+      "variant_b": "<audio1> Speech to text: \" escola, hospital, escola \" → \" escola hospital escola \" <audio2> Nepali: \" पानी पिउँछु \" → \" पानी पिउँछु \" <audio3> \" digital transformation \" → \" digital transformation \""
+    }
+  },
+  "voxtral_mini": {
+    "level_0": {
+      "variant_a": "Transcribe the audio.",
+      "variant_b": "Transcribe the audio in Nepali."
+    },
+    "level_1": {
+      "variant_a": "You are a Nepali ASR system. Transcribe speech accurately preserving all linguistic features.",
+      "variant_b": "Speech recognition task: Convert audio to Nepali text. Output only the transcription."
+    },
+    "level_2": {
+      "variant_a": "Guidelines for Nepali transcription: 1) Exact transcription of spoken words, 2) Preserve code-switching (English-Nepali mix), 3) Include disfluencies (uh, um, hesitation), 4) No translation or grammar correction.",
+      "variant_b": "Nepali speech to text rules: Keep language mixing intact, include filler words, preserve original pronunciation, do not translate to English."
+    },
+    "level_3": {
+      "variant_a": "<audio> Example: \" software development life cycle \" → \" software development life cycle \"",
+      "variant_b": "<audio> Speech example: \" पानी फर्मियो \" → \" पानी फर्मियो \""
+    },
+    "level_4": {
+      "variant_a": "<audio1> Transcribe: \" cloud computing, data science \" → \" cloud computing data science \" <audio2> Nepali: \" म सुन्ट quencha \" → \" म सुन्ट quencha \" <audio3> \" machine learning models \" → \" machine learning models \"",
+      "variant_b": "<audio1> Example: \" mercado, preço, qualidade \" → \" mercado preço qualidade \" <audio2> Nepali example: \" खाना Schnei cha \" → \" खाना Schnei cha \" <audio3> \" neural networks \" → \" neural networks \""
+    }
+  },
+  "phi4_multimodal": {
+    "level_0": {
+      "variant_a": "Transcribe the audio.",
+      "variant_b": "Transcribe the audio in Nepali."
+    },
+    "level_1": {
+      "variant_a": "You are a multimodal Nepali speech recognition system. Transcribe the audio accurately.",
+      "variant_b": "Multimodal task: Convert speech to Nepali text. Provide transcription only."
+    },
+    "level_2": {
+      "variant_a": "Multimodal Nepali ASR Guidelines: 1) Transcribe exactly as spoken, 2) Preserve code-switching without alteration, 3) Include all vocalizations and non-lexical sounds, 4) Do not translate or correct linguistic features.",
+      "variant_b": "For multimodal Nepali transcription: Keep original language mixing, include speech disfluencies, preserve accent and pronunciation, no English translation."
+    },
+    "level_3": {
+      "variant_a": "<audio> Multimodal example: \" artificial neural network \" → \" artificial neural network \"",
+      "variant_b": "<audio> Speech input example: \" म साउचु \" → \" म साउचु \""
+    },
+    "level_4": {
+      "variant_a": "<audio1> Transcribe: \" deep learning, neural networks \" → \" deep learning neural networks \" <audio2> Nepali: \" म garments काम गर्छु \" → \" म garments काम गर्छु \" <audio3> \" transformer architecture \" → \" transformer architecture \"",
+      "variant_b": "<audio1> Example: \" restaurante, prato, serviço \" → \" restaurante prato serviço \" <audio2> Nepali with code-switch: \" म office जान छु \" → \" म office जान छु \" <audio3> \" attention mechanism \" → \" attention mechanism \""
+    }
+  }
+}
