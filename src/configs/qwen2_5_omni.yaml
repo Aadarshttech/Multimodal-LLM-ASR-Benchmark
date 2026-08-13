@@ -1,0 +1,72 @@
+# Qwen2.5-Omni-3B Configuration
+model_info:
+  name: "Qwen/Qwen2.5-Omni-3B"
+  revision: "main"
+  type: "audio-to-text"  # Native audio processing
+  quantization: "4-bit"
+  max_sequence_length: 32768  # Qwen has long context
+
+# Hardware specifications
+hardware:
+  gpu_type: "Tesla T4"
+  gpu_memory_gb: 15
+  cpu_cores: 2
+  ram_gb: 13
+
+# Processing configuration
+processing:
+  batch_size: 2  # Smaller due to potentially larger model size
+  max_output_tokens: 128
+  temperature: 0.0
+  top_p: 1.0
+  do_sample: false
+  audio_sampling_rate: 16000
+  max_audio_length_seconds: 30
+
+# Chat template for Qwen
+chat_template: |-
+  {% raw %} -%}
+{%- for message in messages %}
+{{- '<|im_start|>' + message['role'] + '\n' + message['content'] + '<|im_end|>' + '\n' -}}
+{%- endfor -%}
+{%- if add_generation_prompt -%}
+{{- '<|im_start|>assistant\n' -}}
+{%- endif -%}
+{%- endblock %}{% endraw %}
+
+# Dependencies
+dependencies:
+  transformers: "4.41.0"
+  torch: "2.3.0"
+  accelerate: "0.29.0"
+  bitsandbytes: "0.43.0"
+  jiwer: "3.0.4"
+  pandas: "2.2.0"
+  librosa: "0.10.2"  # For audio processing
+
+# Prompt configuration
+prompt_settings:
+  selected_prompts:
+    L0: "L0_a"
+    L1: "L1_a"
+    L2: "L2_a"
+    L3: "L3_template"
+    L4: "L4_template"
+
+# Output configuration
+output:
+  save_raw_outputs: true
+  save_cleaned_predictions: true
+  calculate_metrics: true
+  save_results_format: ["jsonl", "csv"]
+  results_directory: "results/prompt_dev/qwen2_5_omni"
+
+# Prompt development settings
+prompt_development:
+  pilot_utterances_count: 15
+  prompt_selection_metrics:
+    - "macro_average_wer"
+    - "overall_wer"
+    - "cer"
+    - "hallucination_rate"
+    - "consistency_across_conditions"

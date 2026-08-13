@@ -1,0 +1,71 @@
+# Gemma 4 12B Configuration
+model_info:
+  name: "google/gemma-4-12b"
+  revision: "main"
+  type: "text-to-text"  # Audio processing would be handled via multimodal adapter
+  quantization: "4-bit"  # Options: None, 8-bit, 4-bit
+  max_sequence_length: 2048
+
+# Hardware specifications
+hardware:
+  gpu_type: "Tesla T4"  # Kaggle P100 equivalent
+  gpu_memory_gb: 15
+  cpu_cores: 2
+  ram_gb: 13
+
+# Processing configuration
+processing:
+  batch_size: 4
+  max_output_tokens: 128
+  temperature: 0.0  # Deterministic decoding
+  top_p: 1.0
+  do_sample: false
+  audio_sampling_rate: 16000  # Hz
+  max_audio_length_seconds: 30
+
+# Chat template (if applicable)
+chat_template: |-
+  {% if messages[0]['role'] == 'system' %}
+    {{ '<start_of_turn'>system\n{{ messages[0]['content'] }}<end_of_turn>\n' }}
+  {% endif %}
+  {% for message in messages %}
+    {{ '<start_of_turn'>' + message['role'] + '\n' + message['content'] + '<end_of_turn>\n' }}
+  {% endfor %}
+  {% if add_generation_prompt %}{{ '<start_of_turn'>model\n' }}{% endif %}
+
+# Dependencies
+dependencies:
+  transformers: "4.41.0"
+  torch: "2.3.0"
+  accelerate: "0.29.0"
+  bitsandbytes: "0.43.0"  # For quantization
+  jiwer: "3.0.4"
+  pandas: "2.2.0"
+
+# Prompt configuration
+prompt_settings:
+  # These will be overridden by the prompt development process
+  selected_prompts:
+    L0: "L0_a"  # Will be determined after prompt development
+    L1: "L1_a"
+    L2: "L2_a"
+    L3: "L3_template"  # With demonstration
+    L4: "L4_template"  # With three demonstrations (if used)
+
+# Output configuration
+output:
+  save_raw_outputs: true
+  save_cleaned_predictions: true
+  calculate_metrics: true
+  save_results_format: ["jsonl", "csv"]  # jsonl always saved, csv optional
+  results_directory: "results/prompt_dev/gemma4_12b"
+
+# Prompt development settings
+prompt_development:
+  pilot_utterances_count: 15
+  prompt_selection_metrics:
+    - "macro_average_wer"
+    - "overall_wer"
+    - "cer"
+    - "hallucination_rate"
+    - "consistency_across_conditions"
