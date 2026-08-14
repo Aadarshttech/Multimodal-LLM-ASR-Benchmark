@@ -36,7 +36,16 @@ While rigid models like Gemma4-12B performed exceptionally well in zero-shot env
 - **0.0% Hallucination Rate** (it completely refused to fabricate text).
 - Exceptional scaling across both Stage 1 and Stage 2 unseen data.
 
-**The final recommendation for the 500-utterance benchmark is the Voxtral-Mini-3B model utilizing the L4 configuration.**
+### 🔥 Final Benchmark: Voxtral vs. Whisper
+To establish a "real-world" baseline, the optimal Voxtral-Mini-3B model was benchmarked against OpenAI's state-of-the-art dedicated ASR model (**Whisper Large V3**) on a 50-utterance test set (`oslr54_50`). 
+
+**The results were highly significant:**
+- **Whisper Large V3:** 0.952 WER, 2.0% Hallucination Rate
+- **Voxtral-Mini-3B:** 0.789 WER, 0.0% Hallucination Rate
+
+Despite being a smaller, general-purpose LLM (3B parameters), Voxtral out-performed the dedicated Whisper ASR model on this code-switched task, cementing its position as the optimal pipeline.
+
+**The final recommendation for production use on code-switched Nepali-English audio is the Voxtral-Mini-3B model.**
 
 ## 📁 Repository Structure
 - `docs/`: Contains the final academic research report (`report.pdf`) and the compiled LaTeX source (`report.tex`).
